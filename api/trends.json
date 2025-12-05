@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:52:54.104155+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2025-12-05T13:41:58.018515+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -290,8 +290,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时41分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -438,8 +438,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 12时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 13时41分]"
+        },
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时41分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -451,17 +462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时52分]"
         },
         {
           "title": "顶住“抛售美国资产”声浪压力，PIMCO靠美债押注出奇制胜",
@@ -602,11 +602,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时52分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时41分]"
         }
       ]
     },
@@ -622,11 +623,12 @@
             4,
             5,
             9,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 12时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 13时41分]"
         }
       ]
     }
