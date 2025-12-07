@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T11:50:38.554147+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-12-07T12:53:47.015809+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -54,15 +54,27 @@
           "time_info": "[00时43分 ~ 07时31分]"
         },
         {
+          "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
+          "url": "https://flash.jin10.com/detail/20251207122838853800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美国发生特大诈骗案 特朗普怒批",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时53分]"
         }
       ]
     },
@@ -130,11 +142,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 11时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 12时53分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -161,11 +174,12 @@
             7,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 11时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 12时53分]"
         }
       ]
     },
