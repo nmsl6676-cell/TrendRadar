@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T16:43:15.760376+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-12-07T17:33:19.845789+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -62,11 +62,12 @@
             4,
             10,
             14,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 17时33分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -91,11 +92,12 @@
             1,
             7,
             11,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 17时33分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -107,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -227,11 +240,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时35分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时35分 ~ 17时33分]"
         }
       ]
     },
