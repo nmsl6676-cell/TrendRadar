@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T12:53:47.015809+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-12-07T13:35:37.136002+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -58,11 +58,23 @@
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
           "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时35分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "13时35分"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -70,11 +82,23 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时35分]"
+        },
+        {
+          "title": "特朗普称其主持典礼会比吉米做得更好",
+          "url": "https://www.toutiao.com/trending/7580414475011047451/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
@@ -146,8 +170,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 13时35分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -159,6 +183,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
@@ -178,26 +231,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 13时35分]"
         }
       ]
     }
