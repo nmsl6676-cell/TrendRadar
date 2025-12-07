@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T13:35:37.136002+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2025-12-07T14:51:20.741226+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -59,22 +59,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时35分]"
-        },
-        {
-          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
-          "url": "https://flash.jin10.com/detail/20251207124750348800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时51分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -83,11 +73,24 @@
           "ranks": [
             27,
             5,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时51分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -96,7 +99,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
@@ -170,8 +173,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 14时51分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -207,11 +210,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 14时51分]"
         }
       ]
     },
@@ -231,8 +235,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 14时51分]"
         }
       ]
     }
