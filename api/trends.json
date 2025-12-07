@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T19:27:12.017737+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-12-07T21:16:34.356299+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -100,16 +100,28 @@
           "time_info": "[13时35分 ~ 17时33分]"
         },
         {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 21时16分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -133,6 +145,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
