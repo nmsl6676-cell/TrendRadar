@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T06:41:07.719226+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-12-09T07:33:48.131441+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -26,8 +26,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普：限期墨西哥释放水资源 否则加征5%关税",
+          "url": "https://flash.jin10.com/detail/20251209070613686800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3017166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
@@ -53,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时29分]"
-        },
-        {
-          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3017166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时41分]"
         },
         {
           "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
@@ -297,6 +309,39 @@
           "time_info": "00时56分"
         },
         {
+          "title": "美国总统特朗普：墨西哥持续违反我们全面的水资源条约。由于墨西哥未能履行我们的条约义务，至今仍欠美国超过80万英亩-英尺的水。",
+          "url": "https://flash.jin10.com/detail/20251209070002373800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：美国需要墨西哥在12月31日前释放20万英亩-英尺的水，其余的必须尽快释放。如果墨西哥不释放水资源，将对墨西哥征收5%的关税。",
+          "url": "https://flash.jin10.com/detail/20251209065932817800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
+          "url": "https://wallstreetcn.com/livenews/3017188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
           "url": "https://flash.jin10.com/detail/20251209025903477800",
           "source": "金十数据",
@@ -328,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
+          "url": "https://flash.jin10.com/detail/20251209063630862800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
@@ -372,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "市场消息：美国法官裁定特朗普禁止风能项目的行政令是非法的。",
+          "url": "https://flash.jin10.com/detail/20251209062839282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
@@ -421,7 +488,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -446,19 +513,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
-          "url": "https://wallstreetcn.com/livenews/3017179",
-          "source": "华尔街见闻-快讯",
+          "title": "三大美股指收跌，H200芯片消息刺激英伟达收涨，欧美国债走低，铜价盘中续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
@@ -479,11 +557,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时33分]"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
+          "url": "https://wallstreetcn.com/livenews/3017179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时41分]"
+          "time_info": "[06时41分 ~ 07时33分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股收盘）",
@@ -510,6 +601,18 @@
           "time_info": "[05时29分 ~ 06时41分]"
         },
         {
+          "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3017176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时33分]"
+        },
+        {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251209050046236800",
           "source": "金十数据",
@@ -534,48 +637,62 @@
           "time_info": "[05时29分 ~ 06时41分]"
         },
         {
-          "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
-          "url": "https://wallstreetcn.com/livenews/3017176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3017174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时33分]"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
           "url": "https://flash.jin10.com/detail/20251209054521705800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时33分]"
         },
         {
           "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
           "url": "https://wallstreetcn.com/livenews/3017172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时33分]"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -592,8 +709,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "谷歌(GOOG.O)最新下跌约2.4%。",
@@ -655,6 +772,18 @@
           "time_info": "[05时29分 ~ 06时41分]"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时33分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
           "url": "https://flash.jin10.com/detail/20251209021608071800",
           "source": "金十数据",
@@ -664,17 +793,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3017167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         },
         {
           "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
@@ -723,8 +841,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "梁文锋入选《自然》年度十大科学人物",
@@ -736,8 +854,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时33分]"
         }
       ]
     },
