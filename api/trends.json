@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T12:58:03.591629+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2025-12-08T13:45:35.880004+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             5,
             4,
             12,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 12时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 13时45分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -35,11 +36,12 @@
             16,
             17,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 12时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 13时45分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -76,6 +78,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 04时36分]"
+        },
+        {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时45分]"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -117,26 +130,17 @@
           "time_info": "[05时28分 ~ 07时30分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
-          "source": "金十数据",
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
           "ranks": [
-            28
+            16,
+            20,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时58分]"
+          "time_info": "[11时48分 ~ 13时45分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -147,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时45分]"
         },
         {
           "title": "网飞与华纳达成收购协议，特朗普警告",
@@ -158,20 +162,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时45分]"
         },
         {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            20
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时25分]"
         },
         {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
@@ -266,11 +269,29 @@
           "url": "https://www.cls.cn/detail/2222331",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 13时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI“红色警报”拉响，30岁ChatGPT负责人走向台前",
+          "url": "https://www.cls.cn/detail/2222099",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
@@ -324,8 +345,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时45分]"
         }
       ]
     }
