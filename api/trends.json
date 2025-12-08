@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:42:49.478674+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-12-08T16:58:17.641664+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -21,11 +21,12 @@
             12,
             16,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 16时58分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -45,18 +46,6 @@
           "time_info": "[00时42分 ~ 15时01分]"
         },
         {
-          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
-          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时36分 ~ 11时48分]"
-        },
-        {
           "title": "特朗普称对泽连斯基感到失望",
           "url": "https://www.toutiao.com/trending/7581294692906716710/",
           "source": "今日头条",
@@ -67,8 +56,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 16时58分]"
+        },
+        {
+          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
+          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时42分]"
+          "time_info": "[04时36分 ~ 11时48分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -191,6 +192,18 @@
           "time_info": "[06时36分 ~ 07时30分]"
         },
         {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时58分]"
+        },
+        {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
           "url": "https://flash.jin10.com/detail/20251208041940775800",
           "source": "金十数据",
@@ -215,15 +228,15 @@
           "time_info": "[11时48分 ~ 12时58分]"
         },
         {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "16时58分"
         },
         {
           "title": "特朗普计划为遭受贸易战打击的农民提供120亿美元援助",
@@ -277,6 +290,18 @@
           "time_info": "[11时48分 ~ 15时01分]"
         },
         {
+          "title": "伊朗诈骗案主谋获死刑，受害者达数万人，涉及金额约3.5亿美元",
+          "url": "https://news.ifeng.com/c/8ousuwo2uQb",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时58分]"
+        },
+        {
           "title": "伊朗外长：核设施虽遭美以摧毁 但伊朗和平核计划决心不变",
           "url": "https://flash.jin10.com/detail/20251208143154274800",
           "source": "金十数据",
@@ -288,24 +313,13 @@
           "time_info": "15时01分"
         },
         {
-          "title": "伊朗诈骗案主谋获死刑，受害者达数万人，涉及金额约3.5亿美元",
-          "url": "https://news.ifeng.com/c/8ousuwo2uQb",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在阿塞拜疆首都巴库会见阿塞拜疆总统阿利耶夫。",
           "url": "https://flash.jin10.com/detail/20251208151514909800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -323,11 +337,12 @@
             11,
             10,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 16时58分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -402,7 +417,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
