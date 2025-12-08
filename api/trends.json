@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T04:42:56.868115+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-12-09T05:29:45.002503+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -19,15 +19,15 @@
           "time_info": "[00时56分 ~ 03时31分]"
         },
         {
-          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
-          "url": "https://flash.jin10.com/detail/20251209042652565800",
-          "source": "金十数据",
+          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3017166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -41,70 +41,124 @@
           "time_info": "[00时56分 ~ 04时42分]"
         },
         {
+          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
+          "url": "https://flash.jin10.com/detail/20251209042652565800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
           "url": "https://flash.jin10.com/detail/20251209042439691800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
           "url": "https://wallstreetcn.com/livenews/3017148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251209042238279800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
           "url": "https://wallstreetcn.com/livenews/3017147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
           "url": "https://flash.jin10.com/detail/20251209041854398800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
           "url": "https://wallstreetcn.com/livenews/3017146",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普：美国不会出现通缩",
+          "url": "https://wallstreetcn.com/livenews/3017143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3017142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
+          "url": "https://flash.jin10.com/detail/20251209041301695800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普的政府支持伊拉克“将俄罗斯石油公司LukOil PJSC在West Qurna 2油田的资产转让给美国公司”的计划。",
@@ -117,6 +171,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时41分]"
+        },
+        {
+          "title": "迪尔农机/约翰迪尔股价短线转跌，美国总统特朗普要求拖拉机行业立即降价。",
+          "url": "https://wallstreetcn.com/livenews/3017139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
+          "url": "https://wallstreetcn.com/livenews/3017134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "奈飞：美国总统特朗普对（本公司收购华纳兄弟探索公司这笔）交易的兴趣“与我们一样”。 特朗普“绝对理解电视行业”。 特朗普“热爱娱乐产业”。",
+          "url": "https://wallstreetcn.com/livenews/3017132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
@@ -142,37 +232,26 @@
           "time_info": "00时56分"
         },
         {
-          "title": "特朗普：美国不会出现通缩",
-          "url": "https://wallstreetcn.com/livenews/3017143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3017142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
-          "url": "https://flash.jin10.com/detail/20251209041301695800",
+          "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
+          "url": "https://flash.jin10.com/detail/20251209045331690800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普政府希望航空公司和机场提供更健康的食品。",
+          "url": "https://flash.jin10.com/detail/20251209044608287800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
@@ -186,26 +265,26 @@
           "time_info": "03时31分"
         },
         {
-          "title": "迪尔农机/约翰迪尔股价短线转跌，美国总统特朗普要求拖拉机行业立即降价。",
-          "url": "https://wallstreetcn.com/livenews/3017139",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
+          "url": "https://flash.jin10.com/detail/20251209043702412800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
         },
         {
-          "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
-          "url": "https://wallstreetcn.com/livenews/3017134",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
+          "url": "https://flash.jin10.com/detail/20251209043642647800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -225,9 +304,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
+          "url": "https://flash.jin10.com/detail/20251209042938587800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
@@ -236,20 +326,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
         {
-          "title": "奈飞：美国总统特朗普对（本公司收购华纳兄弟探索公司这笔）交易的兴趣“与我们一样”。 特朗普“绝对理解电视行业”。 特朗普“热爱娱乐产业”。",
-          "url": "https://wallstreetcn.com/livenews/3017132",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
+          "url": "https://flash.jin10.com/detail/20251209042850771800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
         },
         {
           "title": "美国总统特朗普：我们将取消许多影响拖拉机企业的环境法规。",
@@ -258,9 +348,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
+          "url": "https://flash.jin10.com/detail/20251209042735171800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
@@ -280,7 +381,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -291,7 +392,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -302,7 +403,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -310,7 +411,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -320,8 +421,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时29分]"
         },
         {
           "title": "谷歌(GOOG.O)最新下跌约2.4%。",
@@ -363,11 +464,23 @@
           "url": "https://flash.jin10.com/detail/20251209041755526800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3017156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -398,7 +511,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -417,7 +530,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -426,11 +539,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时29分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -440,19 +554,75 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时29分]"
         },
         {
-          "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
-          "url": "https://wallstreetcn.com/livenews/3017150",
+          "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3017165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时29分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
+          "url": "https://wallstreetcn.com/livenews/3017150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251209050623264800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251209050617161800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
+          "url": "https://flash.jin10.com/detail/20251209050046236800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，欧元兑美元大致持平，报1.1641，亚太尾盘涨至1.1672刷新日高，之后震荡走低，美股盘初显著下跌，欧股收盘前刷新日低至1.1617。",
+          "url": "https://wallstreetcn.com/livenews/3017155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
@@ -468,8 +638,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时29分]"
         },
         {
           "title": "梁文锋入选《自然》年度十大科学人物",
@@ -481,8 +651,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时29分]"
         }
       ]
     },
@@ -495,11 +665,12 @@
           "url": "https://wallstreetcn.com/livenews/3017141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
@@ -541,11 +712,12 @@
           "url": "https://flash.jin10.com/detail/20251209041655857800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时29分]"
         }
       ]
     }
