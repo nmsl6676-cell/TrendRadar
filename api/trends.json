@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T16:58:17.641664+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2025-12-08T17:52:20.475450+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -25,8 +25,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 16时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 17时52分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -53,11 +53,12 @@
             16,
             20,
             7,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 16时58分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 17时52分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -180,6 +181,18 @@
           "time_info": "[00时43分 ~ 03时25分]"
         },
         {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时52分]"
+        },
+        {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
           "url": "https://flash.jin10.com/detail/20251208053436110800",
           "source": "金十数据",
@@ -192,16 +205,15 @@
           "time_info": "[06时36分 ~ 07时30分]"
         },
         {
-          "title": "特朗普政府战略调整，赖清德当局战略冒进",
-          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
-          "source": "凤凰网",
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时58分]"
+          "time_info": "[16时58分 ~ 17时52分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -228,17 +240,6 @@
           "time_info": "[11时48分 ~ 12时58分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
           "title": "特朗普计划为遭受贸易战打击的农民提供120亿美元援助",
           "url": "https://flash.jin10.com/detail/20251208112858564800",
           "source": "金十数据",
@@ -248,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3016887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "美国国会国防授权法案规模达9010亿美元创纪录，超过特朗普要求",
@@ -270,6 +282,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时42分]"
+        },
+        {
+          "title": "美股三大股指期货周一小幅高开。",
+          "url": "https://flash.jin10.com/detail/20251208070101981800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
+          "url": "https://wallstreetcn.com/livenews/3016884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3016879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "摩根大通：美联储降息后美股涨势或难持续",
+          "url": "https://flash.jin10.com/detail/20251208171349979800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -298,8 +372,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时52分]"
         },
         {
           "title": "伊朗外长：核设施虽遭美以摧毁 但伊朗和平核计划决心不变",
@@ -341,8 +415,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 17时52分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -356,35 +430,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧莱雅将所持高德美股份增持至20%。",
-          "url": "https://wallstreetcn.com/livenews/3016758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时42分]"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20251208070101981800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
         }
       ]
     },
