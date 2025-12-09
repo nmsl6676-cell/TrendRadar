@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T17:43:53.441134+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-12-09T18:51:13.288110+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -53,6 +53,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 11时43分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 18时51分]"
         },
         {
           "title": "特朗普：限期墨西哥释放水资源 否则加征5%关税",
@@ -164,18 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时29分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 17时43分]"
         },
         {
           "title": "特朗普女婿，“杀回来了”",
@@ -358,6 +359,17 @@
           "time_info": "[02时55分 ~ 03时31分]"
         },
         {
+          "title": "俄乌双方都想拉拢特朗普女婿",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E9%83%BD%E6%83%B3%E6%8B%89%E6%8B%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
           "url": "https://flash.jin10.com/detail/20251209001747407800",
           "source": "金十数据",
@@ -490,6 +502,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209181308403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国总统特朗普：我们将取消许多影响拖拉机企业的环境法规。",
           "url": "https://flash.jin10.com/detail/20251209034748351800",
           "source": "金十数据",
@@ -529,7 +552,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -603,7 +626,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -701,6 +724,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时41分]"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
@@ -1033,7 +1067,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -1095,7 +1129,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -1148,11 +1182,12 @@
             17,
             15,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 18时51分]"
         }
       ]
     },
@@ -1209,8 +1244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 17时43分]"
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 18时51分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
