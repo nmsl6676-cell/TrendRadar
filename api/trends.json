@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T16:56:55.221913+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2025-12-10T17:46:27.786751+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 16时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 17时46分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -140,11 +140,25 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 17时46分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 17时46分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -264,18 +278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时56分]"
         },
         {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
@@ -441,6 +443,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "美国总统特朗普：将与“几位”美联储主席人选会面。",
           "url": "https://flash.jin10.com/detail/20251210065006849800",
           "source": "金十数据",
@@ -546,7 +559,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -907,8 +920,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时48分 ~ 16时56分]"
+          "appearance_count": 10,
+          "time_info": "[11时48分 ~ 17时46分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -954,11 +967,12 @@
           "url": "https://flash.jin10.com/detail/20251210164920560800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时46分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
