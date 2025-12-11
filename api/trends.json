@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:34:38.603053+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2025-12-11T21:53:57.717162+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 21时53分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -97,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 21时53分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
@@ -123,6 +123,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时41分 ~ 16时57分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时53分]"
         },
         {
           "title": "周三（12月10日），降息赢家指数涨2.84%，报100.19点，美联储宣布降息之前持稳于98.50点——维持上涨状态，之后持续加速上涨。 “特朗普关税输家”指数涨1.71%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.89点，美联储主席鲍威尔新闻发布会临近结束时还曾涨至17.37点刷新日高。",
@@ -183,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时32分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时34分]"
         },
         {
           "title": "美国总统特朗普：我们能够实现比传统数据好得多的成绩。可以在没有通货膨胀的情况下实现巨大增长。",
@@ -461,6 +462,17 @@
           "time_info": "16时57分"
         },
         {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
           "url": "https://flash.jin10.com/detail/20251211175449735800",
           "source": "金十数据",
@@ -470,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：（谈英伟达H200芯片）是美国总统特朗普与英伟达CEO之间的交易。",
+          "url": "https://flash.jin10.com/detail/20251211210900621800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
@@ -489,7 +512,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -604,6 +627,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "泰国为何拒绝特朗普介入调停",
+          "url": "https://www.toutiao.com/trending/7582541154202160690/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
           "url": "https://flash.jin10.com/detail/20251211004151009800",
           "source": "金十数据",
@@ -640,7 +674,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -651,8 +685,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时32分 ~ 19时34分]"
+          "appearance_count": 15,
+          "time_info": "[07时32分 ~ 21时53分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -827,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211211225908800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "美股收盘：三大股指收涨 银行股走强",
