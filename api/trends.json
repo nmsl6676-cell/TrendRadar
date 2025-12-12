@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:49:19.870634+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2025-12-12T19:35:53.187497+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时35分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -42,11 +42,12 @@
             5,
             6,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时44分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[13时44分 ~ 19时35分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -118,6 +119,18 @@
           "time_info": "07时34分"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 19时35分]"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）行动很快就会在陆地上展开。",
           "url": "https://flash.jin10.com/detail/20251212071757771800",
           "source": "金十数据",
@@ -140,6 +153,30 @@
           "time_info": "07时34分"
         },
         {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 19时35分]"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
@@ -149,18 +186,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时50分 ~ 14时59分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 18时49分]"
         },
         {
           "title": "特朗普抱怨从拜登处继承了烂摊子 质疑其取得的成就何时能取得认可",
@@ -275,18 +300,6 @@
           "time_info": "[06时42分 ~ 07时34分]"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 18时49分]"
-        },
-        {
           "title": "特朗普政府据悉计划加大企业减税力度",
           "url": "https://flash.jin10.com/detail/20251212035256895800",
           "source": "金十数据",
@@ -345,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 13时44分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 18时49分]"
         },
         {
           "title": "特朗普称美对委行动很快将延伸至陆地",
@@ -609,7 +610,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -653,7 +654,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -667,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251212184015295800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -716,7 +728,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -802,6 +814,28 @@
           "time_info": "[06时42分 ~ 07时34分]"
         },
         {
+          "title": "美股AI股盘前延续跌势 市场分化加剧",
+          "url": "https://flash.jin10.com/detail/20251212191431260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨3.6%，科埃尔矿业上涨3.5%，恩迪沃银业上涨3.4%，西尔弗科普金属上涨2.3%，iShares白银信托上涨1.4%，Global X白银矿业ETF上涨2.6%。",
+          "url": "https://flash.jin10.com/detail/20251212190620848800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "美股收盘：道指创新高 甲骨文跌超10%",
           "url": "https://flash.jin10.com/detail/20251212050039144800",
           "source": "金十数据",
@@ -833,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美股银矿股盘前普涨，赫克拉矿业上涨3.6%，科埃尔矿业上涨3.5%，恩迪沃银业上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3019902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -915,8 +960,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时57分 ~ 18时49分]"
+          "appearance_count": 9,
+          "time_info": "[12时57分 ~ 19时35分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1049,8 +1094,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时35分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -1113,6 +1158,17 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时35分]"
+        },
+        {
           "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3019406",
           "source": "华尔街见闻-快讯",
@@ -1144,17 +1200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
@@ -1264,7 +1309,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "消息人士：美国正准备扣押更多运输委内瑞拉石油的船只，美国的行动将针对可能运输过其他受制裁原油（如伊朗原油）的油轮。",
@@ -1277,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时34分]"
+        },
+        {
+          "title": "俄罗斯与伊朗两国总统举行会谈 讨论伊核问题等议题",
+          "url": "https://wallstreetcn.com/livenews/3019890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "伊朗外交部谴责美国违背联合国东道国义务",
