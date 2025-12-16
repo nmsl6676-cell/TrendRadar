@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:51:58.140849+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2025-12-16T19:34:51.211586+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 19时34分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -41,6 +41,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时35分]"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 19时34分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -72,20 +88,15 @@
           "time_info": "[01时01分 ~ 07时35分]"
         },
         {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            14,
-            12,
-            10,
-            8,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时34分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时49分 ~ 15时41分]"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时51分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -819,7 +819,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
@@ -865,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
