@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:41:19.189876+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-12-16T16:59:10.164155+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时35分]"
+        },
+        {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 16时59分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -60,16 +72,19 @@
           "time_info": "[01时01分 ~ 07时35分]"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4
+            13,
+            14,
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 16时59分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -120,20 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 15时41分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -210,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时42分]"
+        },
+        {
+          "title": "美乌柏林会谈传佳音 特朗普：从未如此接近达成“和平协议”",
+          "url": "https://www.cls.cn/detail/2230469",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "美国总统特朗普：我今天没看股市，可能涨了。",
@@ -710,7 +722,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
