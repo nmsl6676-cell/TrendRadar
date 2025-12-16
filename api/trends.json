@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T22:55:16.689491+08:00",
-  "total_titles_processed": 1913,
+  "generated_at": "2025-12-16T23:43:45.285084+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 23时43分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -55,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 23时43分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -144,7 +145,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -177,9 +178,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "Citadel创始人Ken Griffin：与美国白宫和美联储保持距离具有重要意义。 美国总统（特朗普）脑子中对下一任美联储主席有不错的人选。 我自己不会对下一任美联储主席的人选发表看法。",
+          "url": "https://wallstreetcn.com/livenews/3021809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -244,6 +256,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时49分]"
+        },
+        {
+          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
+          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时43分]"
+        },
+        {
+          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
+          "url": "https://news.ifeng.com/c/8p8hxedgU29",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时43分]"
         },
         {
           "title": "美国总统特朗普：我今天没看股市，也许它上涨了。",
@@ -329,17 +363,6 @@
           "time_info": "[15时01分 ~ 15时41分]"
         },
         {
-          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
-          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
           "url": "https://wallstreetcn.com/livenews/3021099",
           "source": "华尔街见闻-快讯",
@@ -349,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
-          "url": "https://news.ifeng.com/c/8p8hxedgU29",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         },
         {
           "title": "美国总统特朗普：将开始打击陆地上的毒品走私贩。",
@@ -373,6 +385,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
+          "url": "https://wallstreetcn.com/livenews/3021805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯也想结束这一切。",
           "url": "https://flash.jin10.com/detail/20251216042016772800",
           "source": "金十数据",
@@ -382,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
+          "url": "https://wallstreetcn.com/livenews/3021803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：我们正获得欧洲领导人的巨大支持，他们希望此事尽快结束。",
@@ -401,7 +435,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -478,7 +512,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -503,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国加州就商业车辆安全项目起诉特朗普政府",
@@ -536,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983941746871264912",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
@@ -673,7 +729,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -771,9 +827,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览",
@@ -782,7 +849,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -804,7 +871,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -851,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF跌1.46%，全球科技股指数ETF跌1.02%，半导体ETF跌0.14%，全球航空业ETF则涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3021783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -1103,7 +1181,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         }
