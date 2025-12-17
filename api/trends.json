@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:53:47.397721+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2025-12-17T23:47:02.206815+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -68,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时57分 ~ 22时53分]"
+          "appearance_count": 13,
+          "time_info": "[12时57分 ~ 23时47分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -140,6 +140,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "委内瑞拉国防部长：美国总统特朗普的言论是公然的侵略行为。",
+          "url": "https://flash.jin10.com/detail/20251217231500624800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
           "url": "https://flash.jin10.com/detail/20251217030906763800",
           "source": "金十数据",
@@ -160,17 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：让我们希望，美国不会（军事）“介入”委内瑞拉。 （特朗普政府奉行的军事）封锁伤害（委内瑞拉）人民。",
-          "url": "https://wallstreetcn.com/livenews/3022484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普周三晚的讲话将着重介绍政绩。",
@@ -217,6 +217,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "委内瑞拉国防部长：美国总统特朗普的争端是围绕石油，而非贩毒。",
+          "url": "https://flash.jin10.com/detail/20251217230953345800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
           "url": "https://wallstreetcn.com/livenews/3021864",
           "source": "华尔街见闻-快讯",
@@ -241,6 +252,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时36分]"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：让我们希望，美国不会（军事）“介入”委内瑞拉。 （特朗普政府奉行的军事）封锁伤害（委内瑞拉）人民。",
+          "url": "https://wallstreetcn.com/livenews/3022484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时47分]"
         },
         {
           "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
@@ -278,6 +301,17 @@
           "time_info": "[00时59分 ~ 01时49分]"
         },
         {
+          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
+          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时47分]"
+        },
+        {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
           "url": "https://wallstreetcn.com/livenews/3021857",
           "source": "华尔街见闻-快讯",
@@ -301,6 +335,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时59分 ~ 16时59分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时47分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -432,17 +478,6 @@
           "time_info": "[11时45分 ~ 11时46分]"
         },
         {
-          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
-          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "特朗普长子订婚 女方是何许人",
           "url": "https://www.toutiao.com/trending/7584611681938968083/",
           "source": "今日头条",
@@ -452,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
+          "url": "https://wallstreetcn.com/livenews/3022502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-17）",
@@ -471,7 +517,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -485,17 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
-        },
-        {
-          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -595,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普目前尚未就新的俄罗斯制裁作出任何新决定。",
+          "url": "https://flash.jin10.com/detail/20251217225734830800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -721,6 +767,30 @@
           "time_info": "[06时40分 ~ 07时34分]"
         },
         {
+          "title": "英伟达美股盘初下跌1.58%。 甲骨文下跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时47分]"
+        },
+        {
+          "title": "英伟达美股盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3022475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时47分]"
+        },
+        {
           "title": "美股延续跌势，标普500指数下跌0.7%，纳斯达克指数下跌0.4%，道指下跌0.9%。",
           "url": "https://flash.jin10.com/detail/20251217021740972800",
           "source": "金十数据",
@@ -744,35 +814,13 @@
           "time_info": "21时47分"
         },
         {
-          "title": "英伟达美股盘初下跌1.58%。 甲骨文下跌3.1%。",
-          "url": "https://wallstreetcn.com/livenews/3022478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20251217223652356800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "英伟达美股盘前跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3022475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -805,7 +853,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -838,7 +886,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -871,6 +919,19 @@
           "time_info": "01时49分"
         },
         {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时46分 ~ 23时47分]"
+        },
+        {
           "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
           "url": "https://wallstreetcn.com/livenews/3021861",
           "source": "华尔街见闻-快讯",
@@ -882,18 +943,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时44分]"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 22时53分]"
         },
         {
           "title": "美股盘前，亚马逊涨超1%，报道称公司正洽谈投资OpenAI超100亿美元，并提供自研芯片；美光科技涨超2%，公司将于今日盘后发布最新季度财报；奈飞涨超1%，华纳兄弟据称本周将拒绝派拉蒙收购要约。",
@@ -947,7 +996,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1002,7 +1051,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1031,6 +1080,78 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
+          "url": "https://www.zhihu.com/question/1970631480595190298",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
+          "title": "谷歌拟提升TPU芯片与PyTorch的兼容性 以抢占AI计算市场",
+          "url": "https://flash.jin10.com/detail/20251217230625618800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
+          "url": "https://flash.jin10.com/detail/20251217021002477800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)和Meta Platforms(META.O)项目旨在让TPU在AI程序构建工具PyTorch上良好运行，作为英伟达(NVDA.O)的替代方案。",
+          "url": "https://flash.jin10.com/detail/20251217230212240800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)正与Meta Platforms(META.O)合作，扩大对AI芯片的软件支持。",
+          "url": "https://flash.jin10.com/detail/20251217230125955800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 5,
       "titles": [
@@ -1045,6 +1166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时33分]"
+        },
+        {
+          "title": "伊朗海滩暴雨后变血红色",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B5%B7%E6%BB%A9%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%8F%98%E8%A1%80%E7%BA%A2%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时47分]"
         },
         {
           "title": "英国政府：根据叙利亚制裁制度将4家公司从名单上除名，根据伊朗核制裁制度将1家公司从名单上除名。",
@@ -1078,17 +1211,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "伊朗海滩暴雨后变血红色",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B5%B7%E6%BB%A9%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%8F%98%E8%A1%80%E7%BA%A2%E8%89%B2",
-          "source": "百度热搜",
+          "title": "市场分析：若美国通胀进一步放缓 金价或测试新高",
+          "url": "https://flash.jin10.com/detail/20251217231235842800",
+          "source": "金十数据",
           "ranks": [
-            30
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时53分"
+          "time_info": "23时47分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）上海金早盘价为973.38元/克，较国际金价(976.54元/克)，低3.16元/克",
+          "url": "https://flash.jin10.com/detail/20251217110123946800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3021918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时34分]"
         }
       ]
     },
@@ -1129,63 +1291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
-          "url": "https://www.zhihu.com/question/1970631480595190298",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
-        },
-        {
-          "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
-          "url": "https://flash.jin10.com/detail/20251217021002477800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月17日（周三）上海金早盘价为973.38元/克，较国际金价(976.54元/克)，低3.16元/克",
-          "url": "https://flash.jin10.com/detail/20251217110123946800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "金价在美国11月非农就业报告后出现一波反弹行情",
-          "url": "https://wallstreetcn.com/livenews/3021918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时34分]"
         }
       ]
     },
