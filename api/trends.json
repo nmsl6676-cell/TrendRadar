@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:40:55.323381+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-12-17T16:59:29.259005+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -106,11 +106,12 @@
             2,
             4,
             9,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 16时59分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -190,6 +191,18 @@
           "time_info": "03时33分"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时59分]"
+        },
+        {
           "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
           "url": "https://wallstreetcn.com/livenews/3021864",
           "source": "华尔街见闻-快讯",
@@ -228,17 +241,6 @@
           "time_info": "[05时36分 ~ 06时40分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 15时40分]"
-        },
-        {
           "title": "特朗普下令封锁所有受制裁委油轮",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
@@ -273,6 +275,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时44分]"
+        },
+        {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 16时59分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -359,17 +373,6 @@
           "time_info": "[04时44分 ~ 05时36分]"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时40分]"
-        },
-        {
           "title": "马斯克又要给特朗普花钱了",
           "url": "https://www.toutiao.com/trending/7584667287097986610/",
           "source": "今日头条",
@@ -402,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "特朗普长子订婚 女方是何许人",
@@ -803,7 +817,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
