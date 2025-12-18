@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T12:59:05.120794+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-12-18T13:47:26.813943+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 12时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时59分 ~ 13时47分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -56,19 +56,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 12时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 13时47分]"
         },
         {
-          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
-          "url": "https://flash.jin10.com/detail/20251218121134659800",
-          "source": "金十数据",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            5
+            17,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 13时47分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -133,16 +134,28 @@
           "time_info": "[06时43分 ~ 07时35分]"
         },
         {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
+          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
+          "url": "https://flash.jin10.com/detail/20251218121134659800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            21
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 12时59分]"
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 13时47分]"
         },
         {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
@@ -229,17 +242,6 @@
           "time_info": "[00时59分 ~ 01时48分]"
         },
         {
-          "title": "特朗普发表演讲称接手了一个烂摊子",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
           "url": "https://flash.jin10.com/detail/20251218010257604800",
           "source": "金十数据",
@@ -323,7 +325,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -414,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普将发表全国讲话强调政绩",
+          "url": "https://www.douyin.com/hot/2339868",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -431,8 +444,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 12时59分]"
+          "appearance_count": 9,
+          "time_info": "[06时42分 ~ 13时47分]"
+        },
+        {
+          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2232828",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时42分 ~ 13时47分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -445,19 +471,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时47分 ~ 05时38分]"
-        },
-        {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 12时59分]"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
@@ -599,11 +612,12 @@
           "url": "https://www.cls.cn/detail/2232894",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 13时47分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -690,7 +704,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "ChatGPT找不出美国应对彩虹-7的方法",
@@ -703,6 +717,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 01时48分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
