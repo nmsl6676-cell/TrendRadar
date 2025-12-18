@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-19T06:10:48.674915+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-19T07:11:20.755080+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2233937",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -35,22 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 06时10分]"
-        },
-        {
-          "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
-          "url": "https://flash.jin10.com/detail/20251219051647002800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "appearance_count": 7,
+          "time_info": "[02时16分 ~ 07时11分]"
         },
         {
           "title": "特朗普将签署命令，重新归类大麻",
@@ -74,6 +65,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时12分]"
+        },
+        {
+          "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
+          "url": "https://flash.jin10.com/detail/20251219051647002800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -196,6 +199,18 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
+          "title": "特朗普宣布联邦政府下周多关门两天，但纽交所宣布圣诞前后股市交易照旧",
+          "url": "https://wallstreetcn.com/livenews/3023357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
           "title": "美国总统特朗普：现在实际上并没有通胀问题。",
           "url": "https://wallstreetcn.com/livenews/3023312",
           "source": "华尔街见闻-快讯",
@@ -280,6 +295,28 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
+          "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20251219061408238800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
+          "url": "https://flash.jin10.com/detail/20251219061151314800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
           "url": "https://flash.jin10.com/detail/20251218235931823800",
           "source": "金十数据",
@@ -335,15 +372,15 @@
           "time_info": "05时10分"
         },
         {
-          "title": "特朗普宣布联邦政府下周多关门两天，但纽交所宣布圣诞前后股市交易照旧",
-          "url": "https://wallstreetcn.com/livenews/3023357",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
+          "url": "https://flash.jin10.com/detail/20251219055432229800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时11分"
         },
         {
           "title": "特朗普发布假日行政令，联邦政府将于平安夜和12月26日关闭。",
@@ -443,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普签署行政命令 重申2028年登月目标",
+          "url": "https://flash.jin10.com/detail/20251219054334067800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "美国总统特朗普：现在几乎没有通货膨胀。",
@@ -558,7 +606,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -568,8 +616,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -584,37 +632,62 @@
           "time_info": "[02时16分 ~ 06时10分]"
         },
         {
-          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
-          "url": "https://wallstreetcn.com/livenews/3023366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
-          "url": "https://wallstreetcn.com/livenews/3023365",
+          "title": "甲骨文美股盘后涨3.59%。",
+          "url": "https://wallstreetcn.com/livenews/3023381",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
+          "url": "https://wallstreetcn.com/livenews/3023366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3023365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.01%，报338.36点，北京时间01:00过后出现一波显著的下挫行情。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.08%，报2411.01点。",
           "url": "https://wallstreetcn.com/livenews/3023363",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -633,22 +706,36 @@
           "url": "https://flash.jin10.com/detail/20251219050620585800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251219050618309800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3023355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "美股收盘：三大股指收涨 特朗普旗下公司暴涨超40%",
@@ -657,20 +744,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
         {
-          "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3023355",
+          "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3023371",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时11分"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -701,7 +788,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -712,7 +799,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -742,7 +829,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -753,8 +840,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时11分]"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -763,7 +850,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -865,6 +952,17 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
+          "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3023367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
           "url": "https://flash.jin10.com/detail/20251219031425775800",
           "source": "金十数据",
@@ -950,6 +1048,18 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3023354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
           "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
           "url": "https://wallstreetcn.com/livenews/3023284",
           "source": "华尔街见闻-快讯",
@@ -960,17 +1070,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时11分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
-          "url": "https://wallstreetcn.com/livenews/3023354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         },
         {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
@@ -986,6 +1085,79 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本美债持有规模升至1.2万亿美元",
+          "url": "https://flash.jin10.com/detail/20251219050608165800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
+          "url": "https://wallstreetcn.com/livenews/3023329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
+          "url": "https://flash.jin10.com/detail/20251219060642094800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",
+          "url": "https://wallstreetcn.com/livenews/3023349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -996,11 +1168,12 @@
           "ranks": [
             24,
             27,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[02时16分 ~ 07时11分]"
         },
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
@@ -1035,56 +1208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
-          "url": "https://wallstreetcn.com/livenews/3023329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "日本美债持有规模升至1.2万亿美元",
-          "url": "https://flash.jin10.com/detail/20251219050608165800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         }
       ]
     },
