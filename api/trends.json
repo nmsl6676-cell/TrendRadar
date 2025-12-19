@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:19:34.084745+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2025-12-19T21:27:44.606562+08:00",
+  "total_titles_processed": 2130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时47分 ~ 20时19分]"
+          "appearance_count": 17,
+          "time_info": "[10时47分 ~ 21时27分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -96,11 +96,12 @@
             5,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时49分 ~ 20时19分]"
+          "appearance_count": 18,
+          "time_info": "[08时49分 ~ 21时27分]"
         },
         {
           "title": "特朗普，敢不敢动武？",
@@ -111,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时47分 ~ 20时19分]"
+          "appearance_count": 17,
+          "time_info": "[10时47分 ~ 21时27分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -166,9 +167,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 21时27分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -235,19 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 20时19分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -328,11 +330,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 21时27分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -503,6 +506,18 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时27分]"
+        },
+        {
           "title": "美国总统特朗普：（关于乌克兰会晤）他们正在接近达成某种协议，但我希望乌克兰能迅速采取行动。",
           "url": "https://flash.jin10.com/detail/20251219031631118800",
           "source": "金十数据",
@@ -578,7 +593,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -726,6 +741,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "沃勒获特朗普面试 重点讨论就业市场 鲍曼疑似出局",
+          "url": "https://flash.jin10.com/detail/20251219201628845800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
           "url": "https://flash.jin10.com/detail/20251219024843232800",
           "source": "金十数据",
@@ -759,6 +785,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "据CNBC：特朗普和美联储理事沃勒讨论了劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251219200708179800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "特朗普摊牌了：委内瑞拉夺走石油，美国必须要回来",
           "url": "https://m.thepaper.cn/newsDetail_forward_32201489",
           "source": "澎湃新闻",
@@ -790,17 +827,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "美国高级政府官员：特朗普将于周四签署行政命令，旨在加速将大麻重新归类为第三类管制物质。",
@@ -869,6 +895,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "白宫称，特朗普已签署国防授权法案。",
           "url": "https://wallstreetcn.com/livenews/3023394",
           "source": "华尔街见闻-快讯",
@@ -889,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "巴西总统卢拉：可能需要在圣诞节前再次与美国总统特朗普通话，讨论委内瑞拉问题。",
@@ -979,6 +1027,17 @@
           "time_info": "19时11分"
         },
         {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "巴西总统卢拉：已告知马杜罗和特朗普，巴西愿意帮助防止拉丁美洲地区发生武装对抗。",
           "url": "https://flash.jin10.com/detail/20251218233904758800",
           "source": "金十数据",
@@ -1015,7 +1074,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1051,8 +1110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时47分 ~ 20时19分]"
+          "appearance_count": 17,
+          "time_info": "[10时47分 ~ 21时27分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1205,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "拼多多美股盘前大涨，一度涨逾8%。今日召开年度股东大会，宣布实行联席董事长制度，任命赵佳臻为联席董事长，与陈磊共同担任联席董事长兼联席CEO。",
+          "url": "https://wallstreetcn.com/livenews/3023976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -1839,7 +1909,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
