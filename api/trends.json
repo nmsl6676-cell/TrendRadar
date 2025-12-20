@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T17:10:50.854964+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2025-12-20T18:10:47.212953+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 18时10分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -491,7 +491,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -502,8 +502,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 18时10分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -529,8 +529,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 18时10分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -570,8 +570,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 17时10分]"
+          "appearance_count": 6,
+          "time_info": "[13时11分 ~ 18时10分]"
+        },
+        {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -683,8 +694,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 18时10分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -707,11 +718,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 17时10分]"
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 18时10分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -734,6 +746,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[06时10分 ~ 17时10分]"
+        },
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 11时43分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 12时17分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     },
@@ -780,56 +853,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时10分 ~ 17时10分]"
-        },
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时11分 ~ 11时43分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 12时17分]"
         }
       ]
     },
