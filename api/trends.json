@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T07:11:29.951004+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2025-12-20T08:45:58.764324+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -70,11 +70,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时45分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -82,11 +83,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时45分]"
         },
         {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
@@ -94,11 +96,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时45分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -123,15 +126,39 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
-          "url": "https://wallstreetcn.com/livenews/3024186",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
+          "url": "https://flash.jin10.com/detail/20251220082409385800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
+          "url": "https://flash.jin10.com/detail/20251220081426145800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时45分]"
         },
         {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
@@ -145,16 +172,28 @@
           "time_info": "05时10分"
         },
         {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3024204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
+          "url": "https://flash.jin10.com/detail/20251220035945921800",
           "source": "金十数据",
           "ranks": [
-            6,
-            7
+            8,
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时45分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
@@ -162,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时45分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -181,16 +221,16 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
+          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
+          "url": "https://wallstreetcn.com/livenews/3024186",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时45分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -290,6 +330,29 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
+          "title": "特朗普下令暂停“绿卡抽签”",
+          "url": "https://www.toutiao.com/trending/7584652634205585450/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 08时45分]"
+        },
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
           "url": "https://wallstreetcn.com/livenews/3024133",
           "source": "华尔街见闻-快讯",
@@ -378,17 +441,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "特朗普下令暂停“绿卡抽签”",
-          "url": "https://www.toutiao.com/trending/7584652634205585450/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
           "title": "特朗普：不排除与委内瑞拉开战",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
           "source": "百度热搜",
@@ -403,7 +455,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -430,16 +482,41 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
           "url": "https://wallstreetcn.com/livenews/3024176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时45分]"
+        },
+        {
+          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3024174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时45分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -454,16 +531,48 @@
           "time_info": "[00时13分 ~ 01时11分]"
         },
         {
-          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3024174",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大股指收涨 英伟达涨近4%",
+          "url": "https://flash.jin10.com/detail/20251220080957264800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            15
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251220080420639800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251220080418199800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -486,6 +595,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 08时45分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时10分 ~ 08时45分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         }
       ]
     },
@@ -515,36 +667,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时11分]"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 07时11分]"
         }
       ]
     },
@@ -635,9 +757,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时45分]"
         }
       ]
     }
