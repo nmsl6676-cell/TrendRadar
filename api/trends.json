@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T20:18:10.073515+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-12-21T21:21:54.383408+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时12分 ~ 20时18分]"
+          "appearance_count": 13,
+          "time_info": "[13时12分 ~ 21时21分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -103,6 +104,17 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时17分 ~ 21时21分]"
+        },
+        {
           "title": "特朗普为何推出史上最高金额对台军售",
           "url": "https://www.toutiao.com/trending/7585013065943859238/",
           "source": "今日头条",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 05时08分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "特朗普为何频繁起诉媒体",
@@ -183,11 +184,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时21分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -239,85 +241,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时12分 ~ 20时18分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时15分 ~ 20时18分]"
-        },
-        {
-          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
-          "url": "https://flash.jin10.com/detail/20251221123146651800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            10,
-            13,
-            17,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时12分 ~ 19时09分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 08时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -379,12 +304,166 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时12分 ~ 08时53分]"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时12分 ~ 20时18分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时15分 ~ 21时21分]"
+        },
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            10,
+            13,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 19时09分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 08时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美媒爆以色列准备再次打击伊朗",
+          "url": "https://news.ifeng.com/c/8pGLAZe3Fgx",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时29分 ~ 21时21分]"
+        },
+        {
+          "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
+          "url": "https://flash.jin10.com/detail/20251221195815576800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 21时21分]"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://flash.jin10.com/detail/20251221203127694800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3024435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "以色列拟告知美方或再次打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3024378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 16时13分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -426,6 +505,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时12分 ~ 04时11分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
@@ -473,45 +563,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美媒爆以色列准备再次打击伊朗",
-          "url": "https://news.ifeng.com/c/8pGLAZe3Fgx",
-          "source": "凤凰网",
+          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
+          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "source": "知乎",
           "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 20时18分]"
-        },
-        {
-          "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
-          "url": "https://flash.jin10.com/detail/20251221195815576800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "以色列拟告知美方或再次打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3024378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 16时13分]"
+          "time_info": "21时21分"
         }
       ]
     }
