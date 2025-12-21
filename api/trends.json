@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T18:11:07.959335+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2025-12-21T19:09:08.497300+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时53分 ~ 15时11分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 19时09分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -44,20 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 10时53分]"
-        },
-        {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 18时11分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -93,11 +94,12 @@
             3,
             6,
             10,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 19时09分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -147,6 +149,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 05时08分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -241,8 +254,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时12分 ~ 18时11分]"
+          "appearance_count": 25,
+          "time_info": "[00时12分 ~ 19时09分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -250,11 +263,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 18时11分]"
+          "appearance_count": 9,
+          "time_info": "[14时15分 ~ 19时09分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -266,11 +280,12 @@
             10,
             13,
             17,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 18时11分]"
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 19时09分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -457,8 +472,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 18时11分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 19时09分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
