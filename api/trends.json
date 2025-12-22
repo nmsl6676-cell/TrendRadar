@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:13:00.388561+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-12-22T23:12:06.458927+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[12时01分 ~ 19时10分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时12分 ~ 23时12分]"
+        },
+        {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
           "url": "https://news.ifeng.com/c/8pGiw6orh2a",
           "source": "凤凰网",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时11分 ~ 07时10分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 22时13分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -98,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时40分 ~ 22时13分]"
+          "appearance_count": 17,
+          "time_info": "[12时40分 ~ 23时12分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[02时14分 ~ 16时17分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时12分 ~ 23时12分]"
         },
         {
           "title": "特朗普表态：必须是“超级鸽派”！",
@@ -193,17 +204,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时18分 ~ 19时10分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 22时13分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -374,7 +374,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -406,6 +406,17 @@
           "time_info": "[15时16分 ~ 22时13分]"
         },
         {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时28分 ~ 23时12分]"
+        },
+        {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -431,28 +442,6 @@
           "time_info": "[00时11分 ~ 10时55分]"
         },
         {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时13分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3025002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
           "url": "https://wallstreetcn.com/livenews/3024941",
           "source": "华尔街见闻-快讯",
@@ -463,6 +452,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时21分 ~ 21时28分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时12分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -501,13 +502,57 @@
           "time_info": "[21时28分 ~ 22时13分]"
         },
         {
+          "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251222223624364800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美股开盘，道指涨0.1%，标普500指数涨0.4%，纳指涨0.6%。科技股走高，英伟达(NVDA.O)涨1.5%，美光科技(MU.O)涨4%，甲骨文(ORCL.N)涨2.3%。华纳兄弟探索(WBD.O)涨3.5%，派拉蒙竞购华纳兄弟获拉里·埃里森404亿美元担保。纳斯达克中国金龙指数涨0.2%，阿里巴巴(BABA.N)涨0.3%，百度(BIDU.O)涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20251222223037991800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-22）",
           "url": "https://flash.jin10.com/detail/20251222212925989800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         }
@@ -570,6 +615,17 @@
           "time_info": "[00时11分 ~ 06时10分]"
         },
         {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时21分 ~ 23时12分]"
+        },
+        {
           "title": "美媒：以色列或再打伊朗",
           "url": "https://www.douyin.com/hot/2343367",
           "source": "抖音",
@@ -581,17 +637,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时55分 ~ 17时18分]"
-        },
-        {
-          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
-          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时21分 ~ 22时13分]"
         },
         {
           "title": "伊朗要下场帮委内瑞拉了吗",
@@ -844,6 +889,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内下跌0.50%，现报98.24。英镑兑美元GBP/USD涨至1.3457，创10月17日以来新高。",
+          "url": "https://flash.jin10.com/detail/20251222223718248800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
