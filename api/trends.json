@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T10:55:40.289078+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-12-22T12:01:33.441783+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -38,11 +38,25 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 10时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 12时01分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时14分 ~ 12时01分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -87,30 +101,18 @@
           "time_info": "[00时11分 ~ 07时10分]"
         },
         {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时14分 ~ 10时55分]"
-        },
-        {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
           "ranks": [
             19,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时08分 ~ 10时55分]"
+          "appearance_count": 9,
+          "time_info": "[03时08分 ~ 12时01分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -163,15 +165,48 @@
           "time_info": "[00时11分 ~ 05时09分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
           "url": "https://flash.jin10.com/detail/20251222102452415800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "特朗普任命美国格陵兰岛特使",
+          "url": "https://flash.jin10.com/detail/20251222105005973800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
@@ -247,11 +282,12 @@
           "url": "https://www.douyin.com/hot/2343367",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 12时01分]"
         },
         {
           "title": "美军为何批量山寨伊朗“小摩托”",
@@ -268,7 +304,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价又涨了",
@@ -284,13 +320,24 @@
           "time_info": "[00时11分 ~ 07时10分]"
         },
         {
+          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222110152377800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "金价再创新高，哪些长线逻辑值得关注？",
           "url": "https://flash.jin10.com/detail/20251222102334389800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -301,7 +348,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         }
@@ -321,8 +368,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 10时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 12时01分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -331,9 +378,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 12时01分]"
         }
       ]
     },
@@ -370,25 +417,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
-          "url": "https://www.zhihu.com/question/1985299550479542062",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -402,6 +432,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 10时55分]"
+        },
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
+          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 07时10分]"
         }
       ]
     }
