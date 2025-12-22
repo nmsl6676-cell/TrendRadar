@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:21:18.355709+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2025-12-22T21:28:43.395326+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -83,11 +83,12 @@
             15,
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 20时21分]"
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 21时28分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时18分 ~ 17时18分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 21时28分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -181,17 +193,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时18分 ~ 19时10分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 20时21分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -264,8 +265,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 20时21分]"
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时28分]"
         },
         {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
@@ -280,16 +294,15 @@
           "time_info": "[19时10分 ~ 20时21分]"
         },
         {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
+          "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
+          "url": "https://flash.jin10.com/detail/20251222211021305800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 20时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -361,7 +374,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -460,9 +473,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时28分]"
+        },
+        {
+          "title": "专家：伊朗军事能力恢复令以色列不安",
+          "url": "https://www.toutiao.com/trending/7586595603497356842/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -490,7 +514,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -539,22 +563,35 @@
           "ranks": [
             13,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 20时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时16分 ~ 21时28分]"
+        },
+        {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
           "url": "https://wallstreetcn.com/livenews/3024941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时28分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -573,11 +610,23 @@
           "url": "https://wallstreetcn.com/livenews/3024927",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时28分]"
+        },
+        {
+          "title": "英伟达美股盘前拉升， 现涨近2%",
+          "url": "https://wallstreetcn.com/livenews/3024963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "21时28分"
         }
       ]
     },
@@ -649,7 +698,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
@@ -769,7 +818,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
