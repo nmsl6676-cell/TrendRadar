@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:10:40.240274+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2025-12-24T23:11:47.172236+08:00",
+  "total_titles_processed": 1996,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时15分 ~ 22时10分]"
+          "appearance_count": 10,
+          "time_info": "[17时15分 ~ 23时11分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时53分 ~ 22时10分]"
+          "appearance_count": 17,
+          "time_info": "[11时53分 ~ 23时11分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -214,8 +214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时10分 ~ 22时10分]"
+          "appearance_count": 7,
+          "time_info": "[19时10分 ~ 23时11分]"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -315,6 +315,17 @@
           "time_info": "[01时13分 ~ 02时16分]"
         },
         {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 23时11分]"
+        },
+        {
           "title": "新公布爱泼斯坦案文件涉特朗普 美司法部：部分内容不实",
           "url": "https://wallstreetcn.com/livenews/3026175",
           "source": "华尔街见闻-快讯",
@@ -407,17 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
-        },
-        {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
         },
         {
           "title": "特朗普政府估计还需要大约一周时间，以及审查多达70万页的文件，才能完成所有爱泼斯坦相关文件的公开工作。",
@@ -654,7 +654,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -707,15 +707,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3026248",
-          "source": "华尔街见闻-快讯",
+          "title": "周三美股将提前收市 EIA数据推迟至下周公布",
+          "url": "https://flash.jin10.com/detail/20251224230000001800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "23时11分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）热门中概股行情一览（美股盘中）",
@@ -753,6 +753,18 @@
           "time_info": "[18时12分 ~ 19时10分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 23时11分]"
+        },
+        {
           "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
           "url": "https://wallstreetcn.com/livenews/3026207",
           "source": "华尔街见闻-快讯",
@@ -775,6 +787,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 23时11分]"
         },
         {
           "title": "美股收盘：英伟达涨超3%",
@@ -824,15 +848,26 @@
           "time_info": "[06时11分 ~ 07时10分]"
         },
         {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "23时11分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3026259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "UiPath美股盘后涨5.4%。",
@@ -852,7 +887,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -868,6 +903,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251224223626689800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 标普500创收盘新高",
           "url": "https://flash.jin10.com/detail/20251224050116960800",
           "source": "金十数据",
@@ -877,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美股开盘，道指跌0.1%，标普500指数跌0.03%，纳指跌0.02%。英特尔(INTC.O)跌3%，消息称英伟达暂停测试其18A制程工艺。耐克(NKE.N)涨3%，苹果CEO库克斥资约295万美元买入50000股耐克股票。德纳维制药(DVAX.O)涨38%，创四年来最大涨幅，赛诺菲斥资22亿美元收购德纳维制药。",
+          "url": "https://flash.jin10.com/detail/20251224223029222800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1052,7 +1109,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1127,7 +1184,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
@@ -1136,7 +1193,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1152,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时11分]"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1167,8 +1235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时48分 ~ 22时10分]"
+          "appearance_count": 21,
+          "time_info": "[08时48分 ~ 23时11分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
