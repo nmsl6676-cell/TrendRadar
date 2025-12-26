@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T10:48:09.829966+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-26T11:54:16.270626+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -74,6 +74,28 @@
           "time_info": "[04时12分 ~ 07时10分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 11时54分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -100,26 +122,15 @@
           "time_info": "[08时49分 ~ 10时48分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251226104958577800",
+          "source": "金十数据",
           "ranks": [
-            6
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
@@ -147,7 +158,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -172,7 +183,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -198,8 +209,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 11时54分]"
+        },
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -288,8 +310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时54分]"
         }
       ]
     },
