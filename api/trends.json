@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T19:08:53.376673+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-12-27T20:19:13.631532+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -60,6 +60,18 @@
           "time_info": "[10时45分 ~ 12时24分]"
         },
         {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
@@ -73,6 +85,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时16分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时11分 ~ 20时19分]"
         },
         {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
@@ -102,18 +125,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时50分 ~ 15时11分]"
-        },
-        {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时11分 ~ 19时08分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -155,17 +166,6 @@
           "time_info": "08时47分"
         },
         {
-          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
-          "url": "https://flash.jin10.com/detail/20251227184915067800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -205,17 +205,6 @@
           "time_info": "[13时12分 ~ 16时14分]"
         },
         {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 19时08分]"
-        },
-        {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3027414",
           "source": "华尔街见闻-快讯",
@@ -229,6 +218,18 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时19分]"
+        },
+        {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
           "url": "https://wallstreetcn.com/livenews/3027470",
           "source": "华尔街见闻-快讯",
@@ -239,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 20时19分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
@@ -266,6 +278,18 @@
           "time_info": "[00时12分 ~ 01时10分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
+          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时19分]"
+        },
+        {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -276,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
         },
         {
           "title": "特朗普觊觎委内瑞拉石油被指帝国主义",
@@ -289,6 +324,17 @@
           "time_info": "[12时23分 ~ 12时24分]"
         },
         {
+          "title": "评论员：特朗普搞和平总是制造敌人",
+          "url": "https://www.toutiao.com/trending/7588476767900274226/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
           "url": "https://news.ifeng.com/c/8pQ6l11ek21",
           "source": "凤凰网",
@@ -300,26 +346,15 @@
           "time_info": "10时45分"
         },
         {
-          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
-          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
-          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
           "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
@@ -368,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时47分 ~ 19时08分]"
+          "appearance_count": 15,
+          "time_info": "[08时47分 ~ 20时19分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -409,8 +444,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时47分 ~ 19时08分]"
+          "appearance_count": 15,
+          "time_info": "[08时47分 ~ 20时19分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -575,7 +610,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -588,6 +623,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "金价上涨的受益者这里有一屋",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
         }
       ]
     },
