@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T12:36:58.122578+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2025-12-28T13:16:32.554723+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -78,11 +78,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时16分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 03时08分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -116,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "特朗普为美国带来了什么改变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -150,11 +173,12 @@
           "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时16分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -190,11 +214,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时16分]"
         }
       ]
     },
