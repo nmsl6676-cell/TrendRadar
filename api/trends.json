@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T18:12:38.052118+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-12-30T19:11:03.683281+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 106,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -41,8 +41,34 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时49分 ~ 19时11分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[08时49分 ~ 18时12分]"
+          "time_info": "[11时57分 ~ 19时11分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -60,32 +86,6 @@
           "time_info": "[00时12分 ~ 12时32分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 18时12分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时12分]"
-        },
-        {
           "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
           "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
           "source": "凤凰网",
@@ -93,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "普京称官邸遭袭 特朗普回应",
@@ -105,11 +105,26 @@
             1,
             17,
             24,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 19时11分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时17分 ~ 19时11分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -182,6 +197,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-30）",
+          "url": "https://flash.jin10.com/detail/20251230184012837800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "解放军封岛军演，特朗普表态",
           "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
           "source": "凤凰网",
@@ -238,20 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -403,6 +415,52 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
+        },
+        {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时11分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -657,16 +715,15 @@
           "time_info": "[16时17分 ~ 17时16分]"
         },
         {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时12分]"
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
@@ -691,18 +748,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时12分]"
         },
         {
           "title": "特朗普：伊朗可能“重新集结”，必要时将出手",
@@ -765,6 +810,17 @@
           "time_info": "[03时09分 ~ 04时12分]"
         },
         {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
           "title": "美国总统特朗普：如果他们存在，我们就必须击倒他们。伊朗应该达成协议，但有时情况并非如此。",
           "url": "https://flash.jin10.com/detail/20251230023223943800",
           "source": "金十数据",
@@ -823,17 +879,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时12分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯认为，特朗普和泽连斯基取得的一些成果，让乌克兰有逃避其义务的空间。",
@@ -954,17 +999,6 @@
           "time_info": "05时10分"
         },
         {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
           "title": "俄总统助理：特朗普建议乌方不要试图争取喘息之机",
           "url": "https://flash.jin10.com/detail/20251230012450813800",
           "source": "金十数据",
@@ -993,7 +1027,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -1015,7 +1049,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -1243,7 +1277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -1253,8 +1287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时49分 ~ 18时12分]"
+          "appearance_count": 12,
+          "time_info": "[08时49分 ~ 19时11分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1292,6 +1326,31 @@
           "time_info": "[08时49分 ~ 13时16分]"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 19时11分]"
+        },
+        {
+          "title": "美股热门中概股盘前多数走高，百度(BIDU.O)涨超5%，小鹏汽车(XPEV.N)涨3%，唯品会(VIPS.N)、网易(NTES.O)涨超2%，台积电(TSM.N)、阿里巴巴(BABA.N)涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230184217470800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
           "url": "https://flash.jin10.com/detail/20251230050055980800",
           "source": "金十数据",
@@ -1325,6 +1384,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "百度(BIDU.O)美股盘前涨超5%，港股今日收涨近9%。",
+          "url": "https://flash.jin10.com/detail/20251230183448415800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251230013105062800",
           "source": "金十数据",
@@ -1346,20 +1416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
-        },
-        {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 18时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
@@ -1519,7 +1575,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
