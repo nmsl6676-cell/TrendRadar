@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T14:18:30.805205+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-31T15:15:40.258527+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -75,11 +75,12 @@
             24,
             13,
             12,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时15分]"
         },
         {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
@@ -190,6 +191,17 @@
           "time_info": "[00时14分 ~ 01时13分]"
         },
         {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时15分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -213,26 +225,26 @@
           "time_info": "07时10分"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
           "url": "https://flash.jin10.com/detail/20251231131511777800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
+          "url": "https://wallstreetcn.com/livenews/3029129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -295,8 +307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[08时51分 ~ 15时15分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -780,11 +792,12 @@
           "ranks": [
             19,
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 15时15分]"
         }
       ]
     }
