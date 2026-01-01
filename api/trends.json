@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T19:10:27.016559+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-01-01T20:20:41.558186+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -168,6 +168,17 @@
           "time_info": "[02时16分 ~ 03时08分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
           "url": "https://flash.jin10.com/detail/20260101101032999800",
           "source": "金十数据",
@@ -251,8 +262,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[08时56分 ~ 20时20分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -361,11 +372,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -374,11 +386,12 @@
           "ranks": [
             3,
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -386,11 +399,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -444,6 +458,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗总统：伊朗正处于一场全面战争中",
+          "url": "https://flash.jin10.com/detail/20260101195820608800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
+          "url": "https://wallstreetcn.com/livenews/3029613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "内塔尼亚胡喊话伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 07时10分]"
         }
       ]
     },
@@ -529,24 +583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时11分 ~ 06时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内塔尼亚胡喊话伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时10分 ~ 07时10分]"
         }
       ]
     }
