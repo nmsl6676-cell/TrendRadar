@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T01:10:09.119803+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-01-03T02:16:30.310385+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 02时16分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -30,6 +30,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013319071800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
           "title": "美股中概股大涨 百度涨超10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%8510%25",
           "source": "百度热搜",
@@ -37,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -49,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -58,11 +69,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "半导体ETF美股盘初涨近4%，半导体设备股上涨，引领芯片股走高",
@@ -87,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时10分]"
+        },
+        {
+          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
+          "url": "https://wallstreetcn.com/articles/3762458",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
@@ -136,7 +159,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -146,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -157,8 +180,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -166,11 +189,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3029882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "time_info": "[01时10分 ~ 02时16分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -197,31 +233,32 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
-          "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3029882",
+          "title": "特朗普称美国已做好准备",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
+          "url": "https://wallstreetcn.com/livenews/3029899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时16分"
         },
         {
           "title": "如何看待特朗普回应健康质疑",
           "url": "https://www.toutiao.com/trending/7590742092725358143/",
           "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "特朗普称美国已做好准备",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
           "ranks": [
             27
           ],
@@ -244,8 +281,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -256,8 +293,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
@@ -307,8 +344,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -318,8 +355,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -329,8 +366,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     },
@@ -344,11 +381,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "伊朗骚乱",
@@ -356,11 +394,12 @@
           "source": "微博",
           "ranks": [
             24,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "伊朗",
@@ -371,8 +410,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     },
@@ -386,11 +425,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -401,8 +441,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     }
