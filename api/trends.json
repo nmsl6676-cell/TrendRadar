@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T07:11:16.128623+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-01-02T08:51:39.195636+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时11分]"
+        },
+        {
+          "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
+          "url": "https://wallstreetcn.com/livenews/3029681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -91,6 +102,17 @@
           "time_info": "[00时13分 ~ 02时16分]"
         },
         {
+          "title": "特朗普宣布从芝加哥等三座城市撤军",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
           "url": "https://wallstreetcn.com/livenews/3029637",
           "source": "华尔街见闻-快讯",
@@ -105,7 +127,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
@@ -127,11 +149,12 @@
             4,
             6,
             11,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 07时11分]"
+          "appearance_count": 7,
+          "time_info": "[02时16分 ~ 08时51分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -157,57 +180,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
-          "url": "https://wallstreetcn.com/articles/3762429",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时11分]"
         },
         {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
+          "title": "伊朗多省示威致6死，总统发声",
+          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            16,
-            15,
-            22,
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -252,6 +241,62 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时09分]"
+        },
+        {
+          "title": "消息称OpenAI大力研发音频AI模型",
+          "url": "https://www.toutiao.com/trending/7589869384954150963/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 08时51分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时51分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16,
+            15,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时11分]"
         }
       ]
     },
@@ -267,19 +312,37 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 08时51分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
           "url": "https://flash.jin10.com/detail/20260102070027378800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年美元指数黯然收官！美联储主席动向将左右后市行情",
+          "url": "https://www.cls.cn/detail/2246198",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时51分"
         }
       ]
     }
