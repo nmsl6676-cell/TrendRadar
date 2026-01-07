@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T06:11:28.072532+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-08T07:12:09.813627+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -40,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -51,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
+          "url": "https://flash.jin10.com/detail/20260108065030908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -199,6 +210,18 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
+          "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3032719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
           "url": "https://wallstreetcn.com/livenews/3032617",
           "source": "华尔街见闻-快讯",
@@ -259,6 +282,18 @@
           "time_info": "[01时17分 ~ 02时17分]"
         },
         {
+          "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260108053149928800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
           "url": "https://wallstreetcn.com/livenews/3032614",
           "source": "华尔街见闻-快讯",
@@ -281,6 +316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "特朗普点名雷神公司 威胁切断其与国防部的业务",
+          "url": "https://flash.jin10.com/detail/20260108052338112800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "特朗普推动禁止机构投资者购房",
@@ -307,15 +354,15 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
-          "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
-          "url": "https://wallstreetcn.com/livenews/3032719",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
+          "url": "https://flash.jin10.com/detail/20260108062001008800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -335,20 +382,64 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
         {
-          "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
-          "url": "https://flash.jin10.com/detail/20260108053149928800",
+          "title": "特朗普政府：美国正在研究委内瑞拉石油资金的去向",
+          "url": "https://wallstreetcn.com/livenews/3032739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
+          "url": "https://flash.jin10.com/detail/20260108060632294800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "维持1万亿美元军费？特朗普称2027年美军事预算应是1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3032738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
+          "url": "https://flash.jin10.com/detail/20260108060622273800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：这些采购将包括但不限于美国农产品，以及美国制造的药品、医疗设备和器械。",
+          "url": "https://flash.jin10.com/detail/20260108060546493800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
@@ -362,15 +453,15 @@
           "time_info": "02时17分"
         },
         {
-          "title": "特朗普点名雷神公司 威胁切断其与国防部的业务",
-          "url": "https://flash.jin10.com/detail/20260108052338112800",
+          "title": "美国总统特朗普：我刚刚获悉，委内瑞拉的石油收入将只采购美国制造的产品。",
+          "url": "https://flash.jin10.com/detail/20260108060530372800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
@@ -379,9 +470,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
+          "url": "https://flash.jin10.com/detail/20260108060318362800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普已明确表示，美国将永远支持北约。",
@@ -401,9 +503,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "【内塔尼亚胡：特朗普已为以色列对黎真主党发动新一轮军事行动“开绿灯”】7日获悉，以色列总理内塔尼亚胡向内阁部长透露，美国总统特朗普已为以色列在黎巴嫩对真主党发动新一轮军事行动“开绿灯”。据悉，以色列和美国方面均对黎巴嫩政府在应对真主党威胁方面的表现“表示不满”。不过，暂无信息明确指出以军是否即将对黎巴嫩真主党发起大规模军事打击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3032730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署总统备忘录，指示美国退出66个不再符合美国利益的国际组织。",
+          "url": "https://flash.jin10.com/detail/20260108055541659800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普政府的新饮食指南将确保联邦资金支持真正的食物，以改善公共健康并在整个生命周期中为美国人节省费用。",
@@ -423,9 +547,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普下令：防务企业削减股息和股票回购（规模）。",
+          "url": "https://wallstreetcn.com/livenews/3032727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -437,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉的石油收入只能用于购买美国制造的产品。 采购将包括美国药品和农产品。 委内瑞拉承诺与美国做生意。",
+          "url": "https://wallstreetcn.com/livenews/3032726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国单户住宅租赁公司AMH短线下挫触发交易暂停，特朗普称，将禁止大型机构投资者购买更多独栋住宅。",
@@ -456,7 +602,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -467,7 +613,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -489,16 +635,50 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
+          "url": "https://wallstreetcn.com/livenews/3032717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
+          "url": "https://wallstreetcn.com/livenews/3032715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260108013221722800",
@@ -522,24 +702,13 @@
           "time_info": "02时17分"
         },
         {
-          "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
-          "url": "https://wallstreetcn.com/livenews/3032715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260108050614770800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -550,7 +719,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -561,7 +730,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -572,7 +741,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -583,7 +752,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -591,7 +760,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -601,8 +770,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "伊朗",
@@ -616,8 +785,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -628,8 +797,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -667,6 +836,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "伊朗外交部就美干涉主义立场发表声明",
+          "url": "https://wallstreetcn.com/livenews/3032735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "美国司法部长邦迪：今天，美国对“贝拉1号”（BELLA 1）油轮执行了扣押令。该油轮负责从委内瑞拉和伊朗运输受制裁的石油。",
           "url": "https://flash.jin10.com/detail/20260108021617134800",
           "source": "金十数据",
@@ -684,58 +864,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "时隔七年 谷歌市值重新超越苹果",
-          "url": "https://flash.jin10.com/detail/20260108054913345800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时11分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
-          "url": "https://wallstreetcn.com/livenews/3032705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
-          "url": "https://wallstreetcn.com/livenews/3032700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -743,8 +872,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
           "url": "https://wallstreetcn.com/articles/3762734",
@@ -793,6 +933,58 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "时隔七年 谷歌市值重新超越苹果",
+          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3032705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3032700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -801,11 +993,12 @@
           "url": "https://flash.jin10.com/detail/20260108055003294800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -859,6 +1052,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         }
       ]
     }
