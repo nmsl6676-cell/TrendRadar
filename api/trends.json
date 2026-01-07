@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T16:16:54.969047+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-01-07T17:18:59.680185+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 90,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时51分 ~ 17时18分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -55,6 +55,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 08时52分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 17时18分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -111,18 +125,15 @@
           "time_info": "[13时17分 ~ 16时16分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
           "ranks": [
-            6,
-            7,
-            4,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 17时18分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -141,15 +152,16 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
           "ranks": [
-            7
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 16时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时18分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -178,18 +190,6 @@
           "time_info": "[04时12分 ~ 07时11分]"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时16分]"
-        },
-        {
           "title": "特朗普称若输中期选举或被弹劾",
           "url": "https://www.toutiao.com/trending/7591446002708774921/",
           "source": "今日头条",
@@ -210,6 +210,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
+          "url": "https://flash.jin10.com/detail/20260107171146691800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普：将与国防承包商对话。",
@@ -505,6 +538,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "特朗普说若输了中期选举可能被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3032302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "金十整理：对委发动“闪电战”后，还有谁被纳入特朗普下一步行动的“高风险清单”？",
           "url": "https://flash.jin10.com/detail/20260107145900151800",
           "source": "金十数据",
@@ -514,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
@@ -536,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "特朗普要对格陵兰岛“动真格”？白宫：正考虑各种方案，不排除武力夺取！",
+          "url": "https://www.cls.cn/detail/2249959",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -830,7 +896,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -863,7 +929,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1066,7 +1132,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1160,7 +1226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1234,7 +1300,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1246,11 +1312,12 @@
             17,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 17时18分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1321,6 +1388,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "以色列会否对伊朗发动军事打击",
+          "url": "https://www.toutiao.com/trending/7592500059699154474/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗安全部队突袭医院引燃新一轮抗议，死亡人数上升至29",
           "url": "https://wallstreetcn.com/livenews/3031843",
           "source": "华尔街见闻-快讯",
@@ -1335,7 +1413,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1387,6 +1465,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
+          "url": "https://flash.jin10.com/detail/20260107165757917800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "金十图示：2026年01月07日（周三）上海金早盘价为1003.92元/克，较国际金价(1004.33元/克)，低0.41元/克",
           "url": "https://flash.jin10.com/detail/20260107101853429800",
           "source": "金十数据",
@@ -1396,6 +1485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "投资者获利了结 金价微跌并关注美国经济数据",
+          "url": "https://flash.jin10.com/detail/20260107164717455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "大摩预计今年第四季度金价升至4800美元",
