@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T08:52:01.757345+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-01-08T10:52:08.864385+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时52分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -37,11 +37,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时52分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -53,6 +54,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -342,6 +354,17 @@
           "time_info": "[02时17分 ~ 03时13分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
+        },
+        {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
           "url": "https://flash.jin10.com/detail/20260108031010315800",
           "source": "金十数据",
@@ -352,6 +375,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "弹劾阴影下特朗普开启“保命战”",
+          "url": "https://www.toutiao.com/trending/7592784463789035050/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         },
         {
           "title": "美国家公园年卡遮特朗普头像将失效",
@@ -448,9 +482,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "美媒：特朗普筹划控制委国有石油公司 目标是将油价压低至50美元/桶",
+          "url": "https://flash.jin10.com/detail/20260108101132148800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "美国总统特朗普：这些采购将包括但不限于美国农产品，以及美国制造的药品、医疗设备和器械。",
@@ -470,7 +515,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -503,7 +548,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -536,9 +581,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
+          "url": "https://flash.jin10.com/detail/20260108100300956800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "哥伦比亚总统佩特罗要求特朗普恢复两国之间的沟通。 佩特罗称，与特朗普讨论了毒品走私和委内瑞拉问题。",
@@ -547,7 +603,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -583,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "特朗普希望将油价降至每桶50美元。 特朗普政府计划将对委内瑞拉国家石油公司施加一定控制。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3032854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署总统备忘录，指示美国退出66个不再符合美国利益的国际组织。",
@@ -668,7 +735,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -682,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普团队正起草关于可负担性的行政命令。（Political）",
+          "url": "https://wallstreetcn.com/livenews/3032839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "据Punchbowl：美国总统特朗普将于2月24日发表国情咨文。",
@@ -701,9 +779,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
+          "url": "https://wallstreetcn.com/livenews/3032837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统采取了历史性的行动，以确保药品价格最低。",
@@ -739,13 +828,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美国副总统万斯：特朗普将对格陵兰岛做出最终决定。 格陵兰岛对美国国家安全至关重要。 丹麦人对安全领域投资不足。 特朗普愿意在格陵兰岛问题上尽其所能。",
+          "url": "https://wallstreetcn.com/livenews/3032830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "消息人士和当地媒体称，美国总统特朗普与哥伦比亚总统于周三进行了通话。",
           "url": "https://flash.jin10.com/detail/20260108071959053800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         }
@@ -790,8 +890,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时52分]"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -898,7 +998,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -906,11 +1006,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 08时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 10时52分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2251045",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -923,6 +1035,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 10时52分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股盘中）",
@@ -1015,8 +1138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 10时52分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1163,9 +1286,49 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 10时52分]"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
+          "url": "https://flash.jin10.com/detail/20260108102327736800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -1207,34 +1370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价已在历史高位 央行为何还在买",
-          "url": "https://www.toutiao.com/trending/7592763349536869894/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 08时52分]"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
         }
       ]
     }
