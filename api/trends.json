@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T06:10:35.328806+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-01-12T07:11:00.082310+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
@@ -27,8 +27,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993777619401929393",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗警告美以：若遭攻击必将还击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼3天",
+          "url": "https://news.ifeng.com/c/8pqCxO7hS7y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
@@ -45,17 +80,6 @@
           "time_info": "[00时12分 ~ 06时10分]"
         },
         {
-          "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993777619401929393",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
           "url": "https://wallstreetcn.com/livenews/3034747",
           "source": "华尔街见闻-快讯",
@@ -64,19 +88,6 @@
             10,
             19,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "伊朗警告美以：若遭攻击必将还击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -137,38 +148,31 @@
           "time_info": "[00时12分 ~ 06时10分]"
         },
         {
+          "title": "伊朗“大量人员”在近期骚乱中死亡",
+          "url": "https://www.toutiao.com/trending/7594047712492830730/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时11分]"
+        },
+        {
           "title": "伊朗政府多举措应对局势，强化安全与供应",
           "url": "https://wallstreetcn.com/livenews/3034768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼3天",
-          "url": "https://news.ifeng.com/c/8pqCxO7hS7y",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "伊朗德黑兰省省长称抗议群体已大幅减少",
-          "url": "https://flash.jin10.com/detail/20260112053102735800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
@@ -184,37 +188,29 @@
           "time_info": "[00时12分 ~ 05时10分]"
         },
         {
-          "title": "伊朗已有111名安全人员在近期骚乱中丧生",
-          "url": "https://flash.jin10.com/detail/20260112052020962800",
+          "title": "伊朗伊斯兰革命卫队：已有数百人在近期骚乱中丧生",
+          "url": "https://flash.jin10.com/detail/20260112053946672800",
           "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时11分"
         },
         {
-          "title": "伊朗已有111名安全人员在近期骚乱中丧生",
-          "url": "https://wallstreetcn.com/livenews/3034774",
+          "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
+          "url": "https://wallstreetcn.com/livenews/3034759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3,
+            10,
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "内塔尼亚胡：以方正密切关注伊朗局势发展",
-          "url": "https://flash.jin10.com/detail/20260112045412659800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时11分 ~ 07时11分]"
         },
         {
           "title": "伊朗总统：我们将挺过这次危机。",
@@ -227,20 +223,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "伊朗“大量人员”在近期骚乱中死亡",
-          "url": "https://www.toutiao.com/trending/7594047712492830730/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时10分]"
         },
         {
           "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
@@ -267,17 +249,28 @@
           "time_info": "[00时12分 ~ 04时11分]"
         },
         {
-          "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
-          "url": "https://wallstreetcn.com/livenews/3034759",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗德黑兰省省长称抗议群体已大幅减少",
+          "url": "https://flash.jin10.com/detail/20260112053102735800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            10,
-            13
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 06时10分]"
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗已有111名安全人员在近期骚乱中丧生",
+          "url": "https://flash.jin10.com/detail/20260112052020962800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "阿联酋多家航司飞往伊朗的航班复航",
@@ -285,11 +278,36 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗已有111名安全人员在近期骚乱中丧生",
+          "url": "https://wallstreetcn.com/livenews/3034774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "time_info": "[06时10分 ~ 07时11分]"
+        },
+        {
+          "title": "内塔尼亚胡：以方正密切关注伊朗局势发展",
+          "url": "https://flash.jin10.com/detail/20260112045412659800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         },
         {
           "title": "阿联酋多家航司飞往伊朗的航班复航",
@@ -297,11 +315,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "据伊朗国家媒体：在抗议者从伊朗伦敦大使馆大楼扯下伊朗国旗后，伊朗召见英国大使。",
@@ -309,11 +328,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "内塔尼亚胡：以方正密切关注伊朗局势发展",
@@ -321,11 +341,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -333,11 +354,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "伊朗在北呼罗珊省逮捕两名摩萨德特工",
@@ -345,11 +367,23 @@
           "source": "金十数据",
           "ranks": [
             10,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364046",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "time_info": "[07时10分 ~ 07时11分]"
         }
       ]
     },
@@ -366,8 +400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -378,8 +412,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时11分]"
+        },
+        {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -396,39 +465,15 @@
           "time_info": "[00时12分 ~ 06时10分]"
         },
         {
-          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
-          "url": "https://wallstreetcn.com/articles/3763038",
-          "source": "华尔街见闻",
+          "title": "全美抗议 特朗普“后院”失火",
+          "url": "https://www.toutiao.com/trending/7594088610216361990/",
+          "source": "今日头条",
           "ranks": [
-            6
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时11分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -457,15 +502,18 @@
           "time_info": "[00时12分 ~ 05时10分]"
         },
         {
-          "title": "全美抗议 特朗普“后院”失火",
-          "url": "https://www.toutiao.com/trending/7594088610216361990/",
-          "source": "今日头条",
+          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3034760",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            4,
+            11,
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时10分]"
+          "appearance_count": 4,
+          "time_info": "[04时11分 ~ 07时11分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -509,11 +557,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
@@ -521,24 +570,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
-        },
-        {
-          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3034760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            14
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时11分 ~ 06时10分]"
+          "time_info": "[05时10分 ~ 07时11分]"
         },
         {
           "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
@@ -557,11 +594,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
         }
       ]
     },
@@ -577,11 +615,12 @@
             1,
             2,
             14,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -611,8 +650,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     },
@@ -642,11 +681,12 @@
           "url": "https://flash.jin10.com/detail/20260112043651261800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时11分]"
         }
       ]
     },
@@ -663,8 +703,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     }
