@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-12T07:11:00.082310+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-01-12T08:54:32.926754+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
+          "url": "https://news.ifeng.com/c/8ppRgtAuFbr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
+        },
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
           "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
@@ -20,17 +31,6 @@
           "time_info": "[00时12分 ~ 07时11分]"
         },
         {
-          "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
-          "url": "https://news.ifeng.com/c/8ppRgtAuFbr",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/1993777619401929393",
           "source": "知乎",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
         },
         {
           "title": "伊朗警告美以：若遭攻击必将还击",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼3天",
@@ -194,7 +194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -382,14 +382,58 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 08时54分]"
+        },
+        {
+          "title": "伊朗哀悼3天",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%93%80%E6%82%BC3%E5%A4%A9%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "伊朗为骚乱中死难人员举行全国哀悼",
+          "url": "https://www.toutiao.com/trending/7594247421249457691/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "据NBC洛杉矶分部：一辆卡车冲入洛杉矶就伊朗问题举行示威活动的人群。",
+          "url": "https://flash.jin10.com/detail/20260112081656111800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "伊朗111名安全人员丧生",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97111%E5%90%8D%E5%AE%89%E5%85%A8%E4%BA%BA%E5%91%98%E4%B8%A7%E7%94%9F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -397,11 +441,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -423,20 +468,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -445,6 +478,18 @@
           "ranks": [
             12,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -476,6 +521,17 @@
           "time_info": "[01时09分 ~ 07时11分]"
         },
         {
+          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
+          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
           "url": "https://flash.jin10.com/detail/20260111220151159800",
           "source": "金十数据",
@@ -500,6 +556,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -600,6 +667,178 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美国总统特朗普：我们谈论的是获取（格陵兰岛），而不是短期拥有。",
+          "url": "https://flash.jin10.com/detail/20260112083009294800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛应该达成协议。",
+          "url": "https://flash.jin10.com/detail/20260112082857634800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
+          "url": "https://wallstreetcn.com/livenews/3034828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：美国正密切关注伊朗，并考虑可能的应对方案。",
+          "url": "https://flash.jin10.com/detail/20260112082810573800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：我听说周二或周三将与委内瑞拉的马查多会面。",
+          "url": "https://flash.jin10.com/detail/20260112082604426800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "关于委内瑞拉，特朗普称，一切进展顺利。 不喜欢埃克森美孚对委内瑞拉问题的回应。 倾向于让埃克森美孚排除在外。",
+          "url": "https://wallstreetcn.com/livenews/3034824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：我们可能会让互联网（在伊朗）恢复运行，会与马斯克沟通。",
+          "url": "https://flash.jin10.com/detail/20260112082447101800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普谈伊朗：非常严肃地关注局势。正在考虑强硬选项。我们会做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3034823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢埃克森美孚的回应，可能会将埃克森美孚拒之门外。",
+          "url": "https://flash.jin10.com/detail/20260112082340589800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在研究针对伊朗非常强硬的选项。军方正在研究此事。",
+          "url": "https://flash.jin10.com/detail/20260112082316526800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉领导人合作良好，进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260112082151005800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "报告称2026年中国科技巨头指数将首超美股七巨头",
+          "url": "https://wallstreetcn.com/livenews/3034810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
@@ -639,6 +878,62 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "地缘政治风险升温提振避险需求 金价上涨",
+          "url": "https://flash.jin10.com/detail/20260112080527536800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20260112083545120800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美元指数DXY短线下跌10点，现报99.13。",
+          "url": "https://flash.jin10.com/detail/20260112080938113800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -650,25 +945,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价飙升 多家银行公告提醒",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时54分]"
         }
       ]
     },
@@ -687,24 +965,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     }
