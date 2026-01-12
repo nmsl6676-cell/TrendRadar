@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T12:11:33.821695+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-01-12T13:22:34.956496+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -37,11 +37,12 @@
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 13时22分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 08时54分]"
+        },
+        {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 13时22分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -93,17 +105,6 @@
           "time_info": "[01时09分 ~ 07时11分]"
         },
         {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时11分]"
-        },
-        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -121,9 +122,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时22分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -161,6 +162,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3034991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 13时22分]"
         },
         {
           "title": "特朗普称信用卡公司若不设定利率上限将违法",
@@ -250,19 +275,6 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
-          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
-          "url": "https://www.cls.cn/detail/2254115",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时11分]"
-        },
-        {
           "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
           "url": "https://wallstreetcn.com/livenews/3034723",
           "source": "华尔街见闻-快讯",
@@ -272,6 +284,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 03时08分]"
+        },
+        {
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时22分]"
+        },
+        {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时22分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -287,38 +335,16 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时11分]"
-        },
-        {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时11分]"
-        },
-        {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
+          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3034951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            7
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时11分]"
+          "time_info": "[12时11分 ~ 13时22分]"
         },
         {
           "title": "特朗普发图自称委内瑞拉代总统",
@@ -327,7 +353,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -360,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -407,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3034951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "据NBC：特朗普否认参与司法部对美联储发出传票行动，表示“对此一无所知”。",
@@ -470,7 +485,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -508,6 +523,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "分析师：特朗普攻击美联储动摇市场信心",
+          "url": "https://flash.jin10.com/detail/20260112115831082800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "特朗普否认参与司法部向美联储发出的传票。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3034896",
           "source": "华尔街见闻-快讯",
@@ -517,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "特朗普对台问题表态引岛内热议",
+          "url": "https://www.douyin.com/hot/2364980",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人合作良好，进展顺利。",
@@ -644,11 +681,12 @@
             9,
             10,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 13时22分]"
         },
         {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
@@ -941,6 +979,18 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
+          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
+          "url": "https://www.zhihu.com/question/1989482381921518040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时22分]"
+        },
+        {
           "title": "据伊朗国家媒体：在抗议者从伊朗伦敦大使馆大楼扯下伊朗国旗后，伊朗召见英国大使。",
           "url": "https://flash.jin10.com/detail/20260112040756782800",
           "source": "金十数据",
@@ -993,17 +1043,6 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
-          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
-          "url": "https://www.zhihu.com/question/1989482381921518040",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时11分]"
-        },
-        {
           "title": "伊朗政府宣布全国哀悼三天",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
           "source": "百度热搜",
@@ -1012,8 +1051,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时22分]"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.cls.cn/detail/2254259",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时11分]"
+          "time_info": "[12时11分 ~ 13时22分]"
         },
         {
           "title": "伊朗警告若遭攻击必将还击",
@@ -1029,6 +1080,17 @@
         },
         {
           "title": "伊朗哀悼3天",
+          "url": "https://www.douyin.com/hot/2364835",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时22分]"
+        },
+        {
+          "title": "伊朗哀悼3天",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%93%80%E6%82%BC3%E5%A4%A9%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
@@ -1037,28 +1099,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼三天",
-          "url": "https://www.cls.cn/detail/2254259",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "伊朗哀悼3天",
-          "url": "https://www.douyin.com/hot/2364835",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "伊朗为骚乱中死难人员举行全国哀悼",
@@ -1111,24 +1151,25 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
+          "url": "https://www.cls.cn/detail/2254455",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时22分]"
+        },
+        {
           "title": "国内金饰价格跟随国际金价走高 最高报1429元/克",
           "url": "https://flash.jin10.com/detail/20260112113127730800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
-          "url": "https://www.cls.cn/detail/2254455",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -1139,7 +1180,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -1200,11 +1241,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 13时22分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -1212,11 +1254,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 13时22分]"
         },
         {
           "title": "报告称2026年中国科技巨头指数将首超美股七巨头",
@@ -1233,7 +1276,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -1263,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 06时10分]"
+        },
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
