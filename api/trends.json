@@ -1,11 +1,398 @@
 {
-  "generated_at": "2026-01-15T04:11:27.404785+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-01-15T05:11:51.218463+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时11分]"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260115044111087800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：与丹麦关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3037286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：我想会有办法的。",
+          "url": "https://flash.jin10.com/detail/20260115044104596800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：我不能指望丹麦。",
+          "url": "https://flash.jin10.com/detail/20260115044054055800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
+          "url": "https://wallstreetcn.com/livenews/3037193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及是否排除对伊朗采取军事行动）我们会观察事态发展，然后再做决定。",
+          "url": "https://flash.jin10.com/detail/20260115043926070800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
+          "url": "https://wallstreetcn.com/livenews/3037256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时11分]"
+        },
+        {
+          "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
+          "url": "https://flash.jin10.com/detail/20260115015652993800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时12分]"
+        },
+        {
+          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
+          "url": "https://wallstreetcn.com/livenews/3037268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 05时11分]"
+        },
+        {
+          "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
+          "url": "https://wallstreetcn.com/livenews/3037215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时18分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260115043826743800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
+          "url": "https://wallstreetcn.com/livenews/3037280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
+          "url": "https://flash.jin10.com/detail/20260115043746236800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260115043632565800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普敲定首笔委内瑞拉石油大单 5亿美金落袋",
+          "url": "https://flash.jin10.com/detail/20260115030842839800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普称伊朗“杀戮”已停止 或暗示暂缓对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260115042905002800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
+          "url": "https://wallstreetcn.com/livenews/3037276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普一句话油价短线暴跌4%",
+          "url": "https://flash.jin10.com/detail/20260115041419369800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
+          "url": "https://flash.jin10.com/detail/20260115002530191800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美最高法院未就特朗普政府关税合法性作出裁决",
+          "url": "https://wallstreetcn.com/livenews/3037174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
+          "url": "https://flash.jin10.com/detail/20260115040624036800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
+          "url": "https://flash.jin10.com/detail/20260115040402898800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3037168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260115040309665800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普当场被激怒，白宫称抗议者是“歇斯底里的疯子”，福特将其停职",
+          "url": "https://wallstreetcn.com/livenews/3037167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
+          "url": "https://flash.jin10.com/detail/20260115040252991800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普当场被激怒，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3037163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普签署关键矿物行政命令。",
+          "url": "https://flash.jin10.com/detail/20260115040151639800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "美军机沿伊朗边界飞行",
@@ -30,6 +417,45 @@
           "time_info": "[00时16分 ~ 04时11分]"
         },
         {
+          "title": "伊朗高级将领：伊朗处于最高战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%A4%84%E4%BA%8E%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            18,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时11分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 05时11分]"
+        },
+        {
+          "title": "伊朗：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
           "url": "https://flash.jin10.com/detail/20260115023154682800",
           "source": "金十数据",
@@ -41,41 +467,39 @@
           "time_info": "03时12分"
         },
         {
-          "title": "胡塞武装：伊朗目前局势系美以“制造的动荡”",
-          "url": "https://wallstreetcn.com/livenews/3037273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
           "title": "伊朗高级将领：伊朗处于最高战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%A4%84%E4%BA%8E%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
+          "url": "https://www.toutiao.com/trending/7595176797369679910/",
+          "source": "今日头条",
           "ranks": [
+            13,
             15,
-            18,
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "time_info": "[01时19分 ~ 05时11分]"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "凤凰直击丨伊朗举行大规模公开葬礼，民众高喊打倒美以口号",
+          "url": "https://news.ifeng.com/c/8pv5H7n3Wrv",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            22
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "“星链”在伊朗免费部署，境内已有约5万台终端，伊方公布缴获的设备！",
+          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
@@ -100,29 +524,29 @@
           "time_info": "00时16分"
         },
         {
-          "title": "伊朗高级将领：伊朗处于最高战备状态",
-          "url": "https://www.toutiao.com/trending/7595176797369679910/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时11分]"
-        },
-        {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
           "url": "https://wallstreetcn.com/livenews/3037258",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时11分]"
+        },
+        {
+          "title": "胡塞武装：伊朗目前局势系美以“制造的动荡”",
+          "url": "https://wallstreetcn.com/livenews/3037273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时11分]"
+          "time_info": "[04时11分 ~ 05时11分]"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -189,7 +613,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -200,7 +624,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -214,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
+          "url": "https://flash.jin10.com/detail/20260115040940398800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -233,7 +668,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -244,9 +679,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "市场消息：西班牙要求公民离开伊朗。",
+          "url": "https://flash.jin10.com/detail/20260115040228347800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -273,171 +719,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时11分]"
-        },
-        {
-          "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
-          "url": "https://wallstreetcn.com/livenews/3037193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
-          "url": "https://wallstreetcn.com/livenews/3037268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
-          "url": "https://flash.jin10.com/detail/20260115015652993800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时12分]"
-        },
-        {
-          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
-          "url": "https://wallstreetcn.com/livenews/3037256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时11分]"
-        },
-        {
-          "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
-          "url": "https://wallstreetcn.com/livenews/3037215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时18分]"
-        },
-        {
-          "title": "特朗普敲定首笔委内瑞拉石油大单 5亿美金落袋",
-          "url": "https://flash.jin10.com/detail/20260115030842839800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
-          "url": "https://flash.jin10.com/detail/20260115002530191800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美最高法院未就特朗普政府关税合法性作出裁决",
-          "url": "https://wallstreetcn.com/livenews/3037174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3037168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普当场被激怒，白宫称抗议者是“歇斯底里的疯子”，福特将其停职",
-          "url": "https://wallstreetcn.com/livenews/3037167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普当场被激怒，白宫回应",
-          "url": "https://wallstreetcn.com/livenews/3037163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
@@ -450,19 +731,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时11分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时11分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -484,8 +766,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时11分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -514,6 +796,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时11分]"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -527,8 +850,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时11分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -557,25 +880,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3037234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时11分]"
         }
       ]
     },
