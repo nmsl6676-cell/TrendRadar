@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T03:17:26.884207+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-16T04:14:37.531016+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -39,28 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
-          "url": "https://wallstreetcn.com/livenews/3038173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
-          "url": "https://flash.jin10.com/detail/20260116024657437800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -89,15 +78,40 @@
           "time_info": "[00时21分 ~ 02时22分]"
         },
         {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
+          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
+          "url": "https://wallstreetcn.com/livenews/3038173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
+          "url": "https://flash.jin10.com/detail/20260116024657437800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
+          "url": "https://wallstreetcn.com/livenews/3038171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：（在面对特朗普吞并野心方面）格陵兰可以依靠欧盟。",
@@ -124,6 +138,18 @@
           "time_info": "[00时21分 ~ 01时24分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
+          "url": "https://wallstreetcn.com/livenews/3038168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
+        },
+        {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
           "url": "https://wallstreetcn.com/livenews/3038113",
           "source": "华尔街见闻-快讯",
@@ -136,15 +162,40 @@
           "time_info": "[00时21分 ~ 01时24分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
-          "url": "https://wallstreetcn.com/livenews/3038171",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
+          "url": "https://wallstreetcn.com/livenews/3038164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://wallstreetcn.com/livenews/3038163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
+          "url": "https://wallstreetcn.com/livenews/3038162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时14分]"
         },
         {
           "title": "内塔尼亚胡密电特朗普 劝阻特朗普对伊动武",
@@ -153,7 +204,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -164,18 +215,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
-          "url": "https://wallstreetcn.com/livenews/3038168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -186,9 +226,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
+          "url": "https://flash.jin10.com/detail/20260116035008804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
+          "url": "https://flash.jin10.com/detail/20260116034814439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普期望信用卡公司降低成本。",
@@ -197,18 +259,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
-          "url": "https://wallstreetcn.com/livenews/3038164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -219,31 +270,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
-          "url": "https://wallstreetcn.com/livenews/3038163",
-          "source": "华尔街见闻-快讯",
+          "title": "委反对派领袖会见特朗普，后者拒绝为其掌权背书",
+          "url": "https://flash.jin10.com/detail/20260116034634748800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "04时14分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
-          "url": "https://wallstreetcn.com/livenews/3038162",
-          "source": "华尔街见闻-快讯",
+          "title": "委内瑞拉反对派领袖马查多拒绝透露她是否已将诺贝尔和平奖献给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260116034316836800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "04时14分"
+        },
+        {
+          "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
+          "url": "https://flash.jin10.com/detail/20260116034226096800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
@@ -285,7 +347,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -318,7 +380,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
@@ -336,8 +398,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -347,8 +409,109 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 04时14分]"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "美国宣布对伊朗实施新制裁",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            9,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "美国财政部对伊朗实施新制裁",
+          "url": "https://www.douyin.com/hot/2369134",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "伊朗领空重新开放",
+          "url": "https://www.douyin.com/hot/2369011",
+          "source": "抖音",
+          "ranks": [
+            22,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            30,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "美国财政部宣布对伊朗实施新制裁",
@@ -362,78 +525,17 @@
           "time_info": "00时21分"
         },
         {
-          "title": "王毅同伊朗外长通电话",
-          "url": "https://www.douyin.com/hot/2368882",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "美国宣布对伊朗实施新制裁",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
+          "title": "美航母打击群调往中东 伊朗最高战备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
           "source": "百度热搜",
           "ranks": [
-            15,
-            14,
-            9
+            19,
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            9,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "美国财政部对伊朗实施新制裁",
-          "url": "https://www.douyin.com/hot/2369134",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
@@ -446,45 +548,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "伊朗领空重新开放",
-          "url": "https://www.douyin.com/hot/2369011",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
-        },
-        {
-          "title": "美航母打击群调往中东 伊朗最高战备",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时21分 ~ 03时17分]"
         },
         {
@@ -584,7 +647,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
@@ -603,30 +666,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 04时14分]"
         },
         {
           "title": "房利美和房地美股价下跌9%，跌至盘中低点。",
@@ -688,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -733,18 +798,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
-          "url": "https://flash.jin10.com/detail/20260116010451484800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时22分]"
-        },
-        {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -755,8 +808,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
+        },
+        {
+          "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
+          "url": "https://flash.jin10.com/detail/20260116010451484800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时22分]"
         }
       ]
     },
@@ -772,8 +837,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         },
         {
           "title": "金价",
@@ -783,8 +848,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 04时14分]"
         }
       ]
     },
@@ -798,11 +863,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时14分]"
         }
       ]
     },
