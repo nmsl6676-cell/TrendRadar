@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T22:10:14.438772+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-01-17T23:10:34.953225+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时44分 ~ 22时10分]"
+          "appearance_count": 16,
+          "time_info": "[10时44分 ~ 23时10分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -99,6 +99,17 @@
           "time_info": "[00时15分 ~ 14时16分]"
         },
         {
+          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
+          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时11分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
@@ -111,19 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时48分 ~ 22时10分]"
-        },
-        {
-          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
-          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 22时10分]"
+          "appearance_count": 18,
+          "time_info": "[08时48分 ~ 23时10分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -185,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 22时10分]"
+          "appearance_count": 8,
+          "time_info": "[17时11分 ~ 23时10分]"
         },
         {
           "title": "圆脸评特朗普获赠和平奖",
@@ -206,11 +206,12 @@
           "ranks": [
             1,
             4,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -222,6 +223,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "英媒：特朗普羡慕中国",
+          "url": "https://www.toutiao.com/trending/7596316947638128154/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "英媒刊文：特朗普羡慕中国",
+          "url": "https://news.ifeng.com/c/8pzKiGJBBlF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
@@ -263,6 +286,20 @@
           "time_info": "[19时09分 ~ 22时10分]"
         },
         {
+          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
+          "url": "https://flash.jin10.com/detail/20260117194356394800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
+        },
+        {
           "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3039055",
           "source": "华尔街见闻-快讯",
@@ -278,17 +315,17 @@
           "time_info": "[08时49分 ~ 13时12分]"
         },
         {
-          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
-          "url": "https://flash.jin10.com/detail/20260117194356394800",
-          "source": "金十数据",
+          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
+          "url": "https://wallstreetcn.com/livenews/3039132",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
+            4,
             8,
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
+          "time_info": "[21时23分 ~ 23时10分]"
         },
         {
           "title": "以关税换领土？ 特朗普拟动用关税武器敲开北极门户",
@@ -313,18 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
-        },
-        {
-          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
-          "url": "https://wallstreetcn.com/livenews/3039132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时10分]"
         },
         {
           "title": "“两房”股价连遭重创 特朗普抵押贷款债券指令引发私有化推迟忧虑",
@@ -363,6 +388,20 @@
           "time_info": "[00时15分 ~ 01时17分]"
         },
         {
+          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
+          "url": "https://flash.jin10.com/detail/20260117193443128800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
+        },
+        {
           "title": "哈梅内伊：特朗普是罪犯",
           "url": "https://wallstreetcn.com/livenews/3039111",
           "source": "华尔街见闻-快讯",
@@ -391,6 +430,20 @@
           "time_info": "[08时49分 ~ 12时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
+          "url": "https://flash.jin10.com/detail/20260117185814130800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
           "url": "https://www.cls.cn/detail/2260775",
           "source": "财联社热门",
@@ -412,19 +465,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时23分 ~ 22时10分]"
-        },
-        {
-          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
-          "url": "https://flash.jin10.com/detail/20260117193443128800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
@@ -479,19 +519,6 @@
           "time_info": "[19时09分 ~ 21时23分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
-          "url": "https://flash.jin10.com/detail/20260117185814130800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
-        },
-        {
           "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
           "source": "澎湃新闻",
@@ -531,6 +558,17 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 23时10分]"
+        },
+        {
           "title": "美国总统特朗普在致埃及总统塞西的信中表示，美国已准备好重启在埃及与埃塞俄比亚之间的调解工作，以期“一劳永逸”地解决尼罗河水分配问题。",
           "url": "https://flash.jin10.com/detail/20260117042328558800",
           "source": "金十数据",
@@ -541,6 +579,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时11分 ~ 07时11分]"
+        },
+        {
+          "title": "哈梅内伊：特朗普应被视为犯罪",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%94%E8%A2%AB%E8%A7%86%E4%B8%BA%E7%8A%AF%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 23时10分]"
         },
         {
           "title": "特朗普称或对反格陵兰岛计划国加关税",
@@ -662,17 +711,6 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
-          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
           "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
           "url": "https://wallstreetcn.com/livenews/3039027",
           "source": "华尔街见闻-快讯",
@@ -732,17 +770,6 @@
           "time_info": "[17时11分 ~ 18时11分]"
         },
         {
-          "title": "哈梅内伊：特朗普应被视为犯罪",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%94%E8%A2%AB%E8%A7%86%E4%B8%BA%E7%8A%AF%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
           "title": "美国财长贝森特谈及白宫顾问哈塞特不会去美联储，声称：这是总统特朗普的特权。 特朗普并没有告诉我“他自己对美联储主席人选的想法”。",
           "url": "https://wallstreetcn.com/livenews/3039021",
           "source": "华尔街见闻-快讯",
@@ -766,6 +793,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://news.ifeng.com/c/8pzabzvCx7D",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "特朗普急推“白宫版”医疗方案 力挽家庭开支信任危机",
           "url": "https://flash.jin10.com/detail/20260117003803396800",
           "source": "金十数据",
@@ -786,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
+          "url": "https://flash.jin10.com/detail/20260117220514244800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "特朗普自曝暂缓打伊朗原因",
@@ -819,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32405652",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "特朗普版“影子联合国”？特朗普“和平委员会”职能扩容遭抵制",
@@ -989,7 +1049,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -1104,6 +1164,28 @@
           "time_info": "[08时49分 ~ 13时12分]"
         },
         {
+          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
+          "url": "https://wallstreetcn.com/livenews/3039145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
+          "url": "https://flash.jin10.com/detail/20260117222342714800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
           "url": "https://flash.jin10.com/detail/20260117184028196800",
           "source": "金十数据",
@@ -1116,6 +1198,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时09分 ~ 22时10分]"
+        },
+        {
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://flash.jin10.com/detail/20260117194655217800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
         },
         {
           "title": "伊朗全境已恢复互联网服务",
@@ -1132,29 +1228,31 @@
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://flash.jin10.com/detail/20260117194655217800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
-        },
-        {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
           "url": "https://wallstreetcn.com/livenews/3039126",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             10,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
+        },
+        {
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时10分]"
         },
         {
           "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
@@ -1181,19 +1279,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时11分 ~ 10时45分]"
-        },
-        {
-          "title": "伊朗谴责七国集团干涉伊朗内政",
-          "url": "https://wallstreetcn.com/livenews/3039124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 22时10分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -1408,8 +1493,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时11分 ~ 22时10分]"
+          "appearance_count": 19,
+          "time_info": "[07时11分 ~ 23时10分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1550,8 +1635,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时11分 ~ 22时10分]"
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 23时10分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
