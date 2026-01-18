@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T20:19:03.864979+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-01-18T21:23:20.147560+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -55,8 +55,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 20时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 21时23分]"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 21时23分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -85,17 +96,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时11分 ~ 17时11分]"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 20时19分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -275,15 +275,16 @@
           "time_info": "19时08分"
         },
         {
-          "title": "特朗普发布个人黑白照",
-          "url": "https://wallstreetcn.com/livenews/3039253",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 21时23分]"
         },
         {
           "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
@@ -317,6 +318,19 @@
           "time_info": "[12时34分 ~ 17时11分]"
         },
         {
+          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
           "url": "https://flash.jin10.com/detail/20260118101022725800",
           "source": "金十数据",
@@ -343,26 +357,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
-          "url": "https://flash.jin10.com/detail/20260118193942749800",
+          "title": "加拿大总理卡尼：（当被问及为何接受特朗普的邀请加入加沙和平委员会时）加拿大将尽一切努力解决加沙的苦难。",
+          "url": "https://flash.jin10.com/detail/20260118210000996800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时23分"
         },
         {
-          "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
-          "url": "https://flash.jin10.com/detail/20260118191109864800",
-          "source": "金十数据",
+          "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
+          "url": "https://wallstreetcn.com/livenews/3039260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "21时23分"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -390,28 +404,18 @@
           "time_info": "[12时34分 ~ 15时12分]"
         },
         {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 20时19分]"
-        },
-        {
-          "title": "特朗普竞选团队前顾问也怕被ICE抓：我随身携带护照和身份证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408146",
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19
+            14,
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时34分 ~ 20时19分]"
+          "time_info": "[18时11分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -425,6 +429,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 12时34分]"
+        },
+        {
+          "title": "特朗普发布个人黑白照",
+          "url": "https://wallstreetcn.com/livenews/3039253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
@@ -445,24 +461,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时23分]"
+        },
+        {
+          "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
+          "url": "https://flash.jin10.com/detail/20260118193942749800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时23分]"
+        },
+        {
+          "title": "文件显示，特朗普的和平委员会章程规定，成员任期为三年，但那些捐赠10亿美元资金的成员除外。",
+          "url": "https://flash.jin10.com/detail/20260118191109864800",
+          "source": "金十数据",
+          "ranks": [
+            5,
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时19分]"
+          "time_info": "[20时19分 ~ 21时23分]"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
-          "source": "澎湃新闻",
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            10,
-            9
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 21时23分]"
         },
         {
           "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
@@ -527,6 +567,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时15分 ~ 15时12分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-18）",
+          "url": "https://flash.jin10.com/detail/20260118181223418800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时23分]"
         },
         {
           "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
@@ -628,18 +681,6 @@
           "time_info": "[08时56分 ~ 11时01分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-18）",
-          "url": "https://flash.jin10.com/detail/20260118181223418800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时19分]"
-        },
-        {
           "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
           "url": "https://flash.jin10.com/detail/20260118080920006800",
           "source": "金十数据",
@@ -650,17 +691,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 11时01分]"
-        },
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
         },
         {
           "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
@@ -766,8 +796,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时01分 ~ 20时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时01分 ~ 21时23分]"
         },
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
@@ -871,6 +901,20 @@
           "time_info": "[08时56分 ~ 16时14分]"
         },
         {
+          "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3039223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            29,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 21时23分]"
+        },
+        {
           "title": "伊朗西南部省份抓捕多名骚乱组织者",
           "url": "https://flash.jin10.com/detail/20260118134258519800",
           "source": "金十数据",
@@ -898,29 +942,30 @@
           "time_info": "[18时11分 ~ 20时19分]"
         },
         {
-          "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3039223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 20时19分]"
-        },
-        {
           "title": "伊朗与伊拉克联合发声：携手应对挑战 维护地区安全",
           "url": "https://flash.jin10.com/detail/20260118183721887800",
           "source": "金十数据",
           "ranks": [
             4,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时23分]"
+        },
+        {
+          "title": "伊朗与伊拉克联合发声：携手应对挑战 维护地区安全",
+          "url": "https://wallstreetcn.com/livenews/3039233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时23分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -945,18 +990,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时11分 ~ 20时19分]"
-        },
-        {
-          "title": "伊朗与伊拉克联合发声：携手应对挑战 维护地区安全",
-          "url": "https://wallstreetcn.com/livenews/3039233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时19分]"
         },
         {
           "title": "哈梅内伊：美煽动策划了伊朗国内骚乱",
@@ -1032,8 +1065,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 20时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时17分 ~ 21时23分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -1045,8 +1078,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 20时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 21时23分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -1141,8 +1174,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时23分]"
         }
       ]
     },
