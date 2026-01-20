@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T10:55:51.958135+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-01-20T12:03:00.038354+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 10时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 12时02分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -95,6 +95,17 @@
           "time_info": "[00时15分 ~ 08时50分]"
         },
         {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时02分]"
+        },
+        {
           "title": "欧洲8国集体回应特朗普关税威胁",
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
           "source": "凤凰网",
@@ -104,6 +115,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 12时02分]"
         },
         {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
@@ -117,37 +142,13 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时55分]"
-        },
-        {
           "title": "特朗普嫉妒中国已是公开秘密",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%89%E5%A6%92%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%98%AF%E5%85%AC%E5%BC%80%E7%A7%98%E5%AF%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -158,7 +159,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -212,6 +213,30 @@
           "time_info": "[02时16分 ~ 03时13分]"
         },
         {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 12时02分]"
+        },
+        {
           "title": "马克龙据悉将拒绝特朗普“和平委员会”的邀请",
           "url": "https://flash.jin10.com/detail/20260120013738284800",
           "source": "金十数据",
@@ -236,30 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时13分]"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时55分]"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -369,6 +370,17 @@
           "time_info": "[07时11分 ~ 08时50分]"
         },
         {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
           "url": "https://flash.jin10.com/detail/20260120045515099800",
           "source": "金十数据",
@@ -380,13 +392,24 @@
           "time_info": "06时12分"
         },
         {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美贸易代表：若最高法院作出不利裁决 特朗普可以立即祭出替代关税",
           "url": "https://flash.jin10.com/detail/20260120102026796800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -408,7 +431,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -433,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "接近法国总统马克龙的人士透露，法国方面目前决定暂不接受加入特朗普“和平委员会”的邀请。",
@@ -584,6 +618,30 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 12时02分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 12时02分]"
+        },
+        {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3039842",
           "source": "华尔街见闻-快讯",
@@ -594,28 +652,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时16分]"
-        },
-        {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -642,47 +678,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 05时10分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时55分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -721,12 +718,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美元指数DXY跌破99，日内跌0.05%。",
+          "url": "https://flash.jin10.com/detail/20260120112111284800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -740,8 +748,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 10时55分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 12时02分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -757,6 +765,56 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
+          "url": "https://flash.jin10.com/detail/20260120110210284800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 05时10分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 12时02分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
