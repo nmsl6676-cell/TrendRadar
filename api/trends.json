@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T19:09:29.569152+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-01-25T20:20:19.817980+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时09分]"
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 20时20分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -68,11 +68,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 19时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 20时20分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -86,6 +87,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 20时20分]"
         },
         {
           "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
@@ -123,8 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时12分 ~ 19时09分]"
+          "appearance_count": 21,
+          "time_info": "[00时12分 ~ 20时20分]"
         },
         {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
@@ -140,18 +155,22 @@
           "time_info": "[00时12分 ~ 11时08分]"
         },
         {
-          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://wallstreetcn.com/articles/3764087",
-          "source": "华尔街见闻",
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
+            5,
+            6,
             7,
-            6
+            9,
+            12,
+            13,
+            19,
+            24
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时09分]"
+          "time_info": "[12时44分 ~ 20时20分]"
         },
         {
           "title": "特朗普称已获取7艘扣押油轮石油",
@@ -184,21 +203,17 @@
           "time_info": "[00时12分 ~ 08时57分]"
         },
         {
-          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
-          "url": "https://wallstreetcn.com/livenews/3043350",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            7,
-            9,
-            12,
-            13,
-            19
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 19时09分]"
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 20时20分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -258,16 +273,17 @@
           "time_info": "[07时10分 ~ 15时14分]"
         },
         {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时09分]"
+          "appearance_count": 7,
+          "time_info": "[14时17分 ~ 20时20分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
@@ -285,19 +301,6 @@
           "time_info": "[12时44分 ~ 17时12分]"
         },
         {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时17分 ~ 19时09分]"
-        },
-        {
           "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
           "url": "https://flash.jin10.com/detail/20260125094240876800",
           "source": "金十数据",
@@ -310,6 +313,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时08分 ~ 15时14分]"
+        },
+        {
+          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
+          "url": "https://flash.jin10.com/detail/20260125194457069800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3043386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
@@ -331,11 +356,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时20分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -374,6 +400,28 @@
           "time_info": "[14时17分 ~ 17时12分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时20分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时20分]"
+        },
+        {
           "title": "挪威首相批评特朗普北约言论“有失尊重”",
           "url": "https://flash.jin10.com/detail/20260125084239117800",
           "source": "金十数据",
@@ -386,26 +434,16 @@
           "time_info": "[11时08分 ~ 13时21分]"
         },
         {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
+          "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
+          "url": "https://flash.jin10.com/detail/20260125181854471800",
+          "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
-        },
-        {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
+          "time_info": "[19时09分 ~ 20时20分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -441,17 +479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时09分]"
-        },
-        {
-          "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
-          "url": "https://flash.jin10.com/detail/20260125181854471800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
         },
         {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血、倒地难起",
@@ -507,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "特朗普抢夺格陵兰岛可能隐藏AI计划",
+          "url": "https://www.toutiao.com/trending/7599245110806580746/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "特朗普：美国将取得格陵兰岛美军基地所在区域“主权”",
@@ -589,7 +627,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
@@ -642,6 +680,17 @@
           "time_info": "[02时15分 ~ 07时10分]"
         },
         {
+          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
+          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "伊朗军方说已做好迎战敌人准备",
           "url": "https://flash.jin10.com/detail/20260125105022586800",
           "source": "金十数据",
@@ -677,6 +726,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "靛蓝航空：鉴于伊朗近期局势发展，原定于1月25日从德里飞往第比利斯以及从孟买飞往阿拉木图并返程的航班已取消。",
+          "url": "https://flash.jin10.com/detail/20260125185722956800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "伊朗民众：美国“心理战”不起作用",
+          "url": "https://www.toutiao.com/trending/7598650468516085766/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "专家：美对伊朗极限施压增加地区风险",
@@ -715,11 +786,12 @@
           "ranks": [
             12,
             11,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时17分 ~ 19时09分]"
+          "appearance_count": 7,
+          "time_info": "[14时17分 ~ 20时20分]"
         },
         {
           "title": "金价波动",
@@ -835,11 +907,12 @@
             2,
             5,
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 19时09分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 20时20分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
@@ -863,11 +936,12 @@
           "url": "https://www.toutiao.com/trending/7599237350652120626/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 20时20分]"
         }
       ]
     }
