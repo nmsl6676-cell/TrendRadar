@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T08:57:49.077595+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-01-25T11:08:32.243890+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -59,28 +59,30 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://www.cls.cn/detail/2268653",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 08时57分]"
-        },
-        {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
           "url": "https://flash.jin10.com/detail/20260124214240253800",
           "source": "金十数据",
           "ranks": [
             9,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 08时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 11时08分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://www.cls.cn/detail/2268653",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 11时08分]"
         },
         {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
@@ -88,11 +90,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 08时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 11时08分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
@@ -137,20 +140,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时08分]"
         },
         {
-          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260125094240876800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3043311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 11时08分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -166,16 +182,27 @@
           "time_info": "[06时10分 ~ 08时57分]"
         },
         {
-          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3043311",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            8
+            1,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时10分 ~ 08时57分]"
+          "time_info": "[08时57分 ~ 11时08分]"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 11时08分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -201,15 +228,26 @@
           "time_info": "[00时12分 ~ 01时09分]"
         },
         {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
+          "title": "特朗普称已获取7艘扣押油轮石油",
+          "url": "https://wallstreetcn.com/livenews/3043341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "挪威首相批评特朗普北约言论“有失尊重”",
+          "url": "https://flash.jin10.com/detail/20260125084239117800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "为何特朗普想要格陵兰岛",
@@ -218,9 +256,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3043338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
@@ -229,7 +278,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -240,7 +289,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -251,7 +300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -262,7 +311,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -273,7 +322,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -367,11 +416,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 08时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 11时08分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -379,11 +429,40 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 08时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 11时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3043305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时10分]"
+        },
+        {
+          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
+          "url": "https://www.zhihu.com/question/1996908423174910237",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
@@ -414,23 +493,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 02时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3043305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 06时10分]"
         }
       ]
     }
