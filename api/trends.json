@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T12:44:11.594612+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-01-25T13:21:32.152422+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -59,6 +59,17 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
+          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
+          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时21分]"
+        },
+        {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
           "url": "https://flash.jin10.com/detail/20260124214240253800",
           "source": "金十数据",
@@ -82,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 12时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 11时08分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
-          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
@@ -152,9 +152,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时21分]"
         },
         {
           "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
@@ -167,8 +180,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 13时21分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
@@ -177,9 +190,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时21分]"
+        },
+        {
+          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
+          "url": "https://wallstreetcn.com/articles/3764090",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时21分]"
+        },
+        {
+          "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260125094240876800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时21分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -207,39 +244,16 @@
           "time_info": "[08时57分 ~ 11时08分]"
         },
         {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时44分]"
-        },
-        {
-          "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
-          "url": "https://flash.jin10.com/detail/20260125094240876800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
-        },
-        {
-          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
-          "url": "https://wallstreetcn.com/articles/3764090",
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "特朗普称已获取7艘扣押油轮石油",
@@ -250,19 +264,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
-        },
-        {
-          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://wallstreetcn.com/articles/3764087",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时21分]"
         },
         {
           "title": "挪威首相批评特朗普北约言论“有失尊重”",
@@ -273,8 +276,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时21分]"
         },
         {
           "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
@@ -285,8 +288,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时21分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -310,6 +313,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时09分]"
+        },
+        {
+          "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血、倒地难起",
+          "url": "https://news.ifeng.com/c/8qCTUGtfKG0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "为何特朗普想要格陵兰岛",
@@ -440,9 +454,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时21分]"
         },
         {
           "title": "专家：美对伊朗极限施压增加地区风险",
@@ -454,6 +468,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
+          "url": "https://www.zhihu.com/question/1997605038588129408",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "金价疯涨的底层逻辑",
+          "url": "https://www.toutiao.com/trending/7598709483937730099/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时15分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -496,8 +551,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 12时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时21分]"
         }
       ]
     },
@@ -525,38 +580,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 12时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
-          "url": "https://www.zhihu.com/question/1997605038588129408",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "金价疯涨的底层逻辑",
-          "url": "https://www.toutiao.com/trending/7598709483937730099/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 13时21分]"
         }
       ]
     },
