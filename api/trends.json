@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T14:22:24.244279+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-01-26T15:20:34.714590+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 15时20分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -119,6 +119,19 @@
           "time_info": "[00时13分 ~ 08时56分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 15时20分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普很看重北约。",
           "url": "https://flash.jin10.com/detail/20260125225503860800",
           "source": "金十数据",
@@ -157,18 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时22分]"
         },
         {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
@@ -340,6 +341,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "特朗普称政府正“全面审查”移民执法人员枪杀美公民事件",
           "url": "https://wallstreetcn.com/livenews/3043497",
           "source": "华尔街见闻-快讯",
@@ -379,7 +391,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -409,7 +421,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -476,17 +488,6 @@
           "time_info": "[00时13分 ~ 05时10分]"
         },
         {
-          "title": "美国派出重兵合围伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "伊朗对美发出警告：若遭军事打击将袭击美航母",
           "url": "https://flash.jin10.com/detail/20260126104803956800",
           "source": "金十数据",
@@ -496,6 +497,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "美国派出重兵合围伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时20分]"
         },
         {
           "title": "伊朗武装力量已进入全面戒备状态",
@@ -516,22 +529,35 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时20分]"
         },
         {
           "title": "伊朗称若遭军事打击将袭击美航母",
           "url": "https://www.toutiao.com/trending/7599250332044230719/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时20分]"
+        },
+        {
+          "title": "美国派出重兵“合围伊朗”",
+          "url": "https://www.toutiao.com/trending/7599514410310209067/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "土耳其外长警告外部势力勿插手伊朗事务",
@@ -570,7 +596,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -579,11 +605,23 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 15时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金午盘价为1142.06元/克，较国际金价(1138.03元/克)，高4.03元/克",
+          "url": "https://flash.jin10.com/detail/20260126151422471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -594,8 +632,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 15时20分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时22分]"
+          "time_info": "[12时47分 ~ 15时20分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -608,18 +659,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 13时26分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时22分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -657,8 +696,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 15时20分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -713,11 +752,12 @@
           "url": "https://www.zhihu.com/question/1993355026530317494",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时20分]"
         }
       ]
     },
