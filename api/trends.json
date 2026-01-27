@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T16:18:20.030634+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-01-27T17:22:51.814010+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 17时22分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -295,24 +295,25 @@
           "time_info": "[03时17分 ~ 04时14分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时22分]"
+        },
+        {
           "title": "韩国人还在睡梦中特朗普突然下手",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时18分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -549,6 +550,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国总统特朗普：与明尼阿波利斯市长雅各布·弗雷进行了非常良好的电话交谈。",
           "url": "https://flash.jin10.com/detail/20260127061856226800",
           "source": "金十数据",
@@ -643,7 +655,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -780,6 +792,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "韩国青瓦台：美国来信与美国总统特朗普关于关税的声明无直接关联。",
+          "url": "https://flash.jin10.com/detail/20260127164256155800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
           "url": "https://wallstreetcn.com/livenews/3044147",
           "source": "华尔街见闻-快讯",
@@ -794,7 +817,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -805,8 +828,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 17时22分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -844,6 +867,28 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时19分 ~ 11时01分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前涨3%，此前该公司宣布计划在新加坡投资240亿美元建设一座存储芯片制造厂。",
+          "url": "https://flash.jin10.com/detail/20260127170515814800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "美国提议小幅上调医疗保险承保商支付额，联合健康(UNH.N)美股盘前跌超8%。",
+          "url": "https://flash.jin10.com/detail/20260127170453559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -1193,7 +1238,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1270,6 +1315,17 @@
           "time_info": "[11时01分 ~ 12时08分]"
         },
         {
+          "title": "德意志银行：在其他情境下，6900美元/盎司的黄金价格目标实际上更符合过去两年的跑赢表现。",
+          "url": "https://flash.jin10.com/detail/20260127165825924800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
           "url": "https://flash.jin10.com/detail/20260127102344038800",
           "source": "金十数据",
@@ -1292,6 +1348,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "金价在5,000美元上方继续前进 “贬值交易”愈演愈烈",
+          "url": "https://wallstreetcn.com/livenews/3044599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "关税担忧推动金价上涨",
           "url": "https://flash.jin10.com/detail/20260127075745776800",
           "source": "金十数据",
@@ -1309,7 +1376,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -1442,6 +1509,45 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时22分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
+          "url": "https://wallstreetcn.com/livenews/3044481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1524,30 +1630,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "keyword_group": "黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "德意志银行：我们认为，在今年美元走软的情况下，（黄金）每盎司6000美元的价格目标是可实现的。",
+          "url": "https://flash.jin10.com/detail/20260127164945513800",
+          "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时18分]"
-        },
-        {
-          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
-          "url": "https://wallstreetcn.com/livenews/3044481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时22分"
         }
       ]
     }
