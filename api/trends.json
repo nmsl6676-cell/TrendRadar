@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:21:32.031837+08:00",
-  "total_titles_processed": 2089,
+  "generated_at": "2026-01-27T23:20:48.244909+08:00",
+  "total_titles_processed": 2192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时12分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时12分 ~ 23时20分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -117,6 +117,18 @@
           "time_info": "[00时19分 ~ 12时08分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -142,18 +154,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时19分 ~ 20时23分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 22时21分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -658,7 +658,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -812,7 +812,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -823,7 +823,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -837,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "市场消息：特朗普政府因委内瑞拉海岸附近一起船只袭击事件造成两人死亡而遭起诉。",
+          "url": "https://flash.jin10.com/detail/20260127225034479800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -856,7 +867,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -864,7 +875,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -875,8 +886,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时12分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时12分 ~ 23时20分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -944,7 +955,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -955,7 +966,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1242,6 +1253,17 @@
           "time_info": "21时39分"
         },
         {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/3044396",
           "source": "华尔街见闻-快讯",
@@ -1259,7 +1281,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -1267,7 +1289,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -1321,6 +1343,17 @@
           "time_info": "[00时19分 ~ 12时08分]"
         },
         {
+          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
+          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时20分]"
+        },
+        {
           "title": "俄罗斯国防部长：委内瑞拉和伊朗等例子表明，国防部需要不断分析安全形势。",
           "url": "https://flash.jin10.com/detail/20260127194837775800",
           "source": "金十数据",
@@ -1330,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "以色列女子看电视发现自己死在伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%94%B5%E8%A7%86%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%AD%BB%E5%9C%A8%E4%BC%8A%E6%9C%97%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "局势升级 伊朗或封锁霍尔木兹海峡",
@@ -1346,6 +1390,18 @@
           "time_info": "[08时54分 ~ 13时19分]"
         },
         {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时20分]"
+        },
+        {
           "title": "伊朗：将以更强硬手段回应侵略",
           "url": "https://www.toutiao.com/trending/7599858146172997183/",
           "source": "今日头条",
@@ -1358,28 +1414,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时15分 ~ 22时21分]"
-        },
-        {
-          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
-          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时21分]"
-        },
-        {
-          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时21分]"
         },
         {
           "title": "阿联酋重申不得使用其领土军事打击伊朗",
@@ -1544,7 +1578,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1643,6 +1677,17 @@
           "time_info": "18时16分"
         },
         {
+          "title": "高盛：仍认为5400美元/盎司的年底金价预期存在显著上行风险。",
+          "url": "https://flash.jin10.com/detail/20260127225618874800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
           "url": "https://flash.jin10.com/detail/20260127102344038800",
           "source": "金十数据",
@@ -1663,6 +1708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "加拿大皇家银行：黄金仍有“上涨空间”；认为金价有潜力达到7100美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127225231645800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "金价在5,000美元上方继续前进 “贬值交易”愈演愈烈",
@@ -1696,6 +1752,168 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美元指数短线下挫 非美货币走高",
+          "url": "https://wallstreetcn.com/livenews/3044664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3044859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报96.55。",
+          "url": "https://flash.jin10.com/detail/20260127210239510800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20260127044040593800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时12分]"
+        },
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币走高",
+          "url": "https://flash.jin10.com/detail/20260127175649548800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
+          "url": "https://wallstreetcn.com/livenews/3044099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://flash.jin10.com/detail/20260127205258899800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美元指数跌约0.6%，一度创逾四个月新低",
+          "url": "https://wallstreetcn.com/livenews/3044178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
+          "url": "https://flash.jin10.com/detail/20260126235706137800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "美元指数DXY持续走低 非美货币普涨",
+          "url": "https://flash.jin10.com/detail/20260127224408359800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -1745,7 +1963,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1840,135 +2058,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美元指数短线下挫 非美货币走高",
-          "url": "https://wallstreetcn.com/livenews/3044664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美元指数DXY日内跌超0.50%，现报96.55。",
-          "url": "https://flash.jin10.com/detail/20260127210239510800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美元指数26日下跌",
-          "url": "https://flash.jin10.com/detail/20260127044040593800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时12分]"
-        },
-        {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://wallstreetcn.com/livenews/3044792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时21分]"
-        },
-        {
-          "title": "美元指数DXY短线下挫 非美货币走高",
-          "url": "https://flash.jin10.com/detail/20260127175649548800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
-          "url": "https://wallstreetcn.com/livenews/3044099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
-          "url": "https://flash.jin10.com/detail/20260127205258899800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美元指数DXY失守97，日内跌幅0.48%。",
-          "url": "https://flash.jin10.com/detail/20260127050513890800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美元指数跌约0.6%，一度创逾四个月新低",
-          "url": "https://wallstreetcn.com/livenews/3044178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
-          "url": "https://flash.jin10.com/detail/20260126235706137800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 5,
       "titles": [
@@ -1982,8 +2071,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时20分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1994,8 +2083,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时20分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -2016,11 +2105,12 @@
           "url": "https://www.zhihu.com/question/1999468225642119587",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时20分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -2093,7 +2183,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
