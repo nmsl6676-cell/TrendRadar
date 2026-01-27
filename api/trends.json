@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T11:01:43.927890+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-01-27T12:08:47.144120+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -36,11 +36,35 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普：提高对韩国关税",
+          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
+          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时08分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -55,28 +79,6 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
-          "title": "特朗普：提高对韩国关税",
-          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时01分]"
-        },
-        {
-          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
-          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时01分]"
-        },
-        {
           "title": "特朗普为何对韩国加征关税",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%9F%A9%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
           "source": "bilibili 热搜",
@@ -88,15 +90,38 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "美媒称边境巡逻队高级官员将离开明尼阿波利斯市，特朗普与明州州长通话",
-          "url": "https://wallstreetcn.com/livenews/3044390",
-          "source": "华尔街见闻-快讯",
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
+        },
+        {
+          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2270513",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时08分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -117,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -139,43 +164,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2270513",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时01分]"
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
@@ -187,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 12时08分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -214,6 +205,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时12分]"
+        },
+        {
+          "title": "美媒称边境巡逻队高级官员将离开明尼阿波利斯市，特朗普与明州州长通话",
+          "url": "https://wallstreetcn.com/livenews/3044390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -281,11 +284,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时08分]"
         },
         {
           "title": "特朗普宣布对韩国加征关税",
@@ -447,7 +451,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -507,6 +511,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "韩国股市低开高走，特朗普关税威胁引发逢低买入",
+          "url": "https://flash.jin10.com/detail/20260127114326791800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
           "url": "https://flash.jin10.com/detail/20260127041616450800",
           "source": "金十数据",
@@ -546,7 +561,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -694,6 +709,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "英国承认特朗普有一票否决权",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%89%BF%E8%AE%A4%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E4%B8%80%E7%A5%A8%E5%90%A6%E5%86%B3%E6%9D%83%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
           "url": "https://wallstreetcn.com/livenews/3044147",
           "source": "华尔街见闻-快讯",
@@ -708,7 +734,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -742,8 +768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 12时08分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -755,8 +781,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 12时08分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -894,12 +920,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -933,11 +970,12 @@
             18,
             16,
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时08分]"
         },
         {
           "title": "伊朗：不欢迎战争，也不回避外交谈判",
@@ -948,8 +986,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时08分]"
+        },
+        {
+          "title": "局势升级 伊朗或封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7599813567755324969/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时08分]"
         },
         {
           "title": "阿联酋重申不得使用其领土军事打击伊朗",
@@ -962,18 +1013,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时21分]"
-        },
-        {
-          "title": "局势升级 伊朗或封锁霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7599813567755324969/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时01分]"
         },
         {
           "title": "伊朗外交部：武装力量将全力应对任何侵犯",
@@ -1000,6 +1039,17 @@
           "time_info": "[03时17分 ~ 04时14分]"
         },
         {
+          "title": "美军航母进入美中央司令部印度洋责任区，以伊朗目前军力，能够对抗美军航母的打击吗？",
+          "url": "https://www.zhihu.com/question/1999248453998441588",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
           "url": "https://flash.jin10.com/detail/20260127042034581800",
           "source": "金十数据",
@@ -1020,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "美国若对伊朗动武将面临哪些后果",
+          "url": "https://www.toutiao.com/trending/7599868342626684452/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美官员：“林肯”号航母打击群一两天内即可对伊朗动武",
@@ -1100,22 +1161,36 @@
           "url": "https://www.toutiao.com/trending/7599218772373995556/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
+        },
+        {
+          "title": "金价银价巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）上海金早盘价为1138.22元/克，较国际金价(1132.46元/克)，高5.76元/克",
@@ -1124,18 +1199,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "金价银价巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -1246,11 +1310,12 @@
           "url": "https://www.cls.cn/detail/2270429",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时08分]"
         },
         {
           "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
