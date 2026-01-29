@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:23:07.381073+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2026-01-29T20:29:39.747395+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -109,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 20时29分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -153,6 +153,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -225,31 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时23分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -610,6 +611,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129200059103800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "特朗普暗示可以操控美元汇率",
           "url": "https://www.toutiao.com/trending/7600301655842291754/",
           "source": "今日头条",
@@ -859,8 +871,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时29分]"
         },
         {
           "title": "关键时刻 伊朗接收俄制武装直升机",
@@ -992,7 +1004,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1003,7 +1015,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1066,7 +1078,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1117,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
@@ -1241,6 +1264,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3046443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013023144800",
           "source": "金十数据",
@@ -1307,6 +1341,17 @@
           "time_info": "18时25分"
         },
         {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
           "url": "https://wallstreetcn.com/livenews/3045661",
           "source": "华尔街见闻-快讯",
@@ -1321,7 +1366,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1388,8 +1433,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 19时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 20时29分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1457,6 +1502,18 @@
           "time_info": "[18时25分 ~ 19时23分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时29分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1469,24 +1526,13 @@
           "time_info": "[07时16分 ~ 08时59分]"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
-        },
-        {
           "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
           "url": "https://wallstreetcn.com/livenews/3046415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1557,6 +1603,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金价银价暴涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1578,11 +1635,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时29分]"
         },
         {
           "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
@@ -1707,7 +1765,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1750,11 +1808,12 @@
           "ranks": [
             27,
             12,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时29分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
