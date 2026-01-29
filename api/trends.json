@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:52:07.044357+08:00",
-  "total_titles_processed": 2131,
+  "generated_at": "2026-01-29T22:32:09.449003+08:00",
+  "total_titles_processed": 2212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -109,8 +109,23 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时01分 ~ 21时52分]"
+          "appearance_count": 14,
+          "time_info": "[13时01分 ~ 22时32分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 22时32分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -157,19 +172,15 @@
           "time_info": "[13时01分 ~ 17时31分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14,
-            13,
-            12,
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时52分]"
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -253,6 +264,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时23分]"
+        },
+        {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -369,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "卡特彼勒：（美国总统特朗普挑起的）关税在2025年给公司造成17亿美元成本。 预计一季度关税成本8亿美元，形势可能会在二季度改善。",
+          "url": "https://wallstreetcn.com/livenews/3046531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
@@ -520,7 +553,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -569,13 +602,24 @@
           "time_info": "03时18分"
         },
         {
+          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
+          "url": "https://wallstreetcn.com/livenews/3046514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "特朗普呼吁降息",
           "url": "https://wallstreetcn.com/livenews/3046487",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -611,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "鲍威尔、特朗普罕见存在共识：美国经济比想象中要好",
+          "url": "https://flash.jin10.com/detail/20260129215024264800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
@@ -704,7 +759,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -791,6 +846,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "欧盟对伊朗相关个人和实体实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3046538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "据报道，伊朗发出警告，宣布计划于周日和周一在霍尔木兹海峡举行实弹海军演习。",
+          "url": "https://flash.jin10.com/detail/20260129222954175800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "克里姆林宫：仍有潜力就伊朗问题进行谈判。",
@@ -897,6 +974,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时22分 ~ 20时29分]"
+        },
+        {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "关键时刻 伊朗接收俄制武装直升机",
@@ -1022,6 +1110,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "由于担心美国袭击伊朗，布伦特原油一度涨3.5%，达到每桶70.88美元的近六个月高点。",
+          "url": "https://flash.jin10.com/detail/20260129220114970800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "伊朗军队新装备1000架战略无人机",
           "url": "https://wallstreetcn.com/livenews/3046399",
           "source": "华尔街见闻-快讯",
@@ -1031,6 +1130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "欧盟制裁伊朗内政部长伊斯坎达尔·莫梅尼和检察长穆罕默德·莫瓦赫迪·阿扎德。",
+          "url": "https://flash.jin10.com/detail/20260129215529239800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "据AXIOS网站：沙特和以色列官员将赴华盛顿就伊朗问题举行会谈。",
@@ -1072,7 +1182,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1113,7 +1223,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1177,6 +1287,17 @@
           "time_info": "20时29分"
         },
         {
+          "title": "美股开盘 Meta Platforms大涨10%",
+          "url": "https://flash.jin10.com/detail/20260129223027540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
           "url": "https://flash.jin10.com/detail/20260129170409612800",
           "source": "金十数据",
@@ -1197,17 +1318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
-          "url": "https://flash.jin10.com/detail/20260129214609846800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -1254,6 +1364,18 @@
           "time_info": "06时16分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时32分]"
+        },
+        {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3045820",
           "source": "华尔街见闻-快讯",
@@ -1266,6 +1388,17 @@
           "time_info": "[05时20分 ~ 06时16分]"
         },
         {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
           "title": "Meta Platforms(META.O)美股盘前涨7.3%，此前该公司预测第一季度收入高于预期，并上调了年度资本支出计划。",
           "url": "https://flash.jin10.com/detail/20260129170125268800",
           "source": "金十数据",
@@ -1275,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3046527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -1308,6 +1452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "铜价创下历史新高后，美股上市铜矿商股价盘前上涨，必和必拓(BHP.N)涨4.1%，力拓(RIO.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129215941423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "卡特彼勒公司第四季度营收191.3亿美元，预估179.1亿美元。 第四季度调整后每股收益5.16美元，预估4.69美元。 第四季度每股收益5.12美元，上年同期5.78美元。 第四季度调整后运营收益29.8亿美元，预估27.6亿美元。 第四季度机械、能源与交通业务营收182.0亿美元。 卡特彼勒美股盘前涨近5%。",
@@ -1404,7 +1559,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1426,7 +1581,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         }
@@ -1434,7 +1589,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1501,8 +1656,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 21时52分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 22时32分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1547,6 +1702,20 @@
           "time_info": "[11时25分 ~ 18时25分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 22时32分]"
+        },
+        {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
           "url": "https://flash.jin10.com/detail/20260129151543362800",
           "source": "金十数据",
@@ -1570,19 +1739,6 @@
           "time_info": "[18时25分 ~ 19时23分]"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 21时52分]"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1593,6 +1749,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 08时59分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
@@ -1709,8 +1876,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 21时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 22时32分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
@@ -1720,8 +1887,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 22时32分]"
         },
         {
           "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
@@ -1815,7 +1982,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数DXY日内大涨1.00%，现报96.72。",
@@ -1868,9 +2035,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -1878,6 +2056,21 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            12,
+            14,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 22时32分]"
+        },
         {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
@@ -1892,21 +2085,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时25分 ~ 16时25分]"
-        },
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            12,
-            14,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时52分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
