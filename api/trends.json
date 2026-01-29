@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-01-30T05:17:08.188594+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-01-30T06:16:43.384497+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
           "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -393,6 +394,18 @@
           "time_info": "[02时29分 ~ 03时23分]"
         },
         {
+          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3046673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
           "title": "美国总统特朗普：与礼来公司负责人通话，对方表示他们正在建设6家工厂。",
           "url": "https://flash.jin10.com/detail/20260130013037529800",
           "source": "金十数据",
@@ -417,6 +430,28 @@
           "time_info": "[02时29分 ~ 03时23分]"
         },
         {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
           "url": "https://wallstreetcn.com/livenews/3046612",
           "source": "华尔街见闻-快讯",
@@ -426,17 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
-          "url": "https://wallstreetcn.com/livenews/3046673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -662,7 +686,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗：美若动武 伊将打击以色列",
@@ -676,8 +700,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
         },
         {
           "title": "普京表示正密切关注伊朗问题相关进展",
@@ -694,16 +718,15 @@
           "time_info": "[00时28分 ~ 04时18分]"
         },
         {
-          "title": "伊朗外长与多国外长通话，就地区局势交换意见",
-          "url": "https://wallstreetcn.com/livenews/3046595",
+          "title": "伊朗首都启动战时避难设施建设规划",
+          "url": "https://wallstreetcn.com/livenews/3046709",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            28
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "伊朗足协：无人能将伊朗排除出世界杯",
@@ -714,8 +737,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 06时16分]"
+        },
+        {
+          "title": "伊朗外长与多国外长通话，就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3046595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时29分]"
         },
         {
           "title": "美国国防部长：（谈伊朗）他们拥有达成协议的所有选项，但我们将做好采取行动的准备。",
@@ -729,6 +764,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时18分]"
+        },
+        {
+          "title": "欧盟将伊朗伊斯兰革命卫队列为“恐怖组织”",
+          "url": "https://news.ifeng.com/c/8qJyCJGShwb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
@@ -759,7 +805,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -810,112 +856,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.toutiao.com/trending/7600648257781566982/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "金价上涨打金店2天亏5万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%89%93%E9%87%91%E5%BA%972%E5%A4%A9%E4%BA%8F5%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            24,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "一口气看懂金价涨跌的底层逻辑",
-          "url": "https://www.douyin.com/hot/2383551",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "金价跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3046584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -925,8 +867,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -937,8 +879,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "航空业ETF收涨超2.6%，领跑美股行业ETF，标普科技板块跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3046710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -988,15 +953,130 @@
           "time_info": "00时28分"
         },
         {
-          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3046680",
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月29日）），美国科技股七巨头（Magnificent 7）指数跌0.90%，报207.72点，美股盘初持续下跌，北京时间23:55刷新日低至202.72点，随后逐步收复失地。 “超大”市值科技股指数跌0.58%，报396.22点。 成分股Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.toutiao.com/trending/7600648257781566982/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "金价上涨打金店2天亏5万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%89%93%E9%87%91%E5%BA%972%E5%A4%A9%E4%BA%8F5%E4%B8%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            24,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "金价跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3046584",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "00时28分"
         }
       ]
     },
@@ -1011,11 +1091,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
         },
         {
           "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
@@ -1024,7 +1105,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -1033,11 +1114,24 @@
           "url": "https://wallstreetcn.com/livenews/3046688",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
         },
         {
           "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
@@ -1046,18 +1140,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3046674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -1065,7 +1148,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -1078,8 +1161,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时16分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
+          "url": "https://flash.jin10.com/detail/20260130053331911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     },
@@ -1109,11 +1203,12 @@
           "url": "https://wallstreetcn.com/livenews/3046679",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
         }
       ]
     },
@@ -1126,11 +1221,12 @@
           "url": "https://wallstreetcn.com/livenews/3046676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
         }
       ]
     }
