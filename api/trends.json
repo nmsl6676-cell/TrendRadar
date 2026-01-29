@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T17:31:51.535409+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-01-29T18:25:44.760384+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -136,11 +136,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -262,6 +263,18 @@
           "time_info": "[01时25分 ~ 02时23分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
+        },
+        {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
           "url": "https://wallstreetcn.com/livenews/3045707",
           "source": "华尔街见闻-快讯",
@@ -307,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
@@ -370,7 +394,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -397,6 +421,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普酝酿对伊重大军事打击，战火要重燃了吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260129180329389800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
           "url": "https://wallstreetcn.com/livenews/3045843",
           "source": "华尔街见闻-快讯",
@@ -408,15 +443,15 @@
           "time_info": "06时16分"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "能源情报集团记者阿蒙娜•巴克尔：该地区所有国家都警告特朗普不要攻击伊朗，称任何袭击都会迅速蔓延到伊朗境外。",
+          "url": "https://flash.jin10.com/detail/20260129180234746800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "18时25分"
         },
         {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
@@ -439,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "能源情报集团记者阿蒙娜•巴克尔：市场对美国可能对伊朗发动打击感到不安。我听到的消息是，特朗普并不想开战。他想要的是外交上的胜利，或者一场“自发的”内部变革，从而迫使伊朗从内部进行改革。",
+          "url": "https://flash.jin10.com/detail/20260129180208687800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
@@ -568,7 +614,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -620,7 +666,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -698,6 +744,28 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
+          "title": "伊朗外交部发言人巴盖伊证实，外交部长将于周五前往土耳其。",
+          "url": "https://flash.jin10.com/detail/20260129181450090800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "克里姆林宫：仍有潜力就伊朗问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260129180824056800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
           "url": "https://flash.jin10.com/detail/20260129015303460800",
           "source": "金十数据",
@@ -707,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "克里姆林宫：对伊朗使用武力可能在该地区引发混乱，并导致极其危险的后果。",
+          "url": "https://flash.jin10.com/detail/20260129180804973800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国国务卿鲁比奥：（被问及美国国务院对伊朗抗议活动中死亡人数的估计）肯定有数千人。",
@@ -815,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "克里姆林宫：敦促伊朗危机各方保持克制，避免使用武力。",
+          "url": "https://flash.jin10.com/detail/20260129180659006800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -941,7 +1031,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1000,9 +1090,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "业绩增长不及预期 微软美股盘前下跌",
+          "url": "https://flash.jin10.com/detail/20260129181234274800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -1067,7 +1168,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1122,7 +1223,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1133,7 +1234,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1160,6 +1261,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "Alphabet(GOOG.O)美股盘前上涨1.9%，此前竞争对手Meta公司上调了年度资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260129175710247800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
           "url": "https://wallstreetcn.com/livenews/3045661",
           "source": "华尔街见闻-快讯",
@@ -1174,7 +1286,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1237,11 +1349,12 @@
             23,
             22,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 18时25分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1282,8 +1395,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 18时25分]"
         },
         {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
@@ -1295,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "金价",
@@ -1501,6 +1625,18 @@
           "time_info": "[11时25分 ~ 16时25分]"
         },
         {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
+        },
+        {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3045867",
           "source": "华尔街见闻-快讯",
@@ -1510,17 +1646,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
         },
         {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3046359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "18时25分"
         }
       ]
     },
@@ -1560,34 +1725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
-          "url": "https://wallstreetcn.com/livenews/3046337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
-          "url": "https://wallstreetcn.com/livenews/3046327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         }
       ]
     },
