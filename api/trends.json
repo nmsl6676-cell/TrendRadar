@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T16:25:14.317190+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-02-03T17:29:55.079790+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时03分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -102,6 +113,29 @@
           "time_info": "09时04分"
         },
         {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时29分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
           "url": "https://www.zhihu.com/question/2001948735127643511",
           "source": "知乎",
@@ -113,17 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时04分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 16时25分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -148,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时31分]"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "特朗普怒骂格莱美主持人",
@@ -381,6 +393,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "金十整理：特朗普连环诉讼索赔超700亿美元 一纸诉状告遍政府机构、媒体、银行、大学",
+          "url": "https://flash.jin10.com/detail/20260203170134456800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "美国总统特朗普：我和杰弗里·爱泼斯坦没有任何关系。",
           "url": "https://flash.jin10.com/detail/20260203055858925800",
           "source": "金十数据",
@@ -582,7 +605,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -693,6 +716,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "伊朗最高领袖顾问：无意将浓缩铀转移至国外",
+          "url": "https://wallstreetcn.com/livenews/3048998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "乌克兰将伊朗伊斯兰革命卫队列为“恐怖组织”",
           "url": "https://news.ifeng.com/c/8qPWYV4KCzQ",
           "source": "凤凰网",
@@ -702,6 +736,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时29分]"
         },
         {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
@@ -726,18 +773,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 14时36分]"
-        },
-        {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时25分]"
         },
         {
           "title": "伊朗总统已下令与美开展核问题专项谈判，有何考量？此次外交行动会打破僵局吗？",
@@ -836,9 +871,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "伊朗首都一集市发生火灾 暂无人员伤亡报告",
+          "url": "https://wallstreetcn.com/livenews/3048972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "阿联酋总统外交顾问表示，核问题等关键议题需要与伊朗共同解决。",
@@ -1004,7 +1050,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1015,8 +1061,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 16时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1094,6 +1140,28 @@
           "time_info": "[09时03分 ~ 09时04分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
+          "url": "https://wallstreetcn.com/livenews/3048993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
           "url": "https://wallstreetcn.com/livenews/3048560",
           "source": "华尔街见闻-快讯",
@@ -1108,7 +1176,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -1118,8 +1186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 17时29分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -1144,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
+          "url": "https://flash.jin10.com/detail/20260203171044023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
@@ -1195,6 +1274,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
