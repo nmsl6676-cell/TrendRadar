@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T20:32:03.855977+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2026-02-03T21:56:07.105110+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 60,
       "titles": [
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 21时56分]"
+        },
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
           "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
@@ -20,16 +32,19 @@
           "time_info": "[07时17分 ~ 16时25分]"
         },
         {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            1
+            15,
+            5,
+            9,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[16时24分 ~ 21时56分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -38,25 +53,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时35分 ~ 20时32分]"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时24分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[15时35分 ~ 21时56分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -67,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 21时56分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -153,6 +155,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 21时56分]"
+        },
+        {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
           "url": "https://www.zhihu.com/question/2001948735127643511",
           "source": "知乎",
@@ -190,15 +203,16 @@
           "time_info": "[00时24分 ~ 01时31分]"
         },
         {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
+          "title": "美国联邦住房金融局局长Bill Pulte：认为沃什（美联储主席）提名会获得确认。 若特朗普有意，随时准备推进房利美和房地美的IPO。 房利美和房地美可能会IPO，或采取其他措施。",
+          "url": "https://wallstreetcn.com/livenews/3049122",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
+          "time_info": "[20时32分 ~ 21时56分]"
         },
         {
           "title": "特朗普怒骂格莱美主持人",
@@ -289,17 +303,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "美国联邦住房金融局局长Bill Pulte：认为沃什（美联储主席）提名会获得确认。 若特朗普有意，随时准备推进房利美和房地美的IPO。 房利美和房地美可能会IPO，或采取其他措施。",
-          "url": "https://wallstreetcn.com/livenews/3049122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
           "url": "https://flash.jin10.com/detail/20260203010223684800",
           "source": "金十数据",
@@ -372,7 +375,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -680,7 +683,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -688,7 +691,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -735,11 +738,12 @@
             16,
             14,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时36分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 21时56分]"
         },
         {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
@@ -776,6 +780,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "卡塔尔外交部：与伊朗保持最高级别沟通",
+          "url": "https://wallstreetcn.com/livenews/3049158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -1066,8 +1081,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时03分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时03分 ~ 21时56分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 21时56分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1092,18 +1120,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 02时27分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 20时32分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -1158,6 +1174,18 @@
           "time_info": "[17时29分 ~ 18时29分]"
         },
         {
+          "title": "PayPal任命惠普的Enrique Lores为新任CEO。惠普美股盘前下跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3049115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时56分]"
+        },
+        {
           "title": "美股三大指数集体收涨",
           "url": "https://www.toutiao.com/trending/7602410616837377590/",
           "source": "今日头条",
@@ -1169,24 +1197,13 @@
           "time_info": "[09时03分 ~ 09时04分]"
         },
         {
-          "title": "PayPal任命惠普的Enrique Lores为新任CEO。惠普美股盘前下跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3049115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "PayPal第四季度调整后每股收益1.23美元，上年同期1.19美元，市场预估1.28美元。 第四季度净营收86.8亿美元，同比增长3.7%，市场预估87.9亿美元。 第四季度调整后运营收益15.5亿美元，同比增长3.2%，市场预估15.9亿美元。 预计全年自由现金流超过60亿美元。 预计全年资本支出大约10亿美元，市场预估9.978亿美元。 PayPal美股盘前跌超8%。",
           "url": "https://wallstreetcn.com/livenews/3049117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1219,7 +1236,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1230,7 +1247,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -1354,7 +1371,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -1373,11 +1390,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 20时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 21时56分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -1402,6 +1420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "金价遭遇46年来最惨跌幅，期权交易员竟押注金价将涨至2万美元",
+          "url": "https://wallstreetcn.com/livenews/3049141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
@@ -1468,6 +1497,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3049153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "汇丰：美债短端高收益债更具吸引力",
+          "url": "https://flash.jin10.com/detail/20260203181911181800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低。",
+          "url": "https://flash.jin10.com/detail/20260203210747492800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1500,24 +1569,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 09时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "汇丰：美债短端高收益债更具吸引力",
-          "url": "https://flash.jin10.com/detail/20260203181911181800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
         }
       ]
     },
