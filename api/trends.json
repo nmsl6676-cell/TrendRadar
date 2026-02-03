@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T21:56:07.105110+08:00",
-  "total_titles_processed": 1852,
+  "generated_at": "2026-02-03T22:37:37.228963+08:00",
+  "total_titles_processed": 1929,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时29分 ~ 21时56分]"
+          "appearance_count": 10,
+          "time_info": "[17时29分 ~ 22时37分]"
         },
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时17分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 22时37分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -57,20 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时35分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 21时56分]"
+          "appearance_count": 13,
+          "time_info": "[15时35分 ~ 22时37分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -162,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时37分]"
         },
         {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
@@ -742,8 +743,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时36分 ~ 21时56分]"
+          "appearance_count": 14,
+          "time_info": "[14时36分 ~ 22时37分]"
         },
         {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
@@ -780,17 +781,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "卡塔尔外交部：与伊朗保持最高级别沟通",
-          "url": "https://wallstreetcn.com/livenews/3049158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -850,6 +840,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 19时26分]"
+        },
+        {
+          "title": "卡塔尔外交部：与伊朗保持最高级别沟通",
+          "url": "https://wallstreetcn.com/livenews/3049158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时37分]"
         },
         {
           "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
@@ -1070,7 +1072,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1081,8 +1083,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时03分 ~ 21时56分]"
+          "appearance_count": 18,
+          "time_info": "[09时03分 ~ 22时37分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
@@ -1091,11 +1093,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时29分 ~ 21时56分]"
+          "appearance_count": 10,
+          "time_info": "[17时29分 ~ 22时37分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1195,6 +1198,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "MP材料美股盘前涨幅迅速扩大至5%，USAR涨6.7%，UUUU涨4.8%。 欧盟将向美国提议构建关键矿物合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3049172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "PayPal第四季度调整后每股收益1.23美元，上年同期1.19美元，市场预估1.28美元。 第四季度净营收86.8亿美元，同比增长3.7%，市场预估87.9亿美元。 第四季度调整后运营收益15.5亿美元，同比增长3.2%，市场预估15.9亿美元。 预计全年自由现金流超过60亿美元。 预计全年资本支出大约10亿美元，市场预估9.978亿美元。 PayPal美股盘前跌超8%。",
@@ -1371,8 +1396,22 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 22时37分]"
+        },
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
           "url": "https://www.cls.cn/detail/2278518",
@@ -1383,19 +1422,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时42分 ~ 17时29分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时28分 ~ 21时56分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -1428,7 +1454,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1442,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
@@ -1501,17 +1538,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低",
-          "url": "https://wallstreetcn.com/livenews/3049153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "汇丰：美债短端高收益债更具吸引力",
           "url": "https://flash.jin10.com/detail/20260203181911181800",
           "source": "金十数据",
@@ -1524,13 +1550,25 @@
           "time_info": "[18时29分 ~ 19时26分]"
         },
         {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3049153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时37分]"
+        },
+        {
           "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低。",
           "url": "https://flash.jin10.com/detail/20260203210747492800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
