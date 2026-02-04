@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T02:33:34.400718+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-02-05T03:32:11.045381+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -37,19 +37,76 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://wallstreetcn.com/articles/3764980",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
+        },
+        {
+          "title": "美国总统特朗普：仍必须就（移民执法）保持强硬的立场。",
+          "url": "https://flash.jin10.com/detail/20260205031140205800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普：（就执法人员在明尼阿波利斯开枪击毙公民事件）我认为政府在移民执法行动中可以采取“更为温和”的方式。",
+          "url": "https://flash.jin10.com/detail/20260205030936691800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
+          "url": "https://flash.jin10.com/detail/20260205030645609800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
+          "url": "https://wallstreetcn.com/livenews/3050075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -63,16 +120,74 @@
           "time_info": "01时37分"
         },
         {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "title": "美国总统特朗普：伊朗最高领袖现在应深感忧虑。",
+          "url": "https://flash.jin10.com/detail/20260205030620611800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普：必须继续采取足够的移民执法行动。",
+          "url": "https://wallstreetcn.com/livenews/3050073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "time_info": "[01时37分 ~ 03时32分]"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://flash.jin10.com/detail/20260205021201236800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时32分]"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://wallstreetcn.com/livenews/3050053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时32分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3050048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时32分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
@@ -87,49 +202,26 @@
           "time_info": "[01时37分 ~ 02时33分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时33分]"
-        },
-        {
-          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
-          "url": "https://flash.jin10.com/detail/20260205021201236800",
+          "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
+          "url": "https://flash.jin10.com/detail/20260205030511300800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时32分"
         },
         {
-          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
-          "url": "https://wallstreetcn.com/livenews/3050053",
-          "source": "华尔街见闻-快讯",
+          "title": "美国核管理委员会表示，正根据美国总统特朗普推动核反应堆许可的举措进行重组，将在60天内制定新的组织架构图及管理计划。",
+          "url": "https://flash.jin10.com/detail/20260205025918193800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3050048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时32分"
         },
         {
           "title": "美国财长贝森特：对特朗普是否有权因政策分歧解雇美联储主席或委员会成员一事不予置评。我认为美联储是一个独立机构。",
@@ -138,7 +230,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -149,7 +241,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -179,7 +271,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -187,11 +279,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -201,8 +294,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
+        },
+        {
+          "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
+          "url": "https://wallstreetcn.com/livenews/3050078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -237,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
+          "url": "https://wallstreetcn.com/livenews/3050065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗谈判还必须解决抗议活动和代理组织问题。",
@@ -278,7 +393,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -330,8 +445,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -341,8 +456,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -350,11 +465,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -364,8 +480,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -376,8 +492,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -397,7 +513,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -408,7 +524,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -443,7 +559,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -463,8 +579,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时32分]"
         }
       ]
     },
@@ -477,11 +593,12 @@
           "url": "https://wallstreetcn.com/livenews/3050043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时32分]"
         }
       ]
     },
@@ -496,7 +613,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
