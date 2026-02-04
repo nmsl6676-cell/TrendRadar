@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:37:37.647835+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-02-04T16:27:26.363575+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,35 @@
           "source": "凤凰网",
           "ranks": [
             5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时27分]"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 16时27分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -53,26 +77,17 @@
           "time_info": "[00时39分 ~ 06时19分]"
         },
         {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
-          "source": "凤凰网",
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
           "ranks": [
+            11,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时37分]"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 16时27分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -217,18 +232,6 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时37分]"
-        },
-        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -318,7 +321,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -538,7 +541,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -722,7 +725,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -795,6 +798,20 @@
           "time_info": "04时23分"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 16时27分]"
+        },
+        {
           "title": "伊朗据称希望改变与美国谈判的地点和形式",
           "url": "https://wallstreetcn.com/livenews/3049253",
           "source": "华尔街见闻-快讯",
@@ -805,19 +822,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时40分]"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时37分]"
         },
         {
           "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
@@ -957,6 +961,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
           "url": "https://flash.jin10.com/detail/20260204011930064800",
           "source": "金十数据",
@@ -1010,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "曝伊朗要求更改与美谈判地点",
+          "url": "https://www.toutiao.com/trending/7602780530530336822/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伊朗方面表示，美伊会谈的地点和时间并非复杂问题，不应被用作媒体炒作的借口。",
@@ -1249,6 +1275,18 @@
           "time_info": "[00时39分 ~ 06时19分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时18分 ~ 16时27分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -1260,26 +1298,16 @@
           "time_info": "[00时39分 ~ 06时19分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 15时37分]"
-        },
-        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 16时27分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1306,6 +1334,18 @@
           "time_info": "[00时39分 ~ 08时59分]"
         },
         {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 16时27分]"
+        },
+        {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
           "url": "https://www.cls.cn/detail/2279689",
           "source": "财联社热门",
@@ -1316,18 +1356,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 14时36分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时37分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1352,6 +1380,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 16时27分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时27分]"
         },
         {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
@@ -1390,18 +1444,6 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时37分]"
-        },
-        {
           "title": "美股爆发AI恐慌性抛售",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
@@ -1412,18 +1454,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 11时31分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时37分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -1805,7 +1835,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1844,11 +1874,23 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时27分]"
+        },
+        {
+          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
+          "url": "https://flash.jin10.com/detail/20260204161737425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）上海金早盘价为1134.24元/克，较国际金价(1123.02元/克)，高11.22元/克",
@@ -1912,8 +1954,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时43分 ~ 15时37分]"
+          "appearance_count": 16,
+          "time_info": "[01时43分 ~ 16时27分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
