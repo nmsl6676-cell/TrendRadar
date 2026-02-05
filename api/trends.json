@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:16:40.675746+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-06T07:15:44.598689+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -84,11 +84,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时15分]"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -380,7 +381,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -406,8 +407,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "美股",
@@ -421,8 +422,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -432,11 +433,12 @@
             27,
             26,
             22,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -489,11 +491,23 @@
           "url": "https://wallstreetcn.com/livenews/3050900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时15分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -502,7 +516,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -513,7 +527,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -524,7 +538,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -551,11 +565,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -654,6 +669,18 @@
           "time_info": "[04时21分 ~ 05时19分]"
         },
         {
+          "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
+          "url": "https://wallstreetcn.com/livenews/3050896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
           "url": "https://flash.jin10.com/detail/20260206025617070800",
           "source": "金十数据",
@@ -685,17 +712,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
-          "url": "https://wallstreetcn.com/livenews/3050896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
         }
       ]
     },
@@ -786,8 +802,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -797,8 +813,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -809,8 +825,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时15分]"
         }
       ]
     },
@@ -870,6 +886,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     }
