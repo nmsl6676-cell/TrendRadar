@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T17:20:14.378739+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-02-08T18:15:38.075238+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -66,11 +66,12 @@
           "ranks": [
             8,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 18时15分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -284,6 +285,17 @@
           "time_info": "[13时55分 ~ 16时20分]"
         },
         {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
           "url": "https://flash.jin10.com/detail/20260207233303917800",
           "source": "金十数据",
@@ -311,7 +323,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -430,11 +442,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时15分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
@@ -450,16 +463,28 @@
           "time_info": "[09时19分 ~ 14时36分]"
         },
         {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://wallstreetcn.com/livenews/3051783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时15分]"
         },
         {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
@@ -475,6 +500,19 @@
           "time_info": "[12时25分 ~ 15时32分]"
         },
         {
+          "title": "伊朗总统：与美国会谈是向前迈出的一步",
+          "url": "https://flash.jin10.com/detail/20260208152249026800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时15分]"
+        },
+        {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
           "source": "澎湃新闻",
@@ -487,16 +525,16 @@
           "time_info": "[00时15分 ~ 01时17分]"
         },
         {
-          "title": "伊朗总统：与美国会谈是向前迈出的一步",
-          "url": "https://flash.jin10.com/detail/20260208152249026800",
-          "source": "金十数据",
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            9
+            10,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时20分]"
+          "time_info": "[17时20分 ~ 18时15分]"
         },
         {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
@@ -510,15 +548,15 @@
           "time_info": "12时25分"
         },
         {
-          "title": "伊朗外长：美国军事施压吓不倒伊朗",
-          "url": "https://wallstreetcn.com/livenews/3051796",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20260208171910596800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时15分"
         },
         {
           "title": "伊朗想击沉美国航母 首要问题是什么",
@@ -557,8 +595,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 18时15分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时31分 ~ 18时15分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -570,18 +621,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 06时14分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 17时20分]"
         }
       ]
     },
@@ -599,8 +638,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 18时15分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -655,11 +694,46 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 18时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
