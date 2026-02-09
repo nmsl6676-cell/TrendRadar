@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-02-10T02:41:20.626695+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-02-10T03:56:46.292409+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
+          "url": "https://flash.jin10.com/detail/20260210021604727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
+          "url": "https://flash.jin10.com/detail/20260210021529965800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
+          "url": "https://flash.jin10.com/detail/20260210020706988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 03时56分]"
+        },
+        {
+          "title": "美民调：多数人不认可特朗普关税政策",
+          "url": "https://www.toutiao.com/trending/7604360239181807658/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 01时42分]"
+        },
+        {
+          "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
+          "url": "https://www.cls.cn/detail/2284508",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
+          "url": "https://wallstreetcn.com/livenews/3052476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
+          "url": "https://flash.jin10.com/detail/20260210003111533800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 6,
@@ -16,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 03时56分]"
         },
         {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
@@ -38,7 +133,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -49,7 +144,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -78,74 +173,52 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
-          "url": "https://flash.jin10.com/detail/20260210021604727800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
-          "url": "https://flash.jin10.com/detail/20260210021529965800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
-          "url": "https://flash.jin10.com/detail/20260210020706988800",
-          "source": "金十数据",
+          "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
+          "url": "https://wallstreetcn.com/livenews/3052487",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "03时56分"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
+          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
+          "url": "https://wallstreetcn.com/livenews/3052484",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 02时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
-          "title": "美民调：多数人不认可特朗普关税政策",
-          "url": "https://www.toutiao.com/trending/7604360239181807658/",
-          "source": "今日头条",
+          "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
+          "url": "https://flash.jin10.com/detail/20260210032212804800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
+          "url": "https://flash.jin10.com/detail/20260210030701967800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 01时42分]"
-        },
-        {
-          "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
-          "url": "https://flash.jin10.com/detail/20260210003111533800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "03时56分"
         }
       ]
     },
@@ -181,11 +254,12 @@
           "url": "https://wallstreetcn.com/livenews/3052460",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时56分]"
         }
       ]
     },
@@ -198,11 +272,12 @@
           "url": "https://wallstreetcn.com/livenews/3052466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时56分]"
         },
         {
           "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
@@ -228,7 +303,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         }
@@ -246,8 +321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 03时56分]"
         }
       ]
     },
