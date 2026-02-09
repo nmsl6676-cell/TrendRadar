@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T07:19:47.390903+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-02-09T09:05:28.477898+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -66,6 +66,17 @@
           "time_info": "[00时16分 ~ 06时15分]"
         },
         {
+          "title": "特朗普为何积极干预俄乌冲突",
+          "url": "https://www.toutiao.com/trending/7604632919629368883/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
           "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
@@ -113,6 +124,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普被美国国鸟疯狂打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%B8%9F%E7%96%AF%E7%8B%82%E6%89%93%E8%84%B8%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 06时15分]"
+        },
+        {
+          "title": "金价重返5000美元",
+          "url": "https://www.douyin.com/hot/2394322",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "机构：金价重返5000美元上方 投资者逢低买入",
+          "url": "https://flash.jin10.com/detail/20260209081725336800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
@@ -129,8 +191,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时05分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -173,11 +235,12 @@
             15,
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时05分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -214,29 +277,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价巨震下买黄金的人怎么样了",
-          "url": "https://www.toutiao.com/trending/7604465515100114459/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 09时05分]"
         }
       ]
     },
