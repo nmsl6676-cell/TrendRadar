@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-02-10T01:42:03.059574+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T02:41:20.626695+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2285010",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时41分]"
+        },
+        {
+          "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
+          "url": "https://wallstreetcn.com/livenews/3052438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时41分 ~ 01时42分]"
+          "time_info": "[01时42分 ~ 02时41分]"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260210013148662800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260210013017362800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "美股延续涨势，纳指上涨1%。",
@@ -25,18 +60,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
-          "url": "https://wallstreetcn.com/livenews/3052438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         },
@@ -47,7 +71,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
@@ -55,8 +79,41 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
+          "url": "https://flash.jin10.com/detail/20260210021604727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
+          "url": "https://flash.jin10.com/detail/20260210021529965800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
+          "url": "https://flash.jin10.com/detail/20260210020706988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
@@ -65,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时41分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -86,7 +143,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
@@ -94,7 +151,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -103,7 +160,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         },
@@ -112,11 +169,68 @@
           "url": "https://flash.jin10.com/detail/20260210010437354800",
           "source": "金十数据",
           "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美建议美商船远离伊朗领海",
+          "url": "https://wallstreetcn.com/livenews/3052466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260210003843105800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "01时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
+          "url": "https://flash.jin10.com/detail/20260210015646411800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
@@ -132,8 +246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时41分]"
         }
       ]
     },
@@ -146,28 +260,12 @@
           "url": "https://wallstreetcn.com/livenews/3052456",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260210003843105800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时41分]"
         }
       ]
     }
