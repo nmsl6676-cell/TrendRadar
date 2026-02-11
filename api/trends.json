@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T01:49:33.140569+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-12T02:46:34.971989+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
+          "url": "https://wallstreetcn.com/livenews/3053914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -38,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -48,9 +59,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 02时46分]"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -111,7 +122,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -121,8 +132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "伊朗总统道歉",
@@ -133,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
@@ -154,7 +165,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         },
@@ -179,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗举行庆祝伊斯兰革命胜利47周年活动",
+          "url": "https://wallstreetcn.com/livenews/3053902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -194,8 +216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -205,8 +227,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -216,8 +238,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -227,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -238,8 +260,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         }
       ]
     },
@@ -256,8 +278,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -267,8 +289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -277,7 +299,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         },
@@ -288,7 +310,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         },
@@ -300,8 +322,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         }
       ]
     },
@@ -316,9 +338,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 02时46分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -344,7 +366,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         }
@@ -360,11 +382,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
         }
       ]
     }
