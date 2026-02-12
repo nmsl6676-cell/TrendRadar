@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T01:50:03.271113+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-02-13T02:44:50.041378+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -49,19 +49,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
-          "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
-          "url": "https://flash.jin10.com/detail/20260213014349442800",
-          "source": "金十数据",
+          "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "02时44分"
         },
         {
           "title": "美媒：特朗普政府秘密向伊朗输送星链终端",
@@ -86,15 +86,16 @@
           "time_info": "00时44分"
         },
         {
-          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
-          "url": "https://wallstreetcn.com/livenews/3054656",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
+          "url": "https://flash.jin10.com/detail/20260213014349442800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时44分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
@@ -109,15 +110,28 @@
           "time_info": "[00时44分 ~ 01时50分]"
         },
         {
+          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
+          "url": "https://wallstreetcn.com/livenews/3054656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时44分]"
+        },
+        {
           "title": "中方回应“特朗普将于4月初访华”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 02时44分]"
         },
         {
           "title": "据华尔街日报：美国官员表示，特朗普政府上月秘密向伊朗输送了数千台星链终端。",
@@ -170,7 +184,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -181,9 +195,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "据知情人士透露，派拉蒙天舞（Paramount SkyDance）的CEO David Ellison上周在白宫秘密会见了美国总统特朗普。（CNN）",
@@ -192,7 +217,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -210,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 02时44分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -232,8 +257,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -242,7 +267,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -253,7 +278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -275,9 +300,71 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
+          "url": "https://wallstreetcn.com/livenews/3054632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时50分]"
+        },
+        {
+          "title": "OpenAI推出首款采用Cerebras芯片的新模型 减少对英伟达的依赖",
+          "url": "https://flash.jin10.com/detail/20260213020708327800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "Experian在ChatGPT上推出保险市场应用程序。",
+          "url": "https://flash.jin10.com/detail/20260213000053851800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "市场消息：OpenAI推出首款采用Cerebras芯片的AI模型。",
+          "url": "https://flash.jin10.com/detail/20260213020224324800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         }
       ]
     },
@@ -290,11 +377,12 @@
           "url": "https://flash.jin10.com/detail/20260213014623194800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时44分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
@@ -315,7 +403,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
@@ -326,7 +414,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -342,11 +430,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -357,8 +446,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -366,40 +455,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
-          "url": "https://wallstreetcn.com/livenews/3054632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时50分]"
-        },
-        {
-          "title": "Experian在ChatGPT上推出保险市场应用程序。",
-          "url": "https://flash.jin10.com/detail/20260213000053851800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         }
       ]
     },
@@ -416,8 +477,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "分析师：金价失守5000美元引发连锁抛售",
@@ -426,7 +487,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         }
@@ -444,8 +505,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时44分]"
         }
       ]
     },
