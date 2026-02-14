@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T14:31:26.438077+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-02-14T15:27:17.409605+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "中方回应特朗普或将4月访华",
@@ -20,11 +20,12 @@
             23,
             11,
             24,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时27分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -105,6 +106,18 @@
           "time_info": "[00时31分 ~ 02时31分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时27分]"
+        },
+        {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
           "source": "澎湃新闻",
@@ -148,18 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时31分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -218,6 +219,31 @@
           "time_info": "[01时33分 ~ 04时24分]"
         },
         {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时27分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时27分]"
+        },
+        {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
           "url": "https://flash.jin10.com/detail/20260214023919171800",
           "source": "金十数据",
@@ -267,29 +293,15 @@
           "time_info": "[02时31分 ~ 03时35分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时27分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -331,17 +343,6 @@
           "time_info": "[03时35分 ~ 05时25分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时31分]"
-        },
-        {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
           "url": "https://wallstreetcn.com/livenews/3055310",
           "source": "华尔街见闻-快讯",
@@ -376,6 +377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时27分]"
         },
         {
           "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
@@ -448,6 +460,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
           "url": "https://flash.jin10.com/detail/20260214005844618800",
           "source": "金十数据",
@@ -490,17 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
-        },
-        {
-          "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
@@ -801,6 +813,20 @@
           "time_info": "[00时31分 ~ 14时31分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 15时27分]"
+        },
+        {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
           "url": "https://wallstreetcn.com/articles/3765636",
           "source": "华尔街见闻",
@@ -824,20 +850,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 14时31分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -1009,6 +1021,19 @@
           "time_info": "[07时20分 ~ 09时01分]"
         },
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时27分]"
+        },
+        {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
           "url": "https://wallstreetcn.com/livenews/3055390",
           "source": "华尔街见闻-快讯",
@@ -1031,18 +1056,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时31分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -1092,8 +1105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时27分]"
         },
         {
           "title": "伊朗外长：内塔尼亚胡是战争贩子",
@@ -1155,11 +1168,12 @@
           "url": "https://news.ifeng.com/c/8qjjAveB5Qh",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时27分]"
         },
         {
           "title": "伊朗前高官：若遭美攻击先打以色列",
@@ -1187,7 +1201,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1215,8 +1229,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时27分]"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时27分]"
+        },
+        {
+          "title": "一年了 美国还在追着DeepSeek抹黑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%BA%86+%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%9C%A8%E8%BF%BD%E7%9D%80DeepSeek%E6%8A%B9%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时27分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1231,38 +1270,27 @@
           "time_info": "[11时29分 ~ 13时04分]"
         },
         {
-          "title": "一年了 美国还在追着DeepSeek抹黑",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%BA%86+%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%9C%A8%E8%BF%BD%E7%9D%80DeepSeek%E6%8A%B9%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时31分]"
-        },
-        {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时27分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时27分"
         }
       ]
     },
@@ -1290,8 +1318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时27分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -1312,11 +1340,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时27分]"
         },
         {
           "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
