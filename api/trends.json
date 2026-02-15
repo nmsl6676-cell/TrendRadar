@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-15T13:48:33.992630+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-02-15T14:37:47.693793+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
           "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 13时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 14时37分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -94,11 +95,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时37分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -108,8 +110,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时37分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://flash.jin10.com/detail/20260215135912358800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -150,8 +163,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时37分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -183,11 +196,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 14时37分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -195,11 +209,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 14时37分]"
         }
       ]
     },
@@ -242,9 +257,48 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英媒：若美国愿意解除制裁 伊朗将考虑就核谈判做出妥协",
+          "url": "https://flash.jin10.com/detail/20260215141325136800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
+          "url": "https://flash.jin10.com/detail/20260215140753081800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "伊朗重申和平利用核能权利不可剥夺",
+          "url": "https://flash.jin10.com/detail/20260215093352187800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
@@ -321,25 +375,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 13时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗重申和平利用核能权利不可剥夺",
-          "url": "https://flash.jin10.com/detail/20260215093352187800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 14时37分]"
         }
       ]
     }
