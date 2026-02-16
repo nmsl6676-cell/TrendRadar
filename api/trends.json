@@ -1,806 +1,22 @@
 {
-  "generated_at": "2026-02-16T23:31:21.648048+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-02-17T00:30:12.240837+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时01分 ~ 23时31分]"
-        },
-        {
-          "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
-          "url": "https://wallstreetcn.com/livenews/3055621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 09时04分]"
-        },
-        {
-          "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
-          "url": "https://wallstreetcn.com/livenews/3055618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗副外长：伊美已将石油天然气、矿产投资乃至飞机采购等领域的议题纳入谈判文本中",
-          "url": "https://wallstreetcn.com/livenews/3055609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 07时15分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
-          "url": "https://flash.jin10.com/detail/20260215221126386800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "伊朗外长启程赴会，以总理预设四项条件",
-          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 14时01分]"
-        },
-        {
-          "title": "伊朗高官：愿与美国达成为双方带来经济利益的核协议",
-          "url": "https://flash.jin10.com/detail/20260216143137748800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
-          "url": "https://flash.jin10.com/detail/20260215194121768800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时14分]"
-        },
-        {
-          "title": "伊朗外长说不会屈服于威胁",
-          "url": "https://wallstreetcn.com/livenews/3055707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 20时34分]"
-        },
-        {
-          "title": "伊朗副外长：伊美已将经贸领域议题纳入谈判文本",
-          "url": "https://flash.jin10.com/detail/20260215173311996800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "伊朗官员证实第二轮美伊谈判将于周二举行",
-          "url": "https://flash.jin10.com/detail/20260215172142272800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
-          "url": "https://wallstreetcn.com/livenews/3055730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 21时58分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
-          "url": "https://flash.jin10.com/detail/20260216191911022800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时34分]"
-        },
-        {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://wallstreetcn.com/livenews/3055641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时04分]"
-        },
-        {
-          "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3055640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时04分]"
-        },
-        {
-          "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
-          "url": "https://flash.jin10.com/detail/20260216050609770800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗外长启程参加第二轮伊美谈判",
-          "url": "https://wallstreetcn.com/livenews/3055639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时04分]"
-        },
-        {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时02分 ~ 17时41分]"
-        },
-        {
-          "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
-          "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 15时02分]"
-        },
-        {
-          "title": "美伊新一轮谈判在即 以总理：伊朗必须拆除核设施",
-          "url": "https://flash.jin10.com/detail/20260216041408741800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "美国务卿：向中东派兵是为防御，仍尝试与伊朗达成协议",
-          "url": "https://news.ifeng.com/c/8qmDbCkeOUn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时04分]"
-        },
-        {
-          "title": "消息人士：乌克兰问题谈判和伊朗问题谈判将于2月17日同日在日内瓦举行",
-          "url": "https://flash.jin10.com/detail/20260216164212877800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时38分]"
-        },
-        {
-          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
-          "url": "https://wallstreetcn.com/livenews/3055723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时34分]"
-        },
-        {
-          "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
-          "url": "https://flash.jin10.com/detail/20260216155000444800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时41分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我将与核专家们一起，于周一与国际原子能机构总干事格罗西进行深入的技术探讨。与此同时，周二在与美国进行外交谈判之前，我还将会见阿曼外交大臣。我带着切实可行的方案来到日内瓦，旨在达成公平公正的协议。屈服于威胁的选项不在谈判桌上。",
-          "url": "https://flash.jin10.com/detail/20260216135843569800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行演习",
-          "url": "https://flash.jin10.com/detail/20260216185851469800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "伊朗谈判桌上抛出经济筹码",
-          "url": "https://www.toutiao.com/trending/7607288187614232627/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行演习，旨在检验其应对“潜在安全和军事威胁”的战备状态。",
-          "url": "https://flash.jin10.com/detail/20260216184823345800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 09时04分]"
-        },
-        {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 09时04分]"
-        },
-        {
-          "title": "奥巴马回应被特朗普恶搞成猿猴",
-          "url": "https://www.douyin.com/hot/2401829",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24,
-            23,
-            21,
-            19,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 09时04分]"
-        },
-        {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时33分]"
-        },
-        {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 15时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "市场消息：据报道，特朗普政府最高制裁官员约翰·赫尔利即将卸任负责恐怖主义和金融情报的副部长一职，原因是他与财政部长斯科特·贝森特关系紧张，目前正在讨论他可能出任大使一职。",
-          "url": "https://flash.jin10.com/detail/20260216044651803800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
-          "url": "https://flash.jin10.com/detail/20260216044347034800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时34分]"
-        },
-        {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 20时34分]"
-        },
-        {
-          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
-          "url": "https://flash.jin10.com/detail/20260216042836136800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
-          "url": "https://flash.jin10.com/detail/20260216191100927800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时34分]"
-        },
-        {
-          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
-          "url": "https://flash.jin10.com/detail/20260216131526064800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时02分]"
-        },
-        {
-          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
-          "url": "https://wallstreetcn.com/livenews/3055729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时58分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
-          "url": "https://flash.jin10.com/detail/20260216185958619800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时34分]"
-        },
-        {
-          "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
-          "url": "https://flash.jin10.com/detail/20260216082549154800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
-          "url": "https://flash.jin10.com/detail/20260216192059299800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
-          "url": "https://flash.jin10.com/detail/20260216185813326800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普边境事务主管驳回民主党改革ICE的要求",
-          "url": "https://flash.jin10.com/detail/20260216075810272800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "市场消息：特朗普政府取消了环保局为配备启停技术的车辆提供的排放积分，终止了一项旨在奖励汽车制造商安装等红灯时关闭发动机的节油系统的计划。",
-          "url": "https://flash.jin10.com/detail/20260216074424389800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时12分 ~ 23时31分]"
-        },
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 15时02分]"
-        },
-        {
-          "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
-          "url": "https://flash.jin10.com/detail/20260216045621525800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
-          "url": "https://flash.jin10.com/detail/20260216054636166800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时15分]"
-        },
-        {
-          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2006637072895738078",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时02分]"
-        },
-        {
-          "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
-          "url": "https://flash.jin10.com/detail/20260216042956745800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
-          "url": "https://flash.jin10.com/detail/20260216153347079800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 22时39分]"
-        },
-        {
-          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
-          "url": "https://www.zhihu.com/question/2004209286281205228",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            15,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 07时15分]"
-        },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
           "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 23时31分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时32分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -809,152 +25,121 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "千问3.5成本仅为谷歌大模型5%",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
+          "source": "金十数据",
           "ranks": [
-            30
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时34分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
-          "url": "https://flash.jin10.com/detail/20260215215525567800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 06时12分]"
-        },
-        {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时34分]"
-        },
         {
           "title": "提醒：美股今日因假期休市一天。",
           "url": "https://wallstreetcn.com/livenews/3055774",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时30分"
         },
         {
           "title": "美股今日休市一天",
           "url": "https://flash.jin10.com/detail/20260216222506509800",
           "source": "金十数据",
           "ranks": [
-            14
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "特朗普",
       "match_count": 2,
       "titles": [
         {
-          "title": "避险模式！大摩：市场开始买美债了",
-          "url": "https://wallstreetcn.com/articles/3765775",
-          "source": "华尔街见闻",
+          "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
+          "url": "https://flash.jin10.com/detail/20260216235622274800",
+          "source": "金十数据",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 23时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
-          "title": "大摩：市场开始买美债了",
-          "url": "https://www.toutiao.com/trending/7607327141323083327/",
-          "source": "今日头条",
+          "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
+          "url": "https://flash.jin10.com/detail/20260216234427683800",
+          "source": "金十数据",
           "ranks": [
-            17
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时02分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 09时04分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
+        },
+        {
+          "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
+          "url": "https://flash.jin10.com/detail/20260217000835119800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260216110854337800",
-          "source": "金十数据",
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY突破97，日内涨0.13%。",
-          "url": "https://flash.jin10.com/detail/20260216202327950800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时58分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     }
