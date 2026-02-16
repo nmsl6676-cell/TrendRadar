@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T19:32:46.421316+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-16T20:34:29.778961+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 20时34分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -105,26 +106,18 @@
           "time_info": "[00时15分 ~ 05时14分]"
         },
         {
-          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
-          "url": "https://flash.jin10.com/detail/20260216191911022800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
-          "url": "https://wallstreetcn.com/livenews/3055730",
+          "title": "伊朗外长说不会屈服于威胁",
+          "url": "https://wallstreetcn.com/livenews/3055707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2,
+            13,
+            24,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时34分]"
         },
         {
           "title": "伊朗副外长：伊美已将经贸领域议题纳入谈判文本",
@@ -149,17 +142,28 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
-          "title": "伊朗外长说不会屈服于威胁",
-          "url": "https://wallstreetcn.com/livenews/3055707",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
+          "url": "https://flash.jin10.com/detail/20260216191911022800",
+          "source": "金十数据",
           "ranks": [
             2,
-            13,
-            24
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时32分]"
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时34分]"
+        },
+        {
+          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
+          "url": "https://wallstreetcn.com/livenews/3055730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时34分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -271,6 +275,18 @@
           "time_info": "[17时41分 ~ 18时38分]"
         },
         {
+          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
+          "url": "https://wallstreetcn.com/livenews/3055723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时34分]"
+        },
+        {
           "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
           "url": "https://flash.jin10.com/detail/20260216155000444800",
           "source": "金十数据",
@@ -281,17 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时41分]"
-        },
-        {
-          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
-          "url": "https://wallstreetcn.com/livenews/3055723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
         },
         {
           "title": "伊朗外长阿拉格齐：我将与核专家们一起，于周一与国际原子能机构总干事格罗西进行深入的技术探讨。与此同时，周二在与美国进行外交谈判之前，我还将会见阿曼外交大臣。我带着切实可行的方案来到日内瓦，旨在达成公平公正的协议。屈服于威胁的选项不在谈判桌上。",
@@ -311,9 +316,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "伊朗谈判桌上抛出经济筹码",
+          "url": "https://www.toutiao.com/trending/7607288187614232627/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "伊朗革命卫队海军在霍尔木兹海峡举行演习，旨在检验其应对“潜在安全和军事威胁”的战备状态。",
@@ -322,7 +338,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         }
@@ -330,7 +346,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -439,17 +455,6 @@
           "time_info": "[09时04分 ~ 15时02分]"
         },
         {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
@@ -487,6 +492,31 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时34分]"
+        },
+        {
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时34分]"
+        },
+        {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
           "url": "https://flash.jin10.com/detail/20260216042836136800",
           "source": "金十数据",
@@ -500,16 +530,16 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
+          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            17
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时32分]"
+          "time_info": "[19时32分 ~ 20时34分]"
         },
         {
           "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
@@ -524,15 +554,16 @@
           "time_info": "[14时01分 ~ 15时02分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
-          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
+          "url": "https://flash.jin10.com/detail/20260216185958619800",
           "source": "金十数据",
           "ranks": [
-            7
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时34分]"
         },
         {
           "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
@@ -546,15 +577,26 @@
           "time_info": "09时04分"
         },
         {
-          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
-          "url": "https://flash.jin10.com/detail/20260216185958619800",
-          "source": "金十数据",
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "20时34分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
+          "url": "https://flash.jin10.com/detail/20260216192059299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
@@ -563,7 +605,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -596,6 +638,21 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 20时34分]"
+        },
+        {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
@@ -608,20 +665,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 15时02分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 19时32分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -699,7 +742,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -711,8 +754,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 19时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 20时34分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -742,6 +785,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时41分 ~ 19时32分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "千问3.5成本仅为谷歌大模型5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
@@ -757,8 +822,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 20时34分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -799,8 +864,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时34分]"
         }
       ]
     },
