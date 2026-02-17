@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T01:46:59.110784+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-18T02:40:47.467985+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时40分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时40分]"
         },
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -37,9 +37,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时40分]"
+        },
+        {
+          "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
+          "url": "https://wallstreetcn.com/livenews/3056092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时40分"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -69,11 +80,12 @@
           "url": "https://wallstreetcn.com/livenews/3056068",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时40分]"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -82,7 +94,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -115,7 +127,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -129,25 +141,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
-        },
         {
           "title": "哈梅内伊回应特朗普威胁",
           "url": "https://news.ifeng.com/c/8qpTdmSckn9",
@@ -155,9 +166,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时40分]"
+        },
+        {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时40分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -166,9 +190,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
+          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -218,15 +253,37 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260218021023992800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
+          "url": "https://wallstreetcn.com/livenews/3056077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
@@ -253,8 +310,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时40分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -264,8 +321,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时40分]"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -322,8 +379,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时40分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -343,6 +400,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
+          "url": "https://wallstreetcn.com/livenews/3056066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时40分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
           "url": "https://wallstreetcn.com/livenews/3056044",
           "source": "华尔街见闻-快讯",
@@ -353,17 +422,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时46分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
-          "url": "https://wallstreetcn.com/livenews/3056066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         }
       ]
     },
