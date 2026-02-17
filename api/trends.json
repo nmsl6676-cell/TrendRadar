@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T17:36:55.865784+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-17T18:35:43.824319+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 18时35分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时26分 ~ 07时18分]"
+        },
+        {
+          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
+          "url": "https://wallstreetcn.com/livenews/3055943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -275,6 +286,17 @@
           "time_info": "[16时31分 ~ 17时36分]"
         },
         {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "美国总统特朗普：得州参议院共和党的初选是最艰难的选战之一；支持得州参议院共和党初选的所有三位候选人。",
           "url": "https://flash.jin10.com/detail/20260217082727854800",
           "source": "金十数据",
@@ -344,7 +366,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
@@ -354,8 +376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时03分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 18时35分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -380,8 +402,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 17时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 18时35分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -399,15 +421,37 @@
           "time_info": "[01时31分 ~ 06时16分]"
         },
         {
+          "title": "哈梅内伊强调美国无法摧毁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3055945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "市场消息：伊朗外长阿拉格齐正在与阿曼方面进行对话。阿拉格齐几分钟前进入谈判场地，目前正在与阿曼外长布萨伊迪会面。",
           "url": "https://flash.jin10.com/detail/20260217171614267800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "哈梅内伊称美国无法摧毁伊朗",
+          "url": "https://flash.jin10.com/detail/20260217181436187800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
@@ -528,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -539,7 +583,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -550,7 +594,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -561,9 +605,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "伊朗最高领袖：美国总统在最近的一次演讲中说，47年来美国都没能摧毁伊朗伊斯兰共和国；他向自己的人民抱怨。",
+          "url": "https://flash.jin10.com/detail/20260217180007652800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "伊朗最高领袖：航母当然是个危险的武器，但比航母更危险的是能把这艘航母沉入海底的武器。",
+          "url": "https://flash.jin10.com/detail/20260217175935944800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "市场消息：伊朗方面透露，在霍尔木兹海峡的演习中，发射导弹的超高速海军单位参与了导弹作战。来自伊朗内陆、沿海和波斯湾伊朗岛屿的导弹击中了霍尔木兹海峡的目标。",
+          "url": "https://flash.jin10.com/detail/20260217174152696800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "伊朗外交部发言人：伊朗与美国在日内瓦的会谈尚未开始。伊朗代表团将很快前往谈判地点。",
@@ -572,7 +649,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
@@ -588,22 +665,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时36分]"
-        },
-        {
-          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
-          "url": "https://wallstreetcn.com/livenews/3055925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时35分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -617,6 +684,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时03分 ~ 13时51分]"
+        },
+        {
+          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
+          "url": "https://wallstreetcn.com/livenews/3055925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时35分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -636,7 +715,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -647,7 +726,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -748,7 +827,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
@@ -770,8 +849,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 18时35分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -785,8 +864,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 18时35分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -810,6 +889,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260217171116932800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
@@ -838,23 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
-          "url": "https://flash.jin10.com/detail/20260217171116932800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         }
       ]
     },
