@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T05:26:48.595040+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-19T06:27:31.833948+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -68,11 +79,12 @@
           "url": "https://wallstreetcn.com/livenews/3056475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -111,6 +123,18 @@
           "time_info": "[01时46分 ~ 02时37分]"
         },
         {
+          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
+          "url": "https://wallstreetcn.com/livenews/3056471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
           "url": "https://wallstreetcn.com/livenews/3056445",
           "source": "华尔街见闻-快讯",
@@ -128,18 +152,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
-          "url": "https://wallstreetcn.com/livenews/3056471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -150,7 +163,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -183,7 +196,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -208,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "美国高级官员：特朗普的国家安全顾问今天在白宫战情室会议上讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260219053215762800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -241,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "美国总统特朗普：（正在白宫旧址上拔地而起的）将是“有史以来最宏伟的宴会厅”——完全由美国爱国者捐助者出资，美国纳税人零成本！",
+          "url": "https://flash.jin10.com/detail/20260219052431658800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
@@ -322,8 +357,187 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
+        },
+        {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时26分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3056498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260219015912053800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260219014349881800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260219051836764800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260219051816533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -331,11 +545,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -346,8 +561,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时27分]"
         },
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -357,8 +572,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 06时27分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -429,6 +644,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "美国高级官员：美国国务卿鲁比奥将于2月28日的周末前往以色列，与以色列总理内塔尼亚胡会晤，讨论伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260219053142625800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "美国白宫：在伊朗问题上取得了一些进展。",
           "url": "https://flash.jin10.com/detail/20260219024728278800",
           "source": "金十数据",
@@ -440,135 +666,22 @@
           "time_info": "03时40分"
         },
         {
+          "title": "美国高级官员：美国希望伊朗在周二日内瓦会谈后提交一份关于解决僵局的书面提案。",
+          "url": "https://flash.jin10.com/detail/20260219053101719800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
           "url": "https://flash.jin10.com/detail/20260218230908167800",
           "source": "金十数据",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
-        },
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
-        },
-        {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时26分]"
-        },
-        {
-          "title": "房利美股价迅速扩大涨幅，上涨4%。",
-          "url": "https://flash.jin10.com/detail/20260218231319433800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260219015912053800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260219014349881800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美股两房涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3056379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -664,6 +777,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时26分]"
+        },
+        {
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://wallstreetcn.com/livenews/3056499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -697,27 +850,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
-          "url": "https://wallstreetcn.com/livenews/3056432",
+          "title": "金价涨约2%，白银涨约5%",
+          "url": "https://wallstreetcn.com/livenews/3056504",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            26
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -730,11 +882,12 @@
           "url": "https://wallstreetcn.com/livenews/3056469",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时27分]"
         }
       ]
     }
