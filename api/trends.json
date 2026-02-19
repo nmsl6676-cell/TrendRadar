@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T12:08:51.007440+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-02-19T13:51:06.132107+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时51分]"
+        },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
           "url": "https://news.ifeng.com/c/8qraTXTgXgI",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
         },
         {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
@@ -62,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
@@ -157,6 +168,17 @@
           "time_info": "[03时40分 ~ 05时26分]"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
           "url": "https://wallstreetcn.com/livenews/3056416",
           "source": "华尔街见闻-快讯",
@@ -214,6 +236,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时26分]"
+        },
+        {
+          "title": "据英国金融时报：据知情人士透露，摩根大通正在洽谈为特朗普的“和平委员会”提供银行服务。",
+          "url": "https://flash.jin10.com/detail/20260219130438457800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
@@ -288,7 +321,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -461,7 +494,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -483,11 +516,12 @@
             9,
             8,
             7,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -499,8 +533,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -512,6 +546,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
+          "url": "https://wallstreetcn.com/livenews/3056575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://wallstreetcn.com/livenews/3056574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
+          "url": "https://wallstreetcn.com/articles/3765848",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时51分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -526,6 +594,31 @@
           "time_info": "[04时26分 ~ 05时26分]"
         },
         {
+          "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
+          "url": "https://wallstreetcn.com/livenews/3056541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时51分]"
+        },
+        {
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时51分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
           "url": "https://wallstreetcn.com/livenews/3056448",
           "source": "华尔街见闻-快讯",
@@ -538,16 +631,15 @@
           "time_info": "[03时40分 ~ 05时26分]"
         },
         {
-          "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
-          "url": "https://wallstreetcn.com/livenews/3056541",
-          "source": "华尔街见闻-快讯",
+          "title": "美军舰和战机在伊朗附近集结",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E8%88%B0%E5%92%8C%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%99%84%E8%BF%91%E9%9B%86%E7%BB%93",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时08分]"
+          "time_info": "[13时50分 ~ 13时51分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -561,26 +653,15 @@
           "time_info": "[00时48分 ~ 01时46分]"
         },
         {
-          "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
-          "url": "https://wallstreetcn.com/articles/3765848",
-          "source": "华尔街见闻",
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            7
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
-          "url": "https://wallstreetcn.com/articles/3765857",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
         },
         {
           "title": "曝美军准备“最早本周末打伊朗”",
@@ -592,6 +673,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
+          "url": "https://flash.jin10.com/detail/20260219125907757800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://flash.jin10.com/detail/20260219125851748800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "美军舰和战机在伊朗附近集结",
@@ -726,6 +829,17 @@
           "time_info": "[00时48分 ~ 06时27分]"
         },
         {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 13时51分]"
+        },
+        {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
@@ -746,8 +860,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -759,19 +873,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时08分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时27分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -782,8 +885,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -890,7 +993,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
@@ -939,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 01时46分]"
+        },
+        {
+          "title": "谷歌Gemini上线音乐模型",
+          "url": "https://www.toutiao.com/trending/7608160422319472646/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
         },
         {
           "title": "谷歌公司增添音乐生成功能到Gemini APP。",
@@ -1004,6 +1118,18 @@
           "time_info": "[06时27分 ~ 07时19分]"
         },
         {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时51分]"
+        },
+        {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
@@ -1021,18 +1147,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -1136,7 +1251,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
