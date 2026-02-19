@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-02-20T02:38:49.944487+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-02-20T03:33:57.126123+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
-          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
-          "url": "https://flash.jin10.com/detail/20260220021119038800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
-          "url": "https://flash.jin10.com/detail/20260220021016649800",
+          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
+          "url": "https://flash.jin10.com/detail/20260220030505008800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
-          "url": "https://flash.jin10.com/detail/20260220020836905800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "03时33分"
         },
         {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
@@ -52,16 +30,78 @@
           "time_info": "00时39分"
         },
         {
+          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
+          "url": "https://wallstreetcn.com/livenews/3056738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
           "title": "特朗普签署“和平委员会”财政决议 誓言要整顿加沙",
           "url": "https://flash.jin10.com/detail/20260220011157033800",
           "source": "金十数据",
           "ranks": [
             2,
-            19
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时33分]"
+        },
+        {
+          "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
+          "url": "https://wallstreetcn.com/livenews/3056724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时33分]"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
+          "url": "https://flash.jin10.com/detail/20260220021119038800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时38分]"
+          "time_info": "[02时38分 ~ 03时33分]"
+        },
+        {
+          "title": "特朗普主题ETF管理公司收购MAGA基金",
+          "url": "https://wallstreetcn.com/livenews/3056722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时33分]"
+        },
+        {
+          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
+          "url": "https://flash.jin10.com/detail/20260220021016649800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时33分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -76,28 +116,29 @@
           "time_info": "[00时39分 ~ 01时42分]"
         },
         {
-          "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
-          "url": "https://wallstreetcn.com/livenews/3056724",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260220020836905800",
+          "source": "金十数据",
           "ranks": [
             3,
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时38分]"
+          "time_info": "[02时38分 ~ 03时33分]"
         },
         {
-          "title": "特朗普主题ETF管理公司收购MAGA基金",
-          "url": "https://wallstreetcn.com/livenews/3056722",
+          "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
+          "url": "https://wallstreetcn.com/livenews/3056716",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11
+            10,
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时33分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -112,38 +153,39 @@
           "time_info": "[00时38分 ~ 01时42分]"
         },
         {
-          "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
-          "url": "https://wallstreetcn.com/livenews/3056716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时38分]"
-        },
-        {
           "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
           "url": "https://flash.jin10.com/detail/20260220015619763800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时33分]"
         },
         {
           "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
           "url": "https://wallstreetcn.com/livenews/3056728",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时33分]"
+        },
+        {
+          "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
+          "url": "https://flash.jin10.com/detail/20260220021610767800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "03时33分"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -390,19 +432,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
           "url": "https://wallstreetcn.com/articles/3765848",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -410,11 +453,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
@@ -422,11 +466,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -436,8 +481,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美以或对伊朗发动大规模袭击",
@@ -448,8 +493,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "伊朗",
@@ -458,11 +503,12 @@
           "ranks": [
             17,
             24,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -471,11 +517,12 @@
           "ranks": [
             23,
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -494,11 +541,24 @@
           "url": "https://flash.jin10.com/detail/20260220013354601800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时33分]"
+        },
+        {
+          "title": "美国被曝最早本周末攻打伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时33分]"
         },
         {
           "title": "佩斯科夫：俄方将继续发展与伊朗的关系",
@@ -521,17 +581,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "美国被曝最早本周末攻打伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
         },
         {
           "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
@@ -569,8 +618,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -580,30 +629,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -613,8 +664,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -639,11 +690,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时33分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出安卓开发者验证机制以追究不良行为者责任。",
@@ -663,39 +715,53 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时33分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
-          "url": "https://flash.jin10.com/detail/20260220020324756800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
           "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时33分]"
+        },
+        {
+          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
+          "url": "https://flash.jin10.com/detail/20260220020324756800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时33分]"
+        },
+        {
+          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
+          "url": "https://wallstreetcn.com/livenews/3056737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
         }
       ]
     },
