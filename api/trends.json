@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T09:03:54.270298+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-02-23T12:12:04.596825+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -139,13 +139,24 @@
           "time_info": "07时15分"
         },
         {
+          "title": "伊朗陆军称密切监控边境敌方动向",
+          "url": "https://flash.jin10.com/detail/20260223115649999800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "伊朗总统：正持续密切关注美国行动",
           "url": "https://wallstreetcn.com/livenews/3057315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -189,6 +200,52 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
+          "title": "伊朗医学组织：战备医疗体系随时待命，快速反应队伍可即刻增援",
+          "url": "https://news.ifeng.com/c/8qyG13VOv9B",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时12分]"
+        },
+        {
+          "title": "多国紧急提醒：立即离开伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9A%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时12分]"
+        },
+        {
+          "title": "伊朗多所高校再出现学生反政府集会",
+          "url": "https://news.ifeng.com/c/8qyIqT5ziOE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
           "title": "伊朗外交部：伊朗和阿曼外长通话 就下一轮谈判的安排进行了磋商",
           "url": "https://flash.jin10.com/detail/20260223044644545800",
           "source": "金十数据",
@@ -213,17 +270,6 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "伊朗医学组织：战备医疗体系随时待命，快速反应队伍可即刻增援",
-          "url": "https://news.ifeng.com/c/8qyG13VOv9B",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
           "title": "伊朗外交部：伊朗外长与伊拉克外长通话",
           "url": "https://flash.jin10.com/detail/20260223055620146800",
           "source": "金十数据",
@@ -241,18 +287,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "多国紧急提醒：立即离开伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9A%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -263,7 +298,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -274,7 +309,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -285,7 +320,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -296,7 +331,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -307,9 +342,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "高盛：伊朗/俄罗斯制裁的潜在放松将加速原油库存增加，并在长期内释放更多供应，预计2026年第四季度原油价格将有5%至8%的下行空间。",
+          "url": "https://flash.jin10.com/detail/20260223100430112800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "内塔尼亚胡被曝对美方伊朗政策存疑",
@@ -318,7 +364,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         }
@@ -326,7 +372,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -336,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时12分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -368,11 +414,12 @@
           "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时12分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -393,8 +440,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时12分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -472,15 +519,38 @@
           "time_info": "[01时17分 ~ 07时15分]"
         },
         {
+          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
+          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
+          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
           "title": "连锁反应来了，印度打脸特朗普",
           "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时12分]"
         },
         {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
@@ -489,7 +559,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -541,6 +611,18 @@
           "time_info": "[06时13分 ~ 07时15分]"
         },
         {
+          "title": "男子持枪闯入特朗普住所被击毙",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时12分]"
+        },
+        {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
           "url": "https://www.cls.cn/detail/2292216",
           "source": "财联社热门",
@@ -550,6 +632,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时17分]"
+        },
+        {
+          "title": "连锁反应来了 印度打脸特朗普",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时12分]"
+        },
+        {
+          "title": "商务部回应美裁定特朗普关税违法",
+          "url": "https://www.toutiao.com/trending/7609570732955959359/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
@@ -570,20 +675,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
         {
-          "title": "连锁反应来了 印度打脸特朗普",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：我们赢得太多了，这不公平。",
+          "url": "https://flash.jin10.com/detail/20260223104454862800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "12时12分"
         },
         {
           "title": "韩国产业部长：将在政府应对特朗普关税的举措中反映商界的意见。",
@@ -592,7 +697,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -603,7 +708,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -617,17 +722,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "男子持枪闯入特朗普住所被击毙",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
         }
       ]
     },
@@ -643,8 +737,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时12分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -672,8 +766,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 12时12分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -724,8 +818,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 09时03分]"
+          "appearance_count": 10,
+          "time_info": "[02时19分 ~ 12时12分]"
         }
       ]
     }
