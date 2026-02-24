@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T03:50:47.226100+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-25T04:22:59.201457+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,52 +37,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
-        },
-        {
-          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
-          "url": "https://flash.jin10.com/detail/20260225033807828800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
           "url": "https://wallstreetcn.com/livenews/3058315",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
+          "url": "https://flash.jin10.com/detail/20260225041411754800",
+          "source": "金十数据",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "04时22分"
         },
         {
-          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
-          "url": "https://flash.jin10.com/detail/20260225033140480800",
+          "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
+          "url": "https://flash.jin10.com/detail/20260225041158111800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
-          "url": "https://flash.jin10.com/detail/20260225032658019800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "04时22分"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -103,8 +93,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
+        },
+        {
+          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
+          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
+        },
+        {
+          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
+          "url": "https://flash.jin10.com/detail/20260225033140480800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
+        },
+        {
+          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
+          "url": "https://flash.jin10.com/detail/20260225032658019800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -124,11 +150,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 04时22分]"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时50分]"
+          "time_info": "[03时50分 ~ 04时22分]"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -192,18 +231,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         }
@@ -222,8 +250,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -234,19 +262,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
-        },
-        {
-          "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
-          "url": "https://wallstreetcn.com/livenews/3058314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -258,6 +275,55 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
+        },
+        {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
+        },
+        {
+          "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
+          "url": "https://wallstreetcn.com/livenews/3058314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
         },
         {
           "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
@@ -284,63 +350,40 @@
           "time_info": "[00时55分 ~ 01时51分]"
         },
         {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
-        },
-        {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
-        },
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
-        },
-        {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://flash.jin10.com/detail/20260225025902265800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://wallstreetcn.com/livenews/3058301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
+        },
+        {
+          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3058288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -363,17 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3058288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
         }
       ]
     },
@@ -389,8 +421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -400,8 +432,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -411,8 +443,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -445,8 +477,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时22分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
@@ -488,17 +520,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
-          "url": "https://flash.jin10.com/detail/20260225031610332800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
           "url": "https://wallstreetcn.com/livenews/3058274",
           "source": "华尔街见闻-快讯",
@@ -520,6 +541,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时51分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
+          "url": "https://flash.jin10.com/detail/20260225031610332800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
         }
       ]
     },
@@ -534,9 +567,26 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "04时22分"
         }
       ]
     }
