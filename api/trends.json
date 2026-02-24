@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T07:26:09.276842+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-02-24T09:02:14.647885+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -27,19 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
           "url": "https://wallstreetcn.com/articles/3765969",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -51,8 +52,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
+        },
+        {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普考虑对伊朗先小打再大打",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%85%88%E5%B0%8F%E6%89%93%E5%86%8D%E5%A4%A7%E6%89%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
@@ -202,15 +237,26 @@
           "time_info": "[02时59分 ~ 04时33分]"
         },
         {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
@@ -261,6 +307,18 @@
           "time_info": "[05时42分 ~ 06时31分]"
         },
         {
+          "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
+          "url": "https://flash.jin10.com/detail/20260224065522123800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时02分]"
+        },
+        {
           "title": "市场消息：特朗普正研究推出新的退休储蓄计划，可能在国情咨文中谈及退休储蓄计划。",
           "url": "https://flash.jin10.com/detail/20260224045735002800",
           "source": "金十数据",
@@ -271,6 +329,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时31分]"
+        },
+        {
+          "title": "美媒：特朗普政府考虑对六大行业征收新的国家安全关税 涵盖电池、生铁与铁质配件等",
+          "url": "https://flash.jin10.com/detail/20260224065013551800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时02分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
+          "url": "https://flash.jin10.com/detail/20260224064535357800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时02分]"
         },
         {
           "title": "美国总统特朗普正在考虑新的退休储蓄计划。 特朗普料将在国情咨文中谈及退休计划。（Semafor）",
@@ -291,9 +373,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美最高法院裁定美政府大规模关税违法，特朗普发出最新威胁",
+          "url": "https://wallstreetcn.com/livenews/3057733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "据CBS：特朗普对针对伊朗有限的军事选项感到不满，顾问们警告说，任何打击行动都可能无法起到决定性作用，并可能导致更大规模的冲突。",
+          "url": "https://flash.jin10.com/detail/20260224075629823800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
@@ -302,18 +406,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
-          "url": "https://flash.jin10.com/detail/20260224065522123800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -329,26 +422,15 @@
           "time_info": "06时31分"
         },
         {
-          "title": "美媒：特朗普政府考虑对六大行业征收新的国家安全关税 涵盖电池、生铁与铁质配件等",
-          "url": "https://flash.jin10.com/detail/20260224065013551800",
+          "title": "英媒：英国部长呼吁特朗普将英国商品关税维持在10%",
+          "url": "https://flash.jin10.com/detail/20260224075429121800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
-          "url": "https://flash.jin10.com/detail/20260224064535357800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "09时02分"
         },
         {
           "title": "报道：特朗普考虑对大约六个行业加征关税",
@@ -357,7 +439,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -390,7 +472,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -461,6 +543,28 @@
           "time_info": "01时53分"
         },
         {
+          "title": "特朗普就对伊朗可采取的军事手段选项有限感到沮丧。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3057714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "专家：特朗普“2000美元关税红利支票”的发放概率“现已降至零”",
+          "url": "https://wallstreetcn.com/livenews/3057713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
           "title": "墨西哥股指跌1%，CDS飙升，此前该国毒贩被击毙，特朗普政府要求身处墨西哥的美国人避险。",
           "url": "https://wallstreetcn.com/livenews/3057570",
           "source": "华尔街见闻-快讯",
@@ -478,7 +582,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
@@ -486,7 +590,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -505,11 +609,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -521,6 +626,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时30分 ~ 07时26分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -581,6 +708,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时42分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -664,7 +802,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -674,8 +812,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -687,8 +825,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -699,8 +837,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时02分]"
         },
         {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
@@ -756,11 +894,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时30分 ~ 07时26分]"
+          "appearance_count": 6,
+          "time_info": "[06时30分 ~ 09时02分]"
         },
         {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
@@ -811,6 +950,39 @@
           "time_info": "[05时42分 ~ 06时31分]"
         },
         {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "美考虑初步打击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%80%83%E8%99%91%E5%88%9D%E6%AD%A5%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "学者：伊朗在内忧外患中稳住阵脚",
+          "url": "https://www.toutiao.com/trending/7609923172338499625/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
           "title": "美媒：美军将领警告对伊朗动武风险极高，易陷长期冲突",
           "url": "https://flash.jin10.com/detail/20260224022000480800",
           "source": "金十数据",
@@ -820,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "以媒：以色列医疗系统为与伊朗“长期战争”做准备",
+          "url": "https://wallstreetcn.com/livenews/3057724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "阿联酋与伊朗外长讨论地区局势发展。",
@@ -890,7 +1073,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -915,6 +1098,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 04时33分]"
+        },
+        {
+          "title": "瑞银：美联储降息及地缘政治风险加剧的背景下 金价将升至6200美元",
+          "url": "https://flash.jin10.com/detail/20260224072858580800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
@@ -943,6 +1137,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3057725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
