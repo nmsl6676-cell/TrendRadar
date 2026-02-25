@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T06:20:48.442686+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-02-26T07:20:18.095266+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时20分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时20分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时20分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -127,6 +127,28 @@
           "time_info": "01时51分"
         },
         {
+          "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
+          "url": "https://flash.jin10.com/detail/20260226062305910800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）：美国（总统特朗普挑起的）关税风险造成动荡。",
+          "url": "https://wallstreetcn.com/livenews/3059075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
           "url": "https://flash.jin10.com/detail/20260226013309691800",
           "source": "金十数据",
@@ -147,6 +169,288 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260226070001630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "据CGTN：伊朗外长抵达日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260226021939626800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗长期以来一直对美国构成非常严重的威胁。伊朗目前没有进行铀浓缩，但他们正试图达到最终能够进行铀浓缩的状态。",
+          "url": "https://flash.jin10.com/detail/20260226065959242800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗拥有旨在攻击美国的常规武器。",
+          "url": "https://flash.jin10.com/detail/20260226065927497800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：周四的伊朗会谈将主要聚焦核计划。",
+          "url": "https://flash.jin10.com/detail/20260226065924812800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美财政部发布涉伊朗最新制裁名单",
+          "url": "https://wallstreetcn.com/livenews/3059047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时20分]"
+        },
+        {
+          "title": "伊朗外长抵达日内瓦 准备参加伊美第三轮间接谈判",
+          "url": "https://wallstreetcn.com/livenews/3059029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时25分]"
+        },
+        {
+          "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260226024150889800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时42分]"
+        },
+        {
+          "title": "美特使要求伊朗核协议永久有效",
+          "url": "https://flash.jin10.com/detail/20260226020947270800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特使威特科夫表示，任何伊朗核协议都应无限期有效。",
+          "url": "https://flash.jin10.com/detail/20260226015938900800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美方公布新一轮涉伊朗制裁名单",
+          "url": "https://wallstreetcn.com/livenews/3058959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国副总统万斯：希望伊朗人认真对待周四的谈判。",
+          "url": "https://flash.jin10.com/detail/20260225234806993800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗局势紧张之际，沙特石油出口飙升至三年高点",
+          "url": "https://flash.jin10.com/detail/20260225234614913800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国副总统万斯：我们看到证据表明伊朗正试图重建核武器。",
+          "url": "https://flash.jin10.com/detail/20260226061839883800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时20分]"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时20分]"
+        },
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3059060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3059057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3059092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
+          "url": "https://flash.jin10.com/detail/20260226053342414800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260226013223686800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         }
       ]
     },
@@ -260,117 +564,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "据CGTN：伊朗外长抵达日内瓦。",
-          "url": "https://flash.jin10.com/detail/20260226021939626800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "美财政部发布涉伊朗最新制裁名单",
-          "url": "https://wallstreetcn.com/livenews/3059047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时20分]"
-        },
-        {
-          "title": "伊朗外长抵达日内瓦 准备参加伊美第三轮间接谈判",
-          "url": "https://wallstreetcn.com/livenews/3059029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 05时25分]"
-        },
-        {
-          "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
-          "url": "https://flash.jin10.com/detail/20260226024150889800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时42分]"
-        },
-        {
-          "title": "美特使要求伊朗核协议永久有效",
-          "url": "https://flash.jin10.com/detail/20260226020947270800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特使威特科夫表示，任何伊朗核协议都应无限期有效。",
-          "url": "https://flash.jin10.com/detail/20260226015938900800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "美方公布新一轮涉伊朗制裁名单",
-          "url": "https://wallstreetcn.com/livenews/3058959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美国副总统万斯：希望伊朗人认真对待周四的谈判。",
-          "url": "https://flash.jin10.com/detail/20260225234806993800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗局势紧张之际，沙特石油出口飙升至三年高点",
-          "url": "https://flash.jin10.com/detail/20260225234614913800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -379,7 +574,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -435,7 +630,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -446,94 +641,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时20分]"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时20分]"
-        },
-        {
-          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3059060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
         {
-          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
-          "url": "https://wallstreetcn.com/livenews/3059059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3059057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
-          "url": "https://flash.jin10.com/detail/20260226053342414800",
+          "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
+          "url": "https://flash.jin10.com/detail/20260226062302497800",
           "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260226013223686800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -546,11 +667,12 @@
           "url": "https://wallstreetcn.com/livenews/3059073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "周三（2月25日）纽约尾盘，ICE美元指数跌0.16%，报97.690点，日内交投区间为98.002-97.622点整体呈现出W形走势。 彭博美元指数跌0.20%，报1187.44点，日内交投区间为1190.67-1186.54点。",
@@ -578,11 +700,12 @@
             16,
             24,
             25,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时20分]"
         }
       ]
     },
