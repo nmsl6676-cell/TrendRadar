@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T20:36:07.688638+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2026-02-26T22:02:38.161297+08:00",
+  "total_titles_processed": 1953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 20时36分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 22时02分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时32分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[16时32分 ~ 22时02分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时02分]"
         },
         {
           "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
@@ -52,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 22时02分]"
         },
         {
           "title": "伊朗外长抵达瑞士进行美伊第三轮谈判，伊朗总统认为伊美谈判「前景良好」，谈判焦点在于哪些方面？",
@@ -122,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://wallstreetcn.com/livenews/3059622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗拥有旨在攻击美国的常规武器。",
@@ -297,6 +309,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "伊朗方面表示，希望接下来谈判重点放在核问题和制裁上。",
+          "url": "https://flash.jin10.com/detail/20260226215146299800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "伊朗外交部发言人：我们将在半小时后前往核谈判地点。据报道，美国官员之间似乎存在分歧。",
           "url": "https://flash.jin10.com/detail/20260226162446026800",
           "source": "金十数据",
@@ -308,13 +331,24 @@
           "time_info": "16时33分"
         },
         {
+          "title": "伊朗外交部发言人：我们在阿曼外长和国际原子能机构总干事格罗西的陪同下进行了近3小时的密集谈判。",
+          "url": "https://flash.jin10.com/detail/20260226215132231800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "伊朗官员：若伊美谈判核心为伊朗不发展核武器 有望迅速达成协议",
           "url": "https://wallstreetcn.com/livenews/3059554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -407,6 +441,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：最高领袖禁止核武器，就意味着伊朗不会发展核武器。",
           "url": "https://flash.jin10.com/detail/20260226145442873800",
           "source": "金十数据",
@@ -495,6 +540,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "伊朗高级官员：与美国在日内瓦举行的会谈紧张而严肃。",
+          "url": "https://flash.jin10.com/detail/20260226214049957800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3059379",
           "source": "华尔街见闻-快讯",
@@ -515,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗高级官员：谈判提出了新的想法，但这些想法需要与德黑兰进行商讨，目前仍存在一些分歧。",
+          "url": "https://flash.jin10.com/detail/20260226214039883800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊朗局势紧张之际，沙特石油出口飙升至三年高点",
@@ -539,6 +606,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "伊朗高级官员：若美方“认真区分核问题与非核问题”，达成协议框架是可能的。",
+          "url": "https://flash.jin10.com/detail/20260226214005690800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
           "url": "https://flash.jin10.com/detail/20260226160237755800",
           "source": "金十数据",
@@ -553,7 +631,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -623,8 +701,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时44分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 22时02分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -651,17 +742,26 @@
           "time_info": "02时48分"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            14,
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -689,17 +789,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 20时36分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -837,6 +926,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
           "url": "https://wallstreetcn.com/livenews/3059242",
           "source": "华尔街见闻-快讯",
@@ -895,7 +995,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -906,8 +1006,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时20分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[07时20分 ~ 22时02分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -960,6 +1060,39 @@
           "time_info": "[18时35分 ~ 19时32分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3059616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "英伟达“答卷”难解AI担忧，美股三大期指集体下跌，存储盘前走强，金涨银油跌，离岸人民币一度升破6.83",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3059060",
           "source": "华尔街见闻-快讯",
@@ -969,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "Stellantis美股盘前涨超4%，报道称公司考虑引入零跑汽车技术，降低欧洲电动车成本。",
+          "url": "https://wallstreetcn.com/livenews/3059610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "爱奇艺(IQ.O)美股盘前涨5%，此前公布的财报显示第四季度营收有所增长。",
@@ -1035,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "赫兹租车第四季度总营收20.3亿美元，市场预期20亿美元。 第四季度调整后每股亏损63美分，市场预期每股亏损52美分。 赫兹租车美股盘前跌近10%。",
+          "url": "https://wallstreetcn.com/livenews/3059601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
