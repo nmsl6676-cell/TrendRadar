@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:24:18.287561+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2026-02-27T20:32:02.328631+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -97,8 +97,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时38分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[14时38分 ~ 20时32分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -107,9 +107,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -118,9 +118,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
+        },
+        {
+          "title": "提醒在伊朗的中国公民尽快撤离",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
@@ -167,17 +190,6 @@
           "time_info": "18时27分"
         },
         {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "伊核最新谈判：美立场强硬，伊朗将提折中方案",
           "url": "https://news.ifeng.com/c/8r4vKVSGtga",
           "source": "凤凰网",
@@ -187,17 +199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "提醒在伊朗的中国公民尽快撤离",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "据福克斯新闻：美国众议员Fallon表示，如果伊朗政权不停止铀浓缩及对恐怖主义的国家支持，所有选项都在考虑之中。",
@@ -220,6 +221,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "伊朗武装部队：任何不明智的行动都将在西亚“引发大火”。",
@@ -248,11 +261,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.cls.cn/detail/2297484",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时32分]"
         },
         {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
@@ -438,17 +464,6 @@
           "time_info": "[01时51分 ~ 02时37分]"
         },
         {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://www.douyin.com/hot/2413685",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "伊朗威胁美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -458,17 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.cls.cn/detail/2297484",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "伊朗代表团已返回谈判地点",
@@ -631,7 +635,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -727,8 +731,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -740,6 +744,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时38分 ~ 18时27分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时32分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -854,18 +870,6 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时24分]"
-        },
-        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -939,7 +943,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1112,7 +1116,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -1216,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时27分]"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
