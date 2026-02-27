@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:31:34.595980+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-02-27T18:27:00.491130+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时27分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -86,6 +86,20 @@
           "time_info": "[00时43分 ~ 16时28分]"
         },
         {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时27分]"
+        },
+        {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
           "url": "https://flash.jin10.com/detail/20260227055053276800",
           "source": "金十数据",
@@ -119,6 +133,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "伊朗军方称将对美国侵略行为予以“毁灭性”回应",
+          "url": "https://wallstreetcn.com/livenews/3060200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "伊核最新谈判：美立场强硬，伊朗将提折中方案",
           "url": "https://news.ifeng.com/c/8r4vKVSGtga",
           "source": "凤凰网",
@@ -141,6 +166,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "伊朗军方称将对美国侵略行为予以“毁灭性”回应",
+          "url": "https://flash.jin10.com/detail/20260227175438819800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "伊朗武装部队：任何不明智的行动都将在西亚“引发大火”。",
           "url": "https://flash.jin10.com/detail/20260227110115304800",
           "source": "金十数据",
@@ -152,17 +188,15 @@
           "time_info": "11时31分"
         },
         {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
+          "title": "Kpler：伊朗正借用“僵尸船”加紧出口石油",
+          "url": "https://flash.jin10.com/detail/20260227175417087800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19,
-            18
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
@@ -600,11 +634,23 @@
             18,
             15,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 18时27分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 18时27分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -643,17 +689,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时23分]"
-        },
-        {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时31分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -717,6 +752,18 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时27分]"
+        },
+        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -728,16 +775,15 @@
           "time_info": "[13时09分 ~ 14时38分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
           "ranks": [
-            17,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -816,17 +862,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -975,7 +1010,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -1069,6 +1104,18 @@
           "time_info": "06时25分"
         },
         {
+          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3060167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时27分]"
+        },
+        {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3059777",
           "source": "华尔街见闻-快讯",
@@ -1091,17 +1138,6 @@
           "time_info": "06时25分"
         },
         {
-          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
-          "url": "https://wallstreetcn.com/livenews/3060167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260227050836225800",
           "source": "金十数据",
@@ -1122,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "多邻国美股盘前跌超20%，2026年营收预计低于分析师预期。",
+          "url": "https://wallstreetcn.com/livenews/3060176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股收盘）",
@@ -1336,11 +1383,12 @@
           "ranks": [
             5,
             26,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时27分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
