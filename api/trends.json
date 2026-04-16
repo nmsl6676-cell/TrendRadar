@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-17T02:02:03.785946+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-04-17T03:56:08.412966+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
+        },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
           "url": "https://www.cls.cn/detail/2346178",
@@ -17,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 03时56分]"
         },
         {
           "title": "特朗普：邀请内塔尼亚胡和黎巴嫩总统访问白宫",
@@ -36,7 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -47,7 +70,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -58,21 +81,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
         },
         {
           "title": "美国总统特朗普：伊朗如今愿意做以前不愿意做的事情。",
@@ -81,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -92,9 +103,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
+          "url": "https://flash.jin10.com/detail/20260417032747106800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -105,8 +127,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
+        },
+        {
+          "title": "特朗普称以黎停火10天",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
@@ -120,38 +166,26 @@
           "time_info": "[00时15分 ~ 02时02分]"
         },
         {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普称以黎停火10天",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
-        },
-        {
           "title": "美国总统特朗普：教皇利奥理解伊朗对世界构成威胁非常重要。",
           "url": "https://flash.jin10.com/detail/20260417015720960800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
+          "url": "https://flash.jin10.com/detail/20260417032540175800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）正在取得很大进展。",
@@ -160,7 +194,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -176,13 +210,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
+          "url": "https://wallstreetcn.com/livenews/3089554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
           "title": "报道：特朗普提前宣布停火引发以方不满",
           "url": "https://wallstreetcn.com/livenews/3089513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -204,9 +249,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
+          "url": "https://flash.jin10.com/detail/20260417030924363800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "报道：特朗普能源主管将与各CEO们就美伊战争举行电话会议",
+          "url": "https://wallstreetcn.com/livenews/3089546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "特朗普：以色列与黎巴嫩同意为期10天的停火",
@@ -218,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国卫生部长肯尼迪：特朗普将于今日或明日提名美国疾病控制与预防中心（CDC）主任人选。",
+          "url": "https://flash.jin10.com/detail/20260417030705110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "中方回应特朗普称访华不受影响",
@@ -248,15 +326,70 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普称伊朗同意不拥有核武器，伊方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3089533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
+          "url": "https://flash.jin10.com/detail/20260417024741416800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260417024512631800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "特朗普：美伊下次会晤可能在本周末举行",
+          "url": "https://wallstreetcn.com/livenews/3089529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国总统特朗普：（美联储）应该降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3089528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -266,19 +399,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
           "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -288,19 +422,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
           "url": "https://wallstreetcn.com/articles/3770156",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时56分]"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "真主党立法者哈桑·法德拉拉（Hassan Fadlallah）：我们接到伊朗驻贝鲁特大使的通知，为期一周的停火可能于今晚开始。 可能的停火是伊朗外交努力的结果。 （被问及真主党是否会承诺停战）一切取决于以色列是否承诺停止所有形式的敌对行动。（路透）",
@@ -314,6 +460,18 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2028214096009412938",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
+        },
+        {
           "title": "美对伊启动代号为“经济狂怒”的行动，美防长：如伊朗拒绝协议，随时重启作战",
           "url": "https://wallstreetcn.com/articles/3770156",
           "source": "华尔街见闻",
@@ -325,38 +483,16 @@
           "time_info": "00时15分"
         },
         {
-          "title": "伊朗披露击落美C-130细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
-        },
-        {
-          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2028214096009412938",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
-        },
-        {
           "title": "美称伊朗最高领袖已受伤但仍活着",
           "url": "https://www.toutiao.com/trending/7628521830282592297/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -366,19 +502,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "美方对伊朗启动代号为“经济狂怒”的行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "伊朗总统感谢中国",
@@ -386,55 +523,82 @@
           "source": "今日头条",
           "ranks": [
             24,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "伊朗披露击落美C-130运输机细节",
           "url": "https://www.toutiao.com/trending/7628411394106523658/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时56分]"
         },
         {
           "title": "伊朗武装部队：已做好全面防御准备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E9%98%B2%E5%BE%A1%E5%87%86%E5%A4%87",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
-          "title": "美防长称伊朗最高领袖受伤但活着",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时56分]"
         },
         {
           "title": "伊朗早有后手",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%97%A9%E6%9C%89%E5%90%8E%E6%89%8B%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时56分]"
+        },
+        {
+          "title": "美防长称伊朗最高领袖受伤但活着",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 03时56分]"
+        },
+        {
+          "title": "伊朗审慎应对再与美谈判或延长停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A1%E6%85%8E%E5%BA%94%E5%AF%B9%E5%86%8D%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%88%96%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "time_info": "[03时55分 ~ 03时56分]"
+        },
+        {
+          "title": "消息人士：美国官员已通知欧洲国家，由于伊朗战争，武器交付将延迟。",
+          "url": "https://flash.jin10.com/detail/20260417032415627800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "真主党议员哈桑·法德拉拉表示，我们收到伊朗驻贝鲁特大使的通知，可能在今晚开始为期一周的停火。此次可能达成的停火是伊朗外交努力的结果。",
@@ -448,15 +612,48 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国官员们告知欧洲多个国家：（美国和以色列发动）伊朗战争之际，推迟武器交付。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3089552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "法国财长：G7财长已准备采取行动，缓解伊朗战争的影响",
+          "url": "https://wallstreetcn.com/livenews/3089551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
           "title": "美国众议院外交事务委员会主席、共和党众议员Mast：共和党人对伊朗战争的耐心正开始耗尽。停止战争的决定可能在数周内获得通过。",
           "url": "https://flash.jin10.com/detail/20260417014853902800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美油企敦促美政府反对伊朗对霍尔木兹海峡收费",
+          "url": "https://flash.jin10.com/detail/20260417031708510800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "德国央行行长Nagel：伊朗战争可能会将2026年经济增速拖累0.3个百分点。",
@@ -465,9 +662,53 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗代表：霍尔木兹海峡的稳定需以尊重伊朗权利为前提",
+          "url": "https://wallstreetcn.com/livenews/3089540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
+          "url": "https://wallstreetcn.com/livenews/3089539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美国考虑针对伊朗快艇套用在委内瑞拉的战术。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3089538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗代表：霍尔木兹海峡的稳定需以尊重伊朗权利为前提",
+          "url": "https://flash.jin10.com/detail/20260417025741156800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "两艘与伊朗有关船只“迂回”通过霍尔木兹海峡",
@@ -487,7 +728,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -505,6 +746,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI发布Codex更新",
+          "url": "https://wallstreetcn.com/livenews/3089521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
+          "url": "https://flash.jin10.com/detail/20260417012338631800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
+          "url": "https://wallstreetcn.com/livenews/3089493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -513,11 +804,12 @@
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -528,19 +820,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2346625",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 03时56分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
@@ -556,48 +849,31 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI发布Codex更新",
-          "url": "https://wallstreetcn.com/livenews/3089521",
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260417034114874800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3089556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "03时56分"
         },
-        {
-          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
-          "url": "https://flash.jin10.com/detail/20260417012338631800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
-          "url": "https://wallstreetcn.com/livenews/3089493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
           "url": "https://wallstreetcn.com/livenews/3089502",
@@ -605,7 +881,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -616,7 +892,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
@@ -624,8 +900,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "30年期美债收益率涨约3.1个基点",
+          "url": "https://wallstreetcn.com/livenews/3089557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
         {
           "title": "美国前财长保尔森呼吁制定备用方案应对美债需求崩溃",
           "url": "https://flash.jin10.com/detail/20260417010944056800",
@@ -633,9 +920,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     }
