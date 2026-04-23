@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T18:12:52.580943+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-04-23T19:52:39.631352+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 71,
+      "match_count": 78,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -54,11 +54,12 @@
             19,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 18时12分]"
+          "appearance_count": 17,
+          "time_info": "[00时01分 ~ 19时52分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -69,11 +70,12 @@
             24,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 18时12分]"
+          "appearance_count": 17,
+          "time_info": "[00时01分 ~ 19时52分]"
         },
         {
           "title": "伊朗基本物资供应为何不受封锁影响",
@@ -127,6 +129,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时41分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗反击，传递了一个信号",
+          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 19时52分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030418339395106223",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 19时52分]"
         },
         {
           "title": "伊朗战争丨伊朗反击了，美却认为“不违反停火协议”",
@@ -184,6 +211,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)",
+          "url": "https://wallstreetcn.com/livenews/3093285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗议会国家安全委员会成员表示，霍尔木兹海峡管理方案的关键条款包括以伊朗货币里亚尔收取过境费用。",
           "url": "https://flash.jin10.com/detail/20260422235505059800",
           "source": "金十数据",
@@ -206,16 +244,15 @@
           "time_info": "03时59分"
         },
         {
-          "title": "伊朗反击，传递了一个信号",
-          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
-          "source": "凤凰网",
+          "title": "五角大楼：美国登上了受制裁的无国籍船只MAJESTIC X号。 该船只正在印度洋运输来自伊朗的石油。",
+          "url": "https://wallstreetcn.com/livenews/3093284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 18时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美共和党参议员：若和平协议迟迟未果，美国或对伊朗动武",
@@ -240,16 +277,15 @@
           "time_info": "12时41分"
         },
         {
-          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2030418339395106223",
-          "source": "知乎",
+          "title": "美国军方称扣押了一艘与伊朗有关的油轮。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3093282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 18时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "航运和安全消息人士：美国军方在亚洲水域拦截至少三艘伊朗油轮。美国军方正在重新引导伊朗油轮。",
@@ -277,6 +313,17 @@
           "time_info": "[04时51分 ~ 07时37分]"
         },
         {
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 19时52分]"
+        },
+        {
           "title": "高盛分析师Ashok Varadhan：虽然发生了（美国和以色列发动）伊朗战争，但（企业并购类）交易管道仍然稳健。",
           "url": "https://wallstreetcn.com/livenews/3092796",
           "source": "华尔街见闻-快讯",
@@ -301,17 +348,6 @@
           "time_info": "[04时51分 ~ 05时41分]"
         },
         {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 18时12分]"
-        },
-        {
           "title": "美国务院要求美在伊朗公民立即离境",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%A2%83",
           "source": "百度热搜",
@@ -334,6 +370,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时51分]"
+        },
+        {
+          "title": "伊朗称已收到首笔霍尔木兹通行费",
+          "url": "https://www.toutiao.com/trending/7631866696617168422/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时52分]"
         },
         {
           "title": "伊朗安全部队在边境开火",
@@ -372,6 +419,17 @@
           "time_info": "[02时55分 ~ 03时59分]"
         },
         {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时52分]"
+        },
+        {
           "title": "大约400名美国军事人员在伊朗战争中受伤。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3092784",
           "source": "华尔街见闻-快讯",
@@ -394,6 +452,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗革命卫队扣押集装箱船画面曝光",
+          "url": "https://www.toutiao.com/trending/7631880274972003878/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时52分]"
         },
         {
           "title": "泽连斯基：在伊朗战事结束前俄乌和谈难有进展",
@@ -431,15 +501,15 @@
           "time_info": "[16时27分 ~ 18时12分]"
         },
         {
-          "title": "伊朗称已收到首笔霍尔木兹通行费",
-          "url": "https://www.toutiao.com/trending/7631866696617168422/",
-          "source": "今日头条",
+          "title": "伊朗首次公布扣押集装箱船画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E5%85%AC%E5%B8%83%E6%89%A3%E6%8A%BC%E9%9B%86%E8%A3%85%E7%AE%B1%E8%88%B9%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "19时52分"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：在战争前，美国收到威胁称伊朗拥有11枚核弹。",
@@ -473,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
-          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "还有15天！伊朗石油业将被迫减产，随后全面停产",
@@ -525,7 +584,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -651,6 +710,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "印度表示在与伊朗的会谈中旨在确保船只通行安全。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗方面赞赏巴基斯坦为结束战争所做的努力。",
           "url": "https://flash.jin10.com/detail/20260422233217976800",
           "source": "金十数据",
@@ -660,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "德国政府：伊朗应抓住机会在伊斯兰堡继续与美国的谈判。",
+          "url": "https://flash.jin10.com/detail/20260423191013506800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美军称封锁以来已指令31艘船只掉头或返回伊朗港口",
@@ -717,6 +798,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "贝伦贝格银行：因伊朗战争，欧元区经济增长将停滞",
+          "url": "https://flash.jin10.com/detail/20260423190557768800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "伊朗安全部队打死多名恐怖分子",
           "url": "https://www.toutiao.com/trending/7631693826478997523/",
           "source": "今日头条",
@@ -726,17 +818,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "伊朗革命卫队扣押集装箱船画面曝光",
-          "url": "https://www.toutiao.com/trending/7631880274972003878/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "伊朗外长感谢斯里兰卡协助船只救援 就双边关系进行磋商",
@@ -800,7 +881,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -880,8 +961,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时59分 ~ 18时12分]"
+          "appearance_count": 12,
+          "time_info": "[03时59分 ~ 19时52分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -910,6 +991,18 @@
           "time_info": "[00时01分 ~ 14时32分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 19时52分]"
+        },
+        {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
           "url": "https://news.ifeng.com/c/8sXS8jC94HP",
           "source": "凤凰网",
@@ -933,6 +1026,17 @@
           "time_info": "[00时02分 ~ 02时55分]"
         },
         {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 19时52分]"
+        },
+        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -944,18 +1048,6 @@
           "time_info": "[00时01分 ~ 01时02分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 18时12分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -965,17 +1057,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时37分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 18时12分]"
         },
         {
           "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
@@ -1079,6 +1160,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 19时52分]"
+        },
+        {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
           "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
           "source": "凤凰网",
@@ -1141,17 +1233,6 @@
           "time_info": "[07时37分 ~ 09时21分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 18时12分]"
-        },
-        {
           "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
           "url": "https://wallstreetcn.com/livenews/3092842",
           "source": "华尔街见闻-快讯",
@@ -1201,6 +1282,32 @@
           "time_info": "[09时21分 ~ 14时32分]"
         },
         {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 19时52分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 19时52分]"
+        },
+        {
           "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3092789",
           "source": "华尔街见闻-快讯",
@@ -1223,30 +1330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时12分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时12分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美方截获伊朗船只并不构成违反停火协议。 主动权掌握在美国总统特朗普手中，美国仍然掌控着局势。 由于停火时间延长，特朗普拥有灵活性。",
@@ -1483,7 +1566,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1687,6 +1770,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。 一季度客运收入125.0亿美元，预估124.9亿美元。 美国航空预计二季度收入增长13.5%至16.5%。 美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股亏损70美分。 美国航空预计因燃油价格导致费用增加逾40亿美元。 美国航空美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3093274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
           "url": "https://wallstreetcn.com/livenews/3092865",
           "source": "华尔街见闻-快讯",
@@ -1718,6 +1812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "黑石一季度每股可分配收入1.36美元，预估1.34美元。 一季度整体收入34.3亿美元，预估33.7亿美元。 一季度资金流入685.4亿美元，预估554.8亿美元。 一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。 一季度资产管理规模1.30万亿美元，预估1.3万亿美元。 黑石美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3093266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美银客户在标普500指数创新高之际卖出美股",
@@ -1775,6 +1880,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "超微电脑美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3093257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "英特尔美股盘后涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3092878",
           "source": "华尔街见闻-快讯",
@@ -1792,7 +1908,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -1806,6 +1922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。 第一季度每股收益为6.44 美元，而去年同期为7.28 美元。 第一季度运营利润20.6亿美元，预估22.6亿美元。 洛克希德马丁仍预计全年每股收益29.35至30.25美元，市场预估29.82美元。 洛克希德马丁仍预计全年净销售额775亿至800亿美元，市场预估790.9亿美元。 洛克希德马丁仍预计全年自由现金流为65亿至68亿美元，市场预估66.7亿美元。 洛克希德马丁仍预计全年业务运营利润为84.3亿至86.8亿美元。 洛克希德马丁美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -2025,7 +2152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -2077,7 +2204,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
