@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T06:31:40.767845+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-04-25T07:31:28.208402+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
-        },
-        {
-          "title": "伊朗外长将访问巴基斯坦等三国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%B0%86%E8%AE%BF%E9%97%AE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AD%89%E4%B8%89%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
@@ -35,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -49,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -60,15 +50,15 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
-          "title": "伊朗代表团暂不与美方接触",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%9A%82%E4%B8%8D%E4%B8%8E%E7%BE%8E%E6%96%B9%E6%8E%A5%E8%A7%A6",
+          "title": "伊朗外长将访问巴基斯坦等三国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%B0%86%E8%AE%BF%E9%97%AE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AD%89%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            24
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -83,8 +73,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗代表团暂不与美方接触",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%9A%82%E4%B8%8D%E4%B8%8E%E7%BE%8E%E6%96%B9%E6%8E%A5%E8%A7%A6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时31分]"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
@@ -163,6 +164,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "伊朗媒体：伊朗外长暂无与美方会谈日程",
+          "url": "https://wallstreetcn.com/livenews/3094291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
         },
         {
           "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
@@ -250,17 +265,17 @@
           "time_info": "[02时35分 ~ 03时42分]"
         },
         {
-          "title": "伊朗媒体：伊朗外长暂无与美方会谈日程",
-          "url": "https://wallstreetcn.com/livenews/3094291",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列防长威胁将伊朗打回石器时期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%BF%E5%A8%81%E8%83%81%E5%B0%86%E4%BC%8A%E6%9C%97%E6%89%93%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%97%B6%E6%9C%9F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            18,
-            26
+            25,
+            13,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "time_info": "[05时38分 ~ 07时31分]"
         },
         {
           "title": "伊朗主动联系，白宫确认：美国特使Witkoff与库什纳周六将前往巴基斯坦，万斯“随时待命”",
@@ -311,6 +326,20 @@
           "time_info": "[02时35分 ~ 03时42分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队截获一艘船只。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3094290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
+        },
+        {
           "title": "伊朗并没有要求与美国“面对面”会谈。 伊朗尚未决定是否与美方谈判。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3094265",
           "source": "华尔街见闻-快讯",
@@ -323,41 +352,41 @@
           "time_info": "[03时42分 ~ 04时34分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队截获一艘船只。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3094290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
-        },
-        {
           "title": "伊朗国防部：伊朗仍留存了大部分导弹能力",
           "url": "https://wallstreetcn.com/livenews/3094305",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时31分]"
         },
         {
-          "title": "以色列防长威胁将伊朗打回石器时期",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%BF%E5%A8%81%E8%83%81%E5%B0%86%E4%BC%8A%E6%9C%97%E6%89%93%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%97%B6%E6%9C%9F%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "伊朗：不与美国官员会面，但将通过巴基斯坦转达意见",
+          "url": "https://wallstreetcn.com/livenews/3094314",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            13
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时31分]"
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗革命卫队：扣押一艘疑似与美军多次合作的船只",
+          "url": "https://wallstreetcn.com/livenews/3094304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "伊朗外长将阐述伊方在结束战争问题上的考量。（塔斯尼姆通讯社）",
@@ -384,6 +413,28 @@
           "time_info": "[00时45分 ~ 01时42分]"
         },
         {
+          "title": "伊朗最高领袖发表致辞",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E8%87%B4%E8%BE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
+          "url": "https://www.cls.cn/detail/2355560",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "【伊朗革命卫队：扣押一艘疑似与美军多次合作的船只】伊朗伊斯兰革命卫队当地时间24日夜间发布消息称，一艘疑似与美军合作的船只在违反规定并忽视伊朗方面警告后被扣押。声明称，根据革命卫队海军过去六个月的情报监控，该船只多次往返美国港口，因无视警告及多次违反海事规定，已被革命卫队海军扣押。对此，美国方面暂无回应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3094304",
           "source": "华尔街见闻-快讯",
@@ -393,17 +444,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        },
-        {
-          "title": "伊朗：不与美国官员会面，但将通过巴基斯坦转达意见",
-          "url": "https://wallstreetcn.com/livenews/3094314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
         },
         {
           "title": "【美财政部对伊朗实施新一轮金融制裁，冻结其约3.44亿美元加密货币资产】据美国财政部海外资产控制办公室（OFAC）消息，美方发布与伊朗相关的最新制裁。同时，美财政部海外资产控制办公室还更新了“特别指定国民清单”，称其属于本轮涉伊朗制裁调整的一部分。此外，美国财政部还宣布对多个与伊朗相关的“钱包”实施制裁，冻结其约3.44亿美元加密货币资产。美国财政部长贝森特在社交平台表示，此举属于针对伊朗的金融制裁措施之一。（央视）",
@@ -494,17 +534,6 @@
           "time_info": "03时42分"
         },
         {
-          "title": "伊朗革命卫队：扣押一艘疑似与美军多次合作的船只",
-          "url": "https://wallstreetcn.com/livenews/3094304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：目前没有关于阿拉格齐与威特科夫和库什纳之间会晤的安排。",
           "url": "https://flash.jin10.com/detail/20260425023005757800",
           "source": "金十数据",
@@ -525,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美大炮巨舰与伊朗蜂群突击谁主沉浮",
+          "url": "https://www.toutiao.com/trending/7631879341827768361/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "据CNN：美国特使威特科夫与库什纳将参与与伊朗外长阿拉格齐的会谈。",
@@ -563,7 +603,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -573,8 +613,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -584,8 +624,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -596,8 +636,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -607,8 +647,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -653,11 +693,12 @@
           "url": "https://wallstreetcn.com/livenews/3094320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -669,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国法官对特朗普100亿美元国税局泄密诉讼提出质疑",
+          "url": "https://wallstreetcn.com/livenews/3094322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -731,17 +783,6 @@
           "time_info": "[02时35分 ~ 03时42分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时35分]"
-        },
-        {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
           "url": "https://flash.jin10.com/detail/20260425035056520800",
           "source": "金十数据",
@@ -750,8 +791,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
         },
         {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
@@ -762,8 +803,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
+        },
+        {
+          "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "time_info": "[01时42分 ~ 02时35分]"
         },
         {
           "title": "卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势",
@@ -835,6 +887,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时38分]"
+        },
+        {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
@@ -971,8 +1034,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -981,11 +1044,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -997,8 +1061,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -1008,11 +1072,12 @@
             2,
             1,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -1026,8 +1091,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -1042,8 +1107,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -1055,11 +1120,12 @@
             24,
             25,
             22,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -1075,8 +1141,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -1090,8 +1156,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -1099,11 +1165,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -1158,6 +1225,18 @@
           "time_info": "[00时44分 ~ 03时42分]"
         },
         {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时31分]"
+        },
+        {
           "title": "DeepSeek V4 发布",
           "url": "https://www.douyin.com/hot/2477208",
           "source": "抖音",
@@ -1168,17 +1247,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 01时42分]"
-        },
-        {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时31分]"
         },
         {
           "title": "DeepSeekV4是怎么训练出来的",
@@ -1230,8 +1298,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
@@ -1242,8 +1310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -1251,11 +1319,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -1275,11 +1344,36 @@
           "ranks": [
             4,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
+          "url": "https://flash.jin10.com/detail/20260425040149158800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时31分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -1295,39 +1389,17 @@
           "time_info": "[04时34分 ~ 06时31分]"
         },
         {
-          "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
-          "url": "https://flash.jin10.com/detail/20260425040149158800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
           "url": "https://wallstreetcn.com/livenews/3094299",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时31分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -1465,8 +1537,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "金价跌破神话了吗",
@@ -1476,8 +1548,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "金价跌破新低",
@@ -1522,11 +1594,12 @@
           "url": "https://wallstreetcn.com/livenews/3094313",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时31分]"
         }
       ]
     },
