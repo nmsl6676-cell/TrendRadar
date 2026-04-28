@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T09:31:41.375663+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-04-28T13:20:40.932097+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -43,11 +43,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 13时20分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -152,6 +153,28 @@
           "time_info": "[03时09分 ~ 06时39分]"
         },
         {
+          "title": "伊朗战争丨伊朗拟推控制霍尔木兹海峡11条方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美国务卿鲁比奥：美国不会允许伊朗控制霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260427235356688800",
           "source": "金十数据",
@@ -183,6 +206,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时20分]"
         },
         {
           "title": "伊朗：德黑兰本轮冲突中受损住宅已修复约80%",
@@ -234,6 +269,18 @@
           "time_info": "[00时18分 ~ 01时58分]"
         },
         {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时20分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：若要实现成功的谈判，必须有双方的通力配合与意愿。显然，如果上述报道属实，那么伊朗无疑是在玩弄把戏。",
           "url": "https://flash.jin10.com/detail/20260428040001211800",
           "source": "金十数据",
@@ -273,15 +320,16 @@
           "time_info": "[04时49分 ~ 06时39分]"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2357445",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时31分]"
+          "time_info": "[09时31分 ~ 13时20分]"
         },
         {
           "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
@@ -380,6 +428,18 @@
           "time_info": "[04时49分 ~ 05时44分]"
         },
         {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时20分]"
+        },
+        {
           "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
           "url": "https://flash.jin10.com/detail/20260428033348055800",
           "source": "金十数据",
@@ -398,18 +458,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -420,7 +469,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -442,18 +491,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2357445",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -478,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国务卿称伊朗仍保有半数战前导弹库存",
+          "url": "https://wallstreetcn.com/livenews/3095438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "伊朗外长阿拉格齐：当前已经具备了非常好的合作基础。普京先生还表示，不仅俄罗斯，现在全世界都钦佩伊朗人民；因为他们在不对等、不公正的战争中抵抗美国并取得了胜利。",
@@ -533,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "白宫新闻秘书莱维特：我不会说美国正在考虑伊朗的提议。",
@@ -634,6 +694,28 @@
           "time_info": "04时49分"
         },
         {
+          "title": "伊朗外长感谢俄方声援和外交支持",
+          "url": "https://wallstreetcn.com/livenews/3095421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "伊朗表示没有计划恢复面对面授课",
+          "url": "https://flash.jin10.com/detail/20260428124809011800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "伊朗外交部：伊朗外长阿拉格齐率领外交代表团于周一晚间与俄罗斯总统普京会晤，讨论了双边伊朗-俄罗斯关系及国际形势。",
           "url": "https://flash.jin10.com/detail/20260427233214724800",
           "source": "金十数据",
@@ -656,15 +738,26 @@
           "time_info": "01时58分"
         },
         {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "title": "美以袭击致伊朗医疗教育设施严重受损",
+          "url": "https://www.toutiao.com/trending/7633415236166565931/",
           "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "13时20分"
+        },
+        {
+          "title": "美国务卿称伊朗仍保有半数战前导弹库存",
+          "url": "https://flash.jin10.com/detail/20260428124445871800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "城堡证券：伊朗冲突风险消退，股债市场有望同步上涨",
@@ -678,13 +771,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "伊朗战争扭曲了黄金逻辑，但买入理由正在堆积",
+          "url": "https://flash.jin10.com/detail/20260428124143427800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "伊朗向美国提3个条件",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%903%E4%B8%AA%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -703,7 +807,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -758,11 +862,12 @@
           "url": "https://www.cls.cn/detail/2357460",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时20分]"
         },
         {
           "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
@@ -885,6 +990,18 @@
           "time_info": "[06时39分 ~ 07时41分]"
         },
         {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时20分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
           "url": "https://wallstreetcn.com/livenews/3095162",
           "source": "华尔街见闻-快讯",
@@ -913,7 +1030,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -927,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国总统特朗普：吉米·基梅尔应立即被迪士尼和美国广播公司解雇。",
@@ -946,7 +1074,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -957,7 +1085,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -995,6 +1123,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "白宫记者协会枪手被指控试图刺杀美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3095172",
           "source": "华尔街见闻-快讯",
@@ -1023,7 +1162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -1061,17 +1200,6 @@
           "time_info": "01时58分"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普将参加重新安排的晚宴。",
           "url": "https://flash.jin10.com/detail/20260428012255093800",
           "source": "金十数据",
@@ -1081,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "特朗普政府解散美国国家科学委员会",
+          "url": "https://www.toutiao.com/trending/7632880889321488425/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "白宫：特朗普与幕僚讨论伊朗最新提议，核问题是红线之一",
@@ -1122,9 +1261,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "据英国金融时报：两家精神航空债权人集团支持美国总统特朗普的救助计划。",
+          "url": "https://flash.jin10.com/detail/20260428124131731800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "消息人士：特朗普对伊朗最新提议不满意",
@@ -1133,9 +1283,162 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428000212502800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3095134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "谷歌与五角大楼签署机密AI协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3095442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时58分]"
+        },
+        {
+          "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
+          "url": "https://wallstreetcn.com/livenews/3095168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时09分]"
+        },
+        {
+          "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
+          "url": "https://flash.jin10.com/detail/20260428013540130800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时09分]"
+        },
+        {
+          "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3095208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时44分]"
+        },
+        {
+          "title": "据The Information：谷歌与美国国防部签署的协议允许国防部将谷歌的人工智能用于“任何合法的政府目的”。",
+          "url": "https://flash.jin10.com/detail/20260428130020965800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "谷歌在安卓生态中的AI主导权遭欧盟“狙击”",
+          "url": "https://wallstreetcn.com/livenews/3095153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "据The Information：谷歌与美国国防部签署机密人工智能协议，员工反对声音不断。",
+          "url": "https://flash.jin10.com/detail/20260428125811784800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
+          "url": "https://wallstreetcn.com/livenews/3095147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
+          "url": "https://wallstreetcn.com/livenews/3095118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
+          "url": "https://wallstreetcn.com/livenews/3095117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
@@ -1155,6 +1458,19 @@
           "time_info": "[00时17分 ~ 05时44分]"
         },
         {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 13时20分]"
+        },
+        {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
           "url": "https://wallstreetcn.com/articles/3770942",
           "source": "华尔街见闻",
@@ -1166,19 +1482,6 @@
           "time_info": "[00时17分 ~ 06时39分]"
         },
         {
-          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
-          "url": "https://www.cls.cn/detail/2357399",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 09时31分]"
-        },
-        {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
           "url": "https://www.cls.cn/detail/2357431",
           "source": "财联社热门",
@@ -1187,19 +1490,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时20分]"
         },
         {
           "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
           "url": "https://www.cls.cn/detail/2357471",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时20分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -1278,128 +1582,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
-          "url": "https://flash.jin10.com/detail/20260428000212502800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3095134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时58分]"
-        },
-        {
-          "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
-          "url": "https://wallstreetcn.com/livenews/3095168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时09分]"
-        },
-        {
-          "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
-          "url": "https://flash.jin10.com/detail/20260428013540130800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时09分]"
-        },
-        {
-          "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3095208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时44分]"
-        },
-        {
-          "title": "谷歌在安卓生态中的AI主导权遭欧盟“狙击”",
-          "url": "https://wallstreetcn.com/livenews/3095153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
-          "url": "https://wallstreetcn.com/livenews/3095147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
-          "url": "https://wallstreetcn.com/livenews/3095118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
-          "url": "https://wallstreetcn.com/livenews/3095117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -1453,9 +1637,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "DeepSeek注册资本提高50%",
@@ -1464,7 +1659,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -1573,7 +1768,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -1641,7 +1836,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
