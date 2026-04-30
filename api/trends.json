@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T15:59:03.222707+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-04-30T18:03:42.436521+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -13,19 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 09时45分]"
-        },
-        {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -40,8 +27,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 15时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时44分 ~ 18时03分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 09时45分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -62,8 +62,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
+        },
+        {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
+        },
+        {
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -92,37 +125,17 @@
           "time_info": "[06时44分 ~ 09时45分]"
         },
         {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
-        },
-        {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
           "source": "财联社热门",
           "ranks": [
-            4
+            8,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
-        },
-        {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
         },
         {
           "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
@@ -135,6 +148,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 09时45分]"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时44分 ~ 18时03分]"
         },
         {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
@@ -173,18 +201,18 @@
           "time_info": "[04时49分 ~ 06时44分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            11,
-            12
+            12,
+            9,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 18时03分]"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -231,18 +259,6 @@
           "time_info": "09时45分"
         },
         {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
-        },
-        {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
           "url": "https://www.cls.cn/detail/2360313",
           "source": "财联社热门",
@@ -277,19 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时44分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时59分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -467,6 +470,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3096956",
           "source": "华尔街见闻-快讯",
@@ -542,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "以色列总理内塔尼亚胡与美国总统特朗普进行对话。",
@@ -698,6 +723,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "美国总统特朗普将签署命令，扩大工人参与退休计划的范围。（美国财经媒体Semafor）",
+          "url": "https://flash.jin10.com/detail/20260430171332972800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B5%E6%89%8B%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%86%8D%E7%8E%B0%E6%8B%92%E7%BB%9D%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "百度热搜",
@@ -734,7 +770,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -746,6 +782,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 05时50分]"
+        },
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时44分 ~ 18时03分]"
         },
         {
           "title": "伊朗男孩重回中国上学全班紧紧抱住",
@@ -800,18 +851,15 @@
           "time_info": "[01时14分 ~ 07时42分]"
         },
         {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
+          "title": "日本首相高市早苗与伊朗总统通电话。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3097396",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            8,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 15时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "据美军中央司令部29日在社交媒体上发布消息，自美国对伊朗港口实施海上封锁以来，已有42艘“试图违反封锁令”的商船被指示调转航向。",
@@ -823,6 +871,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 18时03分]"
         },
         {
           "title": "伊朗海军司令：将向敌人展示一种“可怕的武器”",
@@ -845,18 +906,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时05分 ~ 05时50分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032954547836907965",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时59分]"
         },
         {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
@@ -925,8 +974,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 18时03分]"
+        },
+        {
+          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
+          "url": "https://www.cls.cn/detail/2360722",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 18时03分]"
+        },
+        {
+          "title": "伊朗首都大规模集会展示国家团结",
+          "url": "https://www.toutiao.com/trending/7634423952917037094/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 18时03分]"
         },
         {
           "title": "伊朗海军：将向敌人展示一种可怕武器",
@@ -939,28 +1012,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 13时20分]"
-        },
-        {
-          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
-          "url": "https://www.cls.cn/detail/2360722",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
-          "title": "伊朗首都大规模集会展示国家团结",
-          "url": "https://www.toutiao.com/trending/7634423952917037094/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
         },
         {
           "title": "美称伊朗战事已耗资250亿美元",
@@ -1014,7 +1065,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1096,6 +1147,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "封锁即宣战 伊朗议员称或清除海上障碍",
+          "url": "https://flash.jin10.com/detail/20260430172339238800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
           "url": "https://wallstreetcn.com/livenews/3096945",
           "source": "华尔街见闻-快讯",
@@ -1124,7 +1186,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1179,7 +1241,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1198,8 +1260,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
+        },
         {
           "title": "谷歌入驻广州天河CBD，预计今年三季度正式投入运营",
           "url": "https://wallstreetcn.com/livenews/3097212",
@@ -1212,18 +1286,6 @@
           "time_info": "13时20分"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
-        },
-        {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
           "url": "https://flash.jin10.com/detail/20260430041652163800",
           "source": "金十数据",
@@ -1233,6 +1295,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 18时03分]"
         },
         {
           "title": "谷歌财报电话会将于十分钟后举行。",
@@ -1259,19 +1334,6 @@
           "time_info": "[05时50分 ~ 06时44分]"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时59分]"
-        },
-        {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
           "url": "https://wallstreetcn.com/livenews/3096931",
           "source": "华尔街见闻-快讯",
@@ -1293,6 +1355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "谷歌入驻广州珠江新城",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "Alphabet(GOOGL.O)：得益于GEMINI应用程序，第一季度针对消费者的智能应用计划创史上最佳表现。",
@@ -1387,11 +1460,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时03分]"
         },
         {
           "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
@@ -1661,11 +1735,12 @@
             15,
             14,
             13,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 15时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek新版本发布为何悄无声息",
@@ -1693,8 +1768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 18时03分]"
         },
         {
           "title": "两年期美债收益率涨10个基点，报3.94%。 ICE美元指数涨超0.25%，刷新日高至98.923点。",
