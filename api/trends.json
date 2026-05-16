@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T19:42:03.724973+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-05-16T20:53:29.152695+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -177,6 +177,19 @@
           "time_info": "[01时19分 ~ 09时46分]"
         },
         {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 20时53分]"
+        },
+        {
           "title": "美国总统特朗普结束访华离京",
           "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
           "source": "澎湃新闻",
@@ -201,8 +214,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 20时53分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -211,11 +224,25 @@
           "ranks": [
             11,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时19分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时19分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 20时53分]"
         },
         {
           "title": "特朗普与高市早苗通电话，讨论访华细节",
@@ -230,17 +257,16 @@
           "time_info": "[13时17分 ~ 17时20分]"
         },
         {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时53分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -272,17 +298,16 @@
           "time_info": "[01时19分 ~ 13时17分]"
         },
         {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            13,
-            15
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时17分 ~ 19时42分]"
+          "time_info": "[15时46分 ~ 20时53分]"
         },
         {
           "title": "特朗普说能待得惯可能都不想走了",
@@ -300,17 +325,6 @@
           "time_info": "[01时19分 ~ 07时43分]"
         },
         {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时42分]"
-        },
-        {
           "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2038577207740715513",
           "source": "知乎",
@@ -321,18 +335,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 09时46分]"
-        },
-        {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时46分 ~ 19时42分]"
         },
         {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
@@ -405,6 +407,17 @@
           "time_info": "[05时46分 ~ 09时46分]"
         },
         {
+          "title": "特朗普表态“不希望台湾走向独立”，引爆岛内舆论",
+          "url": "https://news.ifeng.com/c/8tB3zroxR72",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "特朗普：“伊斯兰国”二号头目被消灭",
           "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
           "source": "凤凰网",
@@ -417,15 +430,15 @@
           "time_info": "[13时17分 ~ 17时20分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
-          "url": "https://flash.jin10.com/detail/20260516185024363800",
-          "source": "金十数据",
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时53分]"
         },
         {
           "title": "特朗普说“伊斯兰国”二号头目被“清除”",
@@ -451,17 +464,6 @@
           "time_info": "[06时42分 ~ 07时43分]"
         },
         {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时42分]"
-        },
-        {
           "title": "美国总统特朗普称赞股市。",
           "url": "https://wallstreetcn.com/livenews/3104662",
           "source": "华尔街见闻-快讯",
@@ -472,6 +474,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时43分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516185024363800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "美国总统特朗普：汽油价格（上涨）将是短期性的阵痛。",
@@ -543,6 +557,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时17分 ~ 15时47分]"
+        },
+        {
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时46分 ~ 20时53分]"
         },
         {
           "title": "美国总统特朗普：伊朗没有底牌。",
@@ -617,17 +643,6 @@
           "time_info": "[07时43分 ~ 09时46分]"
         },
         {
-          "title": "特朗普回国后谈中国行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 15时47分]"
-        },
-        {
           "title": "特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年",
           "url": "https://wallstreetcn.com/livenews/3104726",
           "source": "华尔街见闻-快讯",
@@ -683,6 +698,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "特朗普警告台湾不要试图走向“独立”",
+          "url": "https://www.toutiao.com/trending/7640462139869630015/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "默茨与特朗普通电话，似有意修补德美关系",
           "url": "https://wallstreetcn.com/livenews/3104583",
           "source": "华尔街见闻-快讯",
@@ -703,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "特朗普说随访美国商人是自己想来的",
@@ -807,7 +844,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -815,11 +852,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时46分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[15时46分 ~ 20时53分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -839,11 +877,12 @@
           "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时53分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -863,11 +902,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时53分]"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾",
+          "url": "https://flash.jin10.com/detail/20260516202902063800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
@@ -903,16 +954,57 @@
           "time_info": "03时13分"
         },
         {
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://wallstreetcn.com/livenews/3104774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时53分]"
+        },
+        {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时53分]"
+        },
+        {
           "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
           "url": "https://flash.jin10.com/detail/20260516182456183800",
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时53分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时53分]"
         },
         {
           "title": "伊朗外长：欢迎中国发挥作用",
@@ -925,31 +1017,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 13时17分]"
-        },
-        {
-          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
-          "url": "https://wallstreetcn.com/livenews/3104787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时42分]"
-        },
-        {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://wallstreetcn.com/livenews/3104774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时42分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -976,18 +1043,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时47分 ~ 18时54分]"
-        },
-        {
-          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
-          "url": "https://wallstreetcn.com/articles/3772425",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时42分]"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -1024,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 13时17分]"
+        },
+        {
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://flash.jin10.com/detail/20260516192751228800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -1116,8 +1182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时43分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时43分 ~ 20时53分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，加息预期助美元五连阳，金属重挫",
@@ -1352,8 +1418,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 20时53分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -1430,11 +1496,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时43分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时43分 ~ 20时53分]"
         },
         {
           "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
@@ -1446,8 +1513,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 20时53分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -1513,22 +1580,24 @@
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
           "url": "https://flash.jin10.com/detail/20260516184026768800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
@@ -1601,11 +1670,12 @@
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 20时53分]"
         }
       ]
     },
