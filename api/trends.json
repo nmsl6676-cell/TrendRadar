@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T02:31:42.019077+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-20T04:22:53.649110+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
         {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -48,41 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
-        },
-        {
-          "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
-          "url": "https://flash.jin10.com/detail/20260520015749647800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
-          "url": "https://flash.jin10.com/detail/20260520015223072800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "谷歌发布Gemini 3.5系列模型",
-          "url": "https://wallstreetcn.com/livenews/3106192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -91,7 +58,84 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时22分]"
+        },
+        {
+          "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
+          "url": "https://flash.jin10.com/detail/20260520015749647800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "谷歌CEO：Gemini月活跃用户达9亿",
+          "url": "https://flash.jin10.com/detail/20260520033915676800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "谷歌AI模型大幅降价迎战OpenAI与Anthropic",
+          "url": "https://flash.jin10.com/detail/20260520033552705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3106235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
+          "url": "https://flash.jin10.com/detail/20260520015223072800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "谷歌搜索宣布大改版 AI模式与代理助手全面嵌入",
+          "url": "https://flash.jin10.com/detail/20260520032918013800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "谷歌发布Gemini 3.5系列模型",
+          "url": "https://wallstreetcn.com/livenews/3106192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -102,7 +146,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -113,9 +157,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "谷歌I/O大会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3106229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
@@ -124,7 +179,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -135,7 +190,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -146,7 +201,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -157,7 +212,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -168,9 +223,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
+          "url": "https://flash.jin10.com/detail/20260520024925231800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "谷歌首席执行官：全新Gemini 3.5价格仅为竞争对手型号的一半。",
@@ -179,9 +245,53 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "谷歌发布Gemini for science，来帮助研究",
+          "url": "https://wallstreetcn.com/livenews/3106216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
+          "url": "https://wallstreetcn.com/livenews/3106214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
+          "url": "https://wallstreetcn.com/livenews/3106212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "谷歌展示Google Flow Music。",
+          "url": "https://wallstreetcn.com/livenews/3106211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
@@ -198,7 +308,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -208,8 +318,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
@@ -218,7 +339,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -240,11 +361,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
@@ -255,8 +377,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
@@ -267,8 +389,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "美国副总统万斯：俄罗斯接管伊朗的浓缩铀并不在计划之内。",
@@ -277,7 +399,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -288,7 +410,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -299,7 +421,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -321,7 +443,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -332,7 +454,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -373,7 +495,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -383,8 +505,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
+        },
+        {
+          "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
+          "url": "https://wallstreetcn.com/livenews/3106241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
@@ -393,7 +526,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -417,8 +550,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -428,8 +561,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
+        },
+        {
+          "title": "赖清德暗怼特朗普后心虚了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "time_info": "[02时31分 ~ 04时22分]"
+        },
+        {
+          "title": "为何特朗普抛涉台“四不”说法",
+          "url": "https://www.toutiao.com/trending/7640681040356671526/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时22分]"
         },
         {
           "title": "美国副总统万斯：特朗普指示我们要积极与伊朗谈判。",
@@ -438,7 +595,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -449,7 +606,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -463,17 +620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "赖清德暗怼特朗普后心虚了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
         },
         {
           "title": "特朗普：将让沃什按自己的意愿决定利率",
@@ -496,23 +642,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "为何特朗普抛涉台“四不”说法",
-          "url": "https://www.toutiao.com/trending/7640681040356671526/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -522,8 +657,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 高通跌近4%",
+          "url": "https://flash.jin10.com/detail/20260520040118773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
@@ -532,9 +678,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3106240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股盘中）",
@@ -543,7 +700,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -553,11 +710,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "美股开盘：西部数据、闪迪跌超3%",
@@ -574,36 +732,58 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "美元指数19日上涨",
+          "url": "https://flash.jin10.com/detail/20260520032624301800",
+          "source": "金十数据",
           "ranks": [
-            5
+            10
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "彭博美元指数涨超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3106228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3106183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://www.cls.cn/detail/2375756",
-          "source": "财联社热门",
+          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3106221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -613,8 +793,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -626,13 +806,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",
+          "url": "https://wallstreetcn.com/livenews/3106217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek最新回应",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时22分]"
+        },
+        {
+          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://www.cls.cn/detail/2375756",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时22分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI担保给予开支水平的算力。",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
         {
           "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
           "url": "https://wallstreetcn.com/livenews/3106163",
@@ -660,23 +892,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.40%，暂报2677.96点。 MarketVectorTM数字资产100中盘指数涨1.57%，报2929.74点。 MarketVector数字资产100指数涨0.59%，报15072.38点。 目前，Solana跌0.07%，狗狗币跌0.43%，XRP跌1.10%。 比特币跌0.02%，暂报76725.93美元；以太坊涨0.13%，暂报2116.42美元。",
-          "url": "https://wallstreetcn.com/livenews/3106183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
         }
       ]
     }
