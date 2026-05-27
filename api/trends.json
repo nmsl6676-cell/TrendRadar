@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T05:43:21.260419+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-05-28T07:07:31.338073+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -15,19 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
         },
         {
-          "title": "“不在乎中期选举”，特朗普称美伊协议须“完美”，仍欲捆绑“亚伯拉罕协议”",
-          "url": "https://wallstreetcn.com/livenews/3110269",
+          "title": "美国总统特朗普：将立法，使面向未来的数字资产市场结构（监管框架）法典化。",
+          "url": "https://wallstreetcn.com/livenews/3110293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时07分"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -102,9 +102,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "“不在乎中期选举”，特朗普称美伊协议须“完美”，仍欲捆绑“亚伯拉罕协议”",
+          "url": "https://wallstreetcn.com/livenews/3110269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时07分]"
         },
         {
           "title": "美国总统特朗普：我们得到了其他国家的巨大支持。",
@@ -124,7 +136,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -157,9 +169,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国智库：特朗普嘴上说不关心，但最怕共和党中期选举惨败",
+          "url": "https://flash.jin10.com/detail/20260528062011418800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "伊朗媒体Fars News：美国总统特朗普可能会单方面宣称磋商成功，但伊朗谈判团队的成员说仍然存在悬而未决的问题。",
@@ -261,6 +284,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "伊朗称不因特朗普言论而退缩",
+          "url": "https://flash.jin10.com/detail/20260528052138235800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好",
+          "url": "https://wallstreetcn.com/livenews/3110278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "特朗普称伊朗“表现得当”后才能拿回资金",
           "url": "https://wallstreetcn.com/livenews/3110209",
           "source": "华尔街见闻-快讯",
@@ -338,6 +383,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "伊朗：特朗普为了摆脱僵局只能反复无常",
+          "url": "https://flash.jin10.com/detail/20260528045755535800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗：伊朗不会因特朗普的言辞而退让红线",
+          "url": "https://flash.jin10.com/detail/20260528045742064800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "特朗普威胁阿曼：老实点，否则会轰炸",
           "url": "https://wallstreetcn.com/livenews/3110202",
           "source": "华尔街见闻-快讯",
@@ -358,12 +425,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗称不因特朗普言论而退缩",
+          "url": "https://wallstreetcn.com/livenews/3110265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -373,8 +451,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
         },
         {
           "title": "王毅谈当前伊朗局势僵局",
@@ -385,8 +463,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
         },
         {
           "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
@@ -396,8 +474,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
         },
         {
           "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
@@ -407,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
         },
         {
           "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
@@ -418,8 +496,53 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
+        },
+        {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
+        },
+        {
+          "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
+          "url": "https://flash.jin10.com/detail/20260528064119637800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
+        },
+        {
+          "title": "伊朗阿巴斯港消息人士称，听到远处传来三四声爆炸声，听起来和几天前晚上（发生爆炸）的方向一样。",
+          "url": "https://flash.jin10.com/detail/20260528063725013800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
@@ -433,27 +556,26 @@
           "time_info": "03时12分"
         },
         {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
+          "title": "伊朗Bandar Abbas东部出现三次爆炸声，防控系统被激活了几分钟。（伊朗媒体Fars News）",
+          "url": "https://wallstreetcn.com/livenews/3110291",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
-          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
-          "url": "https://wallstreetcn.com/articles/3773194",
-          "source": "华尔街见闻",
+          "title": "当地居民称，伊朗南部阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260528063440282800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美军事力量将撤出伊朗周边",
@@ -525,7 +647,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -547,8 +669,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时07分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -566,11 +699,12 @@
           "url": "https://wallstreetcn.com/livenews/3110264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时07分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -579,9 +713,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
+          "url": "https://wallstreetcn.com/livenews/3110281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
@@ -590,7 +735,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -612,9 +757,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
+          "url": "https://wallstreetcn.com/livenews/3110274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
+          "url": "https://flash.jin10.com/detail/20260528062625089800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
