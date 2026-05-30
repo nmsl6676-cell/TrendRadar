@@ -1,218 +1,12 @@
 {
-  "generated_at": "2026-05-30T06:23:40.325698+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-30T08:02:04.059508+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
-          "url": "https://news.ifeng.com/c/8tWwzy1f6k3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时23分]"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：目前，我们专注于结束战争，并未就伊朗核计划进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260530011040138800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时23分]"
-        },
-        {
-          "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
-          "url": "https://flash.jin10.com/detail/20260530033805966800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 06时23分]"
-        },
-        {
-          "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260530033749981800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 06时23分]"
-        },
-        {
-          "title": "据纽约邮报：美国和伊朗将何时敲定谅解备忘录尚不清楚。",
-          "url": "https://flash.jin10.com/detail/20260530035126096800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "美国尚未证实伊朗在霍尔木兹海峡布雷。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3111639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
-          "url": "https://flash.jin10.com/detail/20260530034847943800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "伊朗：击落了美国-以色列一架无人机。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3111597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
-          "url": "https://flash.jin10.com/detail/20260530003256956800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "美国财长贝森特：认为40%或50%的伊朗军队未能获得薪水。",
-          "url": "https://flash.jin10.com/detail/20260530031210595800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗通胀率可能超过200%。",
-          "url": "https://flash.jin10.com/detail/20260530031153199800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "因伊朗战争受困的大型油轮中已有四分之一驶出海峡，不含伊朗相关船舶",
-          "url": "https://wallstreetcn.com/livenews/3111553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "【伊知情人士：伊朗尚未就伊美协议作出最终决定】伊朗法尔斯通讯社29日援引知情人士的话说，与美国的协议文本正处于伊朗国内审批的最后阶段，伊方尚未作出最终决定。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3111552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
-          "url": "https://wallstreetcn.com/livenews/3111590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3111587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "伊朗外交部：仍在与美方沟通 尚未达成最终共识",
-          "url": "https://wallstreetcn.com/livenews/3111625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "特朗普签署法令，放宽美国联邦土地准入限制",
-          "url": "https://wallstreetcn.com/livenews/3111655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
           "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
@@ -221,8 +15,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普签署法令，放宽美国联邦土地准入限制",
+          "url": "https://wallstreetcn.com/livenews/3111655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 08时02分]"
         },
         {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
@@ -233,8 +51,30 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 08时02分]"
+        },
+        {
+          "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
+          "url": "https://wallstreetcn.com/livenews/3111660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普正式承认美国卫生部近期针对儿童疫苗做出的一项科学评估结果",
+          "url": "https://wallstreetcn.com/livenews/3111659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国财长贝森特：应当将总统特朗普印到250面值美元上。",
@@ -257,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         },
         {
           "title": "美国财长贝森特：特朗普应该出现在250美元纸币上。",
@@ -382,8 +211,205 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
+          "url": "https://news.ifeng.com/c/8tWwzy1f6k3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：目前，我们专注于结束战争，并未就伊朗核计划进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260530011040138800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时02分]"
+        },
+        {
+          "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
+          "url": "https://flash.jin10.com/detail/20260530033805966800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 08时02分]"
+        },
+        {
+          "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260530033749981800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 08时02分]"
+        },
+        {
+          "title": "据纽约邮报：美国和伊朗将何时敲定谅解备忘录尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260530035126096800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "美国尚未证实伊朗在霍尔木兹海峡布雷。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3111639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
+          "url": "https://flash.jin10.com/detail/20260530034847943800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗：击落了美国-以色列一架无人机。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3111597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260530003256956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国财长贝森特：认为40%或50%的伊朗军队未能获得薪水。",
+          "url": "https://flash.jin10.com/detail/20260530031210595800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗通胀率可能超过200%。",
+          "url": "https://flash.jin10.com/detail/20260530031153199800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "因伊朗战争受困的大型油轮中已有四分之一驶出海峡，不含伊朗相关船舶",
+          "url": "https://wallstreetcn.com/livenews/3111553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "【伊知情人士：伊朗尚未就伊美协议作出最终决定】伊朗法尔斯通讯社29日援引知情人士的话说，与美国的协议文本正处于伊朗国内审批的最后阶段，伊方尚未作出最终决定。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3111552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
+          "url": "https://wallstreetcn.com/livenews/3111590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3111587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗外交部：仍在与美方沟通 尚未达成最终共识",
+          "url": "https://wallstreetcn.com/livenews/3111625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -403,9 +429,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股收盘）",
@@ -414,9 +440,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时02分]"
         },
         {
           "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
@@ -425,20 +463,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时23分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
@@ -453,15 +480,74 @@
           "time_info": "[01时25分 ~ 04时05分]"
         },
         {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
           "url": "https://flash.jin10.com/detail/20260530040220789800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3111637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
+          "url": "https://wallstreetcn.com/livenews/3111636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "周五（5月29日），美股信息科技指数涨2.27%，报437.17点，5月份累涨28.14%。",
+          "url": "https://wallstreetcn.com/livenews/3111635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "周五（5月29日），美股超大规模云服务商（Hyperscalers）收涨1.28%，报105.80点，5月份累涨7.11%。",
+          "url": "https://wallstreetcn.com/livenews/3111634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
@@ -486,57 +572,13 @@
           "time_info": "01时25分"
         },
         {
-          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3111637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
-          "url": "https://wallstreetcn.com/livenews/3111636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "周五（5月29日），美股信息科技指数涨2.27%，报437.17点，5月份累涨28.14%。",
-          "url": "https://wallstreetcn.com/livenews/3111635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "周五（5月29日），美股超大规模云服务商（Hyperscalers）收涨1.28%，报105.80点，5月份累涨7.11%。",
-          "url": "https://wallstreetcn.com/livenews/3111634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
           "url": "https://wallstreetcn.com/livenews/3111628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -547,7 +589,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -563,11 +605,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时02分]"
         },
         {
           "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
@@ -576,9 +619,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
         }
       ]
     },
@@ -591,11 +634,12 @@
           "url": "https://wallstreetcn.com/livenews/3111654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 08时02分]"
         },
         {
           "title": "美债价格回吐涨幅，报道称特朗普并没有在周五会议上围绕伊朗问题做决定。",
@@ -623,8 +667,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 06时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 08时02分]"
         }
       ]
     },
@@ -639,7 +683,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
