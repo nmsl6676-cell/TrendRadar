@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T19:10:08.519691+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-05-30T20:58:22.490778+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -53,15 +53,26 @@
           "time_info": "[01时25分 ~ 08时02分]"
         },
         {
-          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
-          "url": "https://flash.jin10.com/detail/20260530185118096800",
-          "source": "金十数据",
+          "title": "伊朗准备为哈梅内伊举行盛大葬礼",
+          "url": "https://news.ifeng.com/c/8tYL9HroZVj",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://wallstreetcn.com/livenews/3111819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "伊朗准备为阿里·哈梅内伊举行盛大葬礼",
@@ -75,17 +86,6 @@
           "time_info": "17时08分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260530184239283800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "据伊朗Press TV：伊朗陆军防空部队今天早些时候在格什姆岛上空击落了一架“Orbiter”攻击型无人机。",
           "url": "https://flash.jin10.com/detail/20260530163415972800",
           "source": "金十数据",
@@ -96,6 +96,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时08分 ~ 19时10分]"
+        },
+        {
+          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
+          "url": "https://flash.jin10.com/detail/20260530185118096800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时58分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260530184239283800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时58分]"
         },
         {
           "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
@@ -156,6 +180,17 @@
           "time_info": "[06时23分 ~ 08时02分]"
         },
         {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://flash.jin10.com/detail/20260530201304741800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "伊朗对科威特的空军基地发动导弹袭击 数名美国人员受伤",
           "url": "https://wallstreetcn.com/livenews/3111733",
           "source": "华尔街见闻-快讯",
@@ -167,13 +202,24 @@
           "time_info": "14时39分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
+          "url": "https://flash.jin10.com/detail/20260530200112317800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美国正第三次背叛外交",
           "url": "https://wallstreetcn.com/livenews/3111783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -261,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -283,7 +329,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -316,7 +362,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -338,7 +384,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -387,6 +433,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "美军称针对伊朗港口的海上封锁仍在持续",
+          "url": "https://wallstreetcn.com/livenews/3111799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
           "url": "https://wallstreetcn.com/livenews/3111587",
           "source": "华尔街见闻-快讯",
@@ -396,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗国家电视台：过去24小时内有20艘船只穿越霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3111796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "伊朗外交部：仍在与美方沟通 尚未达成最终共识",
@@ -423,7 +491,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -435,8 +503,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时23分 ~ 19时10分]"
+          "appearance_count": 10,
+          "time_info": "[06时23分 ~ 20时58分]"
         },
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
@@ -462,17 +530,6 @@
           "time_info": "[14时39分 ~ 19时10分]"
         },
         {
-          "title": "特朗普肖像纪念钞能流通吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
           "source": "财联社热门",
@@ -483,8 +540,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 20时58分]"
+        },
+        {
+          "title": "特朗普肖像纪念钞能流通吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -503,11 +571,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时10分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 20时58分]"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -627,6 +696,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
+          "url": "https://wallstreetcn.com/livenews/3111814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
           "url": "https://wallstreetcn.com/livenews/3111606",
           "source": "华尔街见闻-快讯",
@@ -715,6 +795,28 @@
           "time_info": "04时05分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
+          "url": "https://flash.jin10.com/detail/20260530190753354800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
+          "url": "https://wallstreetcn.com/livenews/3111801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "特朗普称对伊朗的海上封锁“即将被解除”",
           "url": "https://wallstreetcn.com/livenews/3111549",
           "source": "华尔街见闻-快讯",
@@ -762,7 +864,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -775,8 +877,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时01分 ~ 19时10分]"
+          "appearance_count": 9,
+          "time_info": "[08时01分 ~ 20时58分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -866,11 +968,12 @@
           "url": "https://wallstreetcn.com/articles/3773491",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -932,6 +1035,28 @@
           "time_info": "[06时23分 ~ 08时02分]"
         },
         {
+          "title": "中美股市的风格为何越来越相似了",
+          "url": "https://www.toutiao.com/trending/7645641566559669823/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260530003733854800",
           "source": "金十数据",
@@ -979,7 +1104,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -1004,6 +1129,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 08时02分]"
+        },
+        {
+          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
+          "url": "https://wallstreetcn.com/livenews/3111808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
+          "url": "https://flash.jin10.com/detail/20260530193729860800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
