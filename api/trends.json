@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T10:13:33.328279+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-06-01T16:19:59.227632+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -26,11 +26,12 @@
           "ranks": [
             11,
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时05分 ~ 10时13分]"
+          "appearance_count": 8,
+          "time_info": "[04时05分 ~ 16时19分]"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -195,6 +196,18 @@
           "time_info": "[00时54分 ~ 02时59分]"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 16时19分]"
+        },
+        {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
           "url": "https://wallstreetcn.com/livenews/3111984",
           "source": "华尔街见闻-快讯",
@@ -339,6 +352,17 @@
           "time_info": "[00时54分 ~ 01时52分]"
         },
         {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国中央司令部：截至5月31日，美军针对伊朗的封锁行动已迫使118艘商业船只改变航线。",
           "url": "https://flash.jin10.com/detail/20260601024714847800",
           "source": "金十数据",
@@ -350,17 +374,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
           "url": "https://flash.jin10.com/detail/20260601043137410800",
           "source": "金十数据",
@@ -370,6 +383,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗外交部发言人：与美国谈判的一大难题在于对方立场频繁变化",
+          "url": "https://wallstreetcn.com/livenews/3112269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗宣布打击并摧毁美军目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E5%B9%B6%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "伊官员称伊朗不会对美退让妥协",
@@ -389,7 +424,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -405,6 +440,28 @@
           "time_info": "05时46分"
         },
         {
+          "title": "科威特方面表示，伊朗的袭击破坏了缓解该地区紧张局势的努力。",
+          "url": "https://flash.jin10.com/detail/20260601160122989800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗：尚未与美国磋商核问题。 以色列对黎巴嫩的袭击阻碍了与美国达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3112258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
           "url": "https://flash.jin10.com/detail/20260601034421559800",
           "source": "金十数据",
@@ -414,12 +471,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗：霍尔木兹海峡的新安排将不是临时措施。 黎巴嫩的停火是任何与美国协议的“核心”组成部分。",
+          "url": "https://wallstreetcn.com/livenews/3112248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -511,6 +579,18 @@
           "time_info": "[01时52分 ~ 04时05分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 16时19分]"
+        },
+        {
           "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
           "url": "https://flash.jin10.com/detail/20260601025902421800",
           "source": "金十数据",
@@ -535,15 +615,26 @@
           "time_info": "[05时46分 ~ 06时46分]"
         },
         {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
+          "title": "特朗普最新体检报告太完美，医生质疑关键数据缺失",
+          "url": "https://flash.jin10.com/detail/20260601160853602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美伊局势再添迷雾！协议草案遭遇更严苛修改 特朗普重申“不急”",
+          "url": "https://www.cls.cn/detail/2386550",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "16时19分"
         },
         {
           "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
@@ -571,8 +662,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "美股的“午夜钟声”或将敲响",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
@@ -583,6 +685,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "美股盘前，英伟达涨超2%，英伟达Vera Rubin全面量产，宣布杀入PC芯片市场，携宇树布局机器人；Arm大涨超8%；美股存储芯片股走高，美光科技涨超3%，闪迪涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3112272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "美股科技股盘前多数上涨，Arm(ARM.O)一度涨超8%，美光科技(MU.O)涨超3%，甲骨文(ORCL.N)涨2.8%，微软(MSFT.O)涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260601160804673800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前上涨近2%，此前公司推出PC芯片，将人工智能直接带入个人电脑。",
+          "url": "https://flash.jin10.com/detail/20260601160339366800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美股三大股指期货周一基本平开。",
