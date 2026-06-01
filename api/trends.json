@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T16:19:59.227632+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-01T22:46:41.645731+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 06时46分]"
+        },
+        {
+          "title": "国际油价短线拉升，报道：伊朗将暂停与美国沟通，已决定全面封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3773592",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
@@ -183,6 +194,18 @@
           "time_info": "[02时59分 ~ 04时05分]"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 22时46分]"
+        },
+        {
           "title": "美国财长贝森特：对伊朗的经济围困是施压行动的基本组成部分。",
           "url": "https://flash.jin10.com/detail/20260531235759836800",
           "source": "金十数据",
@@ -194,18 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 02时59分]"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 16时19分]"
         },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
@@ -352,13 +363,35 @@
           "time_info": "[00时54分 ~ 01时52分]"
         },
         {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7646419297488604708/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
           "url": "https://www.cls.cn/detail/2386651",
           "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -372,6 +405,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
@@ -391,9 +446,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2520417",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "伊朗谈判团队暂停通过中间人同美国对话",
+          "url": "https://www.toutiao.com/trending/7646198408432566313/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "伊朗宣布打击并摧毁美军目标",
@@ -402,9 +479,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国的对话",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%B9%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "伊官员称伊朗不会对美退让妥协",
@@ -446,7 +534,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -457,7 +545,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -473,15 +561,59 @@
           "time_info": "05时46分"
         },
         {
+          "title": "伊朗：要求满足前不会举行任何谈判",
+          "url": "https://wallstreetcn.com/livenews/3112491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "【伊朗谈判代表团成员：伊方正审议美新提议 尚未作出回应】记者当地时间6月1日获悉，伊朗谈判代表团的媒体团队成员阿贾鲁表示，美国的新提议正在由伊朗最高国家安全委员会及相关部门审议。他表示，一份文本已通过调解方送达伊朗，但伊朗尚未对美国的新提议作出回应，且美方可能会对文本进行其他修改，并提出其他问题。阿贾鲁表示，伊朗尚未对美国的新文本作出回应，因为伊朗存有一些顾虑，这些顾虑必须得到解决，才能让伊朗从谈判中获益。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3112490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "伊朗：霍尔木兹海峡的新安排将不是临时措施。 黎巴嫩的停火是任何与美国协议的“核心”组成部分。",
           "url": "https://wallstreetcn.com/livenews/3112248",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹海峡并启动曼德海峡“战线”",
+          "url": "https://wallstreetcn.com/livenews/3112486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "美军证实驻科威特基地遭伊朗袭击，称无人员伤亡",
+          "url": "https://wallstreetcn.com/livenews/3112480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
@@ -566,6 +698,18 @@
           "time_info": "07时54分"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 22时46分]"
+        },
+        {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
           "url": "https://flash.jin10.com/detail/20260601010048036800",
           "source": "金十数据",
@@ -577,18 +721,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 04时05分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 16时19分]"
         },
         {
           "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
@@ -621,7 +753,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -632,7 +764,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -662,7 +794,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
@@ -671,9 +803,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "美股惊人复刻2000年泡沫剧本！美银预警牛市拐点将至",
+          "url": "https://flash.jin10.com/detail/20260601221737376800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美股的“午夜钟声”或将敲响",
@@ -687,13 +841,24 @@
           "time_info": "[00时53分 ~ 00时54分]"
         },
         {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "美股盘前，英伟达涨超2%，英伟达Vera Rubin全面量产，宣布杀入PC芯片市场，携宇树布局机器人；Arm大涨超8%；美股存储芯片股走高，美光科技涨超3%，闪迪涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3112272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -704,7 +869,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -715,7 +880,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -729,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美股三大指数集体低开，道琼斯指数跌0.30%，标普500指数跌0.19%，纳斯达克综合指数跌0.18%。英伟达开盘上涨3%，ARM上涨12%；高通下跌7.6%，英特尔下跌6.7%，AMD下跌3.8%。IBM上涨8.7%，有望创下历史新高。戴尔涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3112484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "李大霄：为何鲜有人提醒美股风险",
@@ -777,6 +953,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 06时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国债收益率在ISM制造业和营建支出数据公布后小幅上涨，10年期美债收益率最新上升5.9个基点，报4.512%。",
+          "url": "https://flash.jin10.com/detail/20260601220206245800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     }
