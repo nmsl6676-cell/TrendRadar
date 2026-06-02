@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T06:29:00.141617+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-06-02T08:04:42.820416+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：以黎将立即停火",
@@ -30,13 +30,24 @@
           "time_info": "[03时49分 ~ 03时50分]"
         },
         {
+          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
+          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美国总统特朗普：今天我与内塔尼亚胡进行了交谈，要求他不要对黎巴嫩首都贝鲁特发动大规模突袭。他随即下令部队撤回。谢谢你，内塔尼亚胡！我还与真主党领导人的代表进行了对话，他们同意停止向以色列及其士兵开火。同样，以色列也同意停止向他们开火。让我们拭目以待，看看这种停火能持续多久，但愿它能持续到永远！",
           "url": "https://flash.jin10.com/detail/20260602054949735800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -67,22 +78,48 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
           "url": "https://wallstreetcn.com/articles/3773555",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 08时04分]"
+        },
+        {
+          "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3112663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时28分 ~ 06时29分]"
+          "time_info": "[06时29分 ~ 08时04分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。 在谅解备忘录（MoU）上还需要再敲定几点，将在下周完成。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3112661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 08时04分]"
         },
         {
           "title": "美国参议院多数党领袖图恩：希望将美国总统特朗普的“武器化”基金从移民执法支出法案中删除。",
@@ -102,20 +139,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3112663",
-          "source": "华尔街见闻-快讯",
+          "title": "据CNN：UFC总裁现身美国白宫，白宫南草坪上的格斗场建设仍在继续，为6月14日的赛事做准备。美国总统特朗普曾宣布将在其80岁生日（6月14日）当天举办一场UFC拳击赛事。",
+          "url": "https://flash.jin10.com/detail/20260602075130214800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "08时04分"
         },
         {
           "title": "美国法官叫停特朗普政府关闭气候研究中心的计划。",
@@ -124,20 +161,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。 在谅解备忘录（MoU）上还需要再敲定几点，将在下周完成。（ABC）",
-          "url": "https://wallstreetcn.com/livenews/3112661",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒称特朗普斥以色列总理疯了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "08时04分"
         },
         {
           "title": "以色列国防部长卡茨：特朗普采纳了我们确立的观点，即向我们的定居点开火就意味着贝鲁特将遭到轰炸。这就是他那番话的含义。",
@@ -151,6 +188,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "特朗普：不在乎美伊谈判是否终结，油价将“像石头一样下跌”",
+          "url": "https://flash.jin10.com/detail/20260602074011283800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普计划取消“武器化”基金。",
           "url": "https://flash.jin10.com/detail/20260602024534706800",
           "source": "金十数据",
@@ -160,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "特朗普：是时候查金库了",
+          "url": "https://flash.jin10.com/detail/20260602073308299800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "特朗普：与伊朗的谈判正“快速推进”",
@@ -184,6 +243,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "为保美伊和谈，特朗普爆粗痛骂内塔尼亚胡！",
+          "url": "https://flash.jin10.com/detail/20260602071639017800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止",
           "url": "https://wallstreetcn.com/livenews/3112597",
           "source": "华尔街见闻-快讯",
@@ -201,7 +271,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -220,29 +290,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3773592",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
           "url": "https://www.cls.cn/detail/2387611",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
@@ -253,8 +325,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国对话",
@@ -262,22 +334,12 @@
           "source": "微博",
           "ranks": [
             19,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
-          "url": "https://flash.jin10.com/detail/20260602054738014800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -287,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
@@ -298,8 +360,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260602054738014800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "伊朗计划彻底封锁霍尔木兹海峡",
@@ -307,11 +380,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -322,8 +396,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
         },
         {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
@@ -370,6 +444,17 @@
           "time_info": "[03时49分 ~ 03时50分]"
         },
         {
+          "title": "伊朗：美对以违反停火协议负直接责任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%AF%B9%E4%BB%A5%E8%BF%9D%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%B4%9F%E7%9B%B4%E6%8E%A5%E8%B4%A3%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗革命卫队圣城旅指挥官卡尼表示，以色列在黎巴嫩和加沙的行动将导致抵抗轴心将“曼德海峡的航运状况与霍尔木兹海峡的情况对等看待”。",
           "url": "https://flash.jin10.com/detail/20260602031955651800",
           "source": "金十数据",
@@ -387,7 +472,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -409,7 +494,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -420,7 +505,180 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "伊朗：动用一切能力捍卫自身利益",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%8A%A8%E7%94%A8%E4%B8%80%E5%88%87%E8%83%BD%E5%8A%9B%E6%8D%8D%E5%8D%AB%E8%87%AA%E8%BA%AB%E5%88%A9%E7%9B%8A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时49分 ~ 06时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
+          "url": "https://wallstreetcn.com/livenews/3112689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 08时04分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨约3.5%，成分股美光涨超6.6%",
+          "url": "https://wallstreetcn.com/livenews/3112686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
+          "url": "https://wallstreetcn.com/livenews/3112653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美股收盘：芯片股多涨 英伟达涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3112642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美股纳指首次收于27000点上方",
+          "url": "https://www.toutiao.com/trending/7646569391693237811/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3112640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，季环比增长7.4%、同比增长157.0%，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。 预计第一财季调整后毛利润率67%-69%，分析师预期65%。",
+          "url": "https://wallstreetcn.com/livenews/3112639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
+          "url": "https://wallstreetcn.com/livenews/3112635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -442,17 +700,6 @@
           "time_info": "03时50分"
         },
         {
-          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
-          "url": "https://wallstreetcn.com/livenews/3112665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
           "url": "https://wallstreetcn.com/livenews/3112620",
           "source": "华尔街见闻-快讯",
@@ -464,13 +711,25 @@
           "time_info": "03时50分"
         },
         {
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 08时04分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
           "url": "https://flash.jin10.com/detail/20260602053510657800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -532,104 +791,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 06时29分]"
-        },
-        {
-          "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3112654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
-          "url": "https://wallstreetcn.com/livenews/3112653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3112642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3112640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，季环比增长7.4%、同比增长157.0%，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。 预计第一财季调整后毛利润率67%-69%，分析师预期65%。",
-          "url": "https://wallstreetcn.com/livenews/3112639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
-          "url": "https://wallstreetcn.com/livenews/3112635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
+          "url": "https://wallstreetcn.com/livenews/3112690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
           "url": "https://flash.jin10.com/detail/20260602050830269800",
@@ -637,7 +812,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -648,7 +823,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -659,7 +834,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -674,11 +849,12 @@
           "url": "https://wallstreetcn.com/livenews/3112662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 08时04分]"
         }
       ]
     },
