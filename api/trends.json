@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T05:21:39.641491+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-06-05T06:59:52.589648+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -64,13 +64,37 @@
           "time_info": "[00时15分 ~ 05时21分]"
         },
         {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://wallstreetcn.com/livenews/3114633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时59分]"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时59分]"
+        },
+        {
           "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
           "url": "https://flash.jin10.com/detail/20260605044557857800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -81,29 +105,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://wallstreetcn.com/livenews/3114633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -114,7 +116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -125,7 +127,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -147,7 +149,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -158,9 +160,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://wallstreetcn.com/livenews/3114655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：我们将处理好古巴问题。",
@@ -169,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -180,7 +193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -191,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -202,7 +215,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -213,7 +226,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -224,7 +237,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -235,9 +248,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260605055248462800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
+          "url": "https://wallstreetcn.com/livenews/3114648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：我们将与印度达成贸易协议。",
@@ -246,7 +281,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -257,9 +292,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://flash.jin10.com/detail/20260605054401786800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
@@ -279,7 +325,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -290,9 +336,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
+          "url": "https://flash.jin10.com/detail/20260605053303350800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：不需要欧洲在霍尔木兹海峡问题上提供帮助。 不需要欧洲其他国家在霍尔木兹问题上提供帮助。 我们已经杀害几乎所有的伊朗领导人。 伊朗没有海军，也没有空军。 如果伊朗打死美军，将迅速重启战争。 （黎巴嫩）真主党联系了我们。",
@@ -301,7 +358,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -312,7 +369,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -323,7 +380,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -334,7 +391,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -345,9 +402,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
+          "url": "https://flash.jin10.com/detail/20260605045725566800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国财长贝森特：总统特朗普的投资完全由第三方管理。",
@@ -378,7 +446,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -386,7 +454,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
@@ -416,11 +484,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 06时59分]"
         },
         {
           "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
@@ -432,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3114653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
@@ -478,6 +558,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
+          "url": "https://flash.jin10.com/detail/20260605051927289800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260605021812132800",
           "source": "金十数据",
@@ -492,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -502,8 +593,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 06时59分]"
+        },
+        {
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -511,11 +613,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 06时59分]"
+        },
+        {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时59分]"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -524,7 +638,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -535,18 +649,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "李大霄谈美股风险释放",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -554,18 +657,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 06时59分]"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
+          "url": "https://flash.jin10.com/detail/20260605064523592800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "Gemini 美国豆包",
@@ -599,6 +714,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260605060453998800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     }
