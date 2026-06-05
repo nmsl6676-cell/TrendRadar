@@ -1,1189 +1,161 @@
 {
-  "generated_at": "2026-06-05T23:47:04.640346+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-06-06T01:45:33.489561+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 17时02分]"
-        },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://flash.jin10.com/detail/20260605044910796800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普最新支持率曝光，压力骤增",
-          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
-          "url": "https://wallstreetcn.com/livenews/3114537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 23时47分]"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时21分]"
-        },
-        {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时08分]"
-        },
-        {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时08分]"
-        },
-        {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://wallstreetcn.com/livenews/3114633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时59分]"
-        },
-        {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时59分]"
-        },
-        {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://wallstreetcn.com/livenews/3114655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时04分]"
+          "time_info": "01时45分"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
           "ranks": [
-            18
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
-          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
-          "url": "https://flash.jin10.com/detail/20260605044557857800",
-          "source": "金十数据",
+          "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
+          "url": "https://wallstreetcn.com/livenews/3115260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3115259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "01时45分"
         },
         {
-          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
-          "url": "https://flash.jin10.com/detail/20260605044520253800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
-          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "据国际文传电讯社：美国总统特使威特科夫与特朗普女婿库什纳短期内预计不会访问俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20260605195847558800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
-          "url": "https://flash.jin10.com/detail/20260605043740083800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普称黎以和平谈判取得一定进展",
-          "url": "https://wallstreetcn.com/livenews/3114630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
-          "url": "https://flash.jin10.com/detail/20260604234601041800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "特朗普称黎以和平谈判取得一定进展",
-          "url": "https://flash.jin10.com/detail/20260605043607203800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
-          "url": "https://wallstreetcn.com/livenews/3114629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们将处理好古巴问题。",
-          "url": "https://flash.jin10.com/detail/20260605043346752800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普宣称：制裁古巴并不是要加速其崩溃。",
-          "url": "https://wallstreetcn.com/livenews/3114628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
-          "url": "https://flash.jin10.com/detail/20260605043321294800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普：Pulte不会成为正式的国家情报总监",
-          "url": "https://wallstreetcn.com/livenews/3114627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：在处理完伊朗后，我们会处理古巴。",
-          "url": "https://flash.jin10.com/detail/20260605043312889800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
-          "url": "https://wallstreetcn.com/livenews/3114626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：（关于古巴）我们只希望他们能成为一个管理良好的国家。",
-          "url": "https://flash.jin10.com/detail/20260605043128993800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
-          "url": "https://flash.jin10.com/detail/20260605055248462800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
-          "url": "https://flash.jin10.com/detail/20260605071426390800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-05）",
-          "url": "https://flash.jin10.com/detail/20260605195606561800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "特朗普为大倒影池翻修工程辩护 称使用寿命可达百年",
-          "url": "https://flash.jin10.com/detail/20260605233310430800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
-          "url": "https://wallstreetcn.com/livenews/3114648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
-          "url": "https://wallstreetcn.com/livenews/3115234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国总统特朗普：我们将与印度达成贸易协议。",
-          "url": "https://flash.jin10.com/detail/20260605043111038800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "曝特朗普将现场观看NBA总决赛G3",
-          "url": "https://www.toutiao.com/trending/7647682623816338954/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "美国总统特朗普：无论是在军事上还是在纸面上，我们都会赢。",
-          "url": "https://flash.jin10.com/detail/20260605042828948800",
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260606004348604800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "01时45分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://flash.jin10.com/detail/20260605054401786800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）你们终会知道协议的内容。主要部分是海峡将立即开放。",
-          "url": "https://flash.jin10.com/detail/20260605042804963800",
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260606004343832800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：任何接近伊朗核设施的人，我们都会采取相应行动应对。",
-          "url": "https://flash.jin10.com/detail/20260605042731966800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
-          "url": "https://flash.jin10.com/detail/20260605053303350800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "美国总统特朗普：不需要欧洲在霍尔木兹海峡问题上提供帮助。 不需要欧洲其他国家在霍尔木兹问题上提供帮助。 我们已经杀害几乎所有的伊朗领导人。 伊朗没有海军，也没有空军。 如果伊朗打死美军，将迅速重启战争。 （黎巴嫩）真主党联系了我们。",
-          "url": "https://wallstreetcn.com/livenews/3114619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们用卫星监控伊朗的核设施。",
-          "url": "https://flash.jin10.com/detail/20260605042624698800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普在被问及是否要夺取伊朗铀库存时表示，他不会重蹈美国前总统卡特时期的软弱立场。",
-          "url": "https://flash.jin10.com/detail/20260605042423324800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我没有考虑秘密行动去夺取伊朗的铀。没必要去获取伊朗的核尘埃，它都被埋起来了。",
-          "url": "https://flash.jin10.com/detail/20260605042250462800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：我不想与伊朗最高领袖会面。但如果是为了达成协议，我们可以会面。",
-          "url": "https://flash.jin10.com/detail/20260605042241035800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
-          "url": "https://flash.jin10.com/detail/20260605045725566800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
-          "url": "https://wallstreetcn.com/livenews/3115225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国财长贝森特：总统特朗普的投资完全由第三方管理。",
-          "url": "https://wallstreetcn.com/livenews/3114513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
-          "url": "https://wallstreetcn.com/livenews/3114560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普开会睡觉视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "01时45分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
-          "url": "https://wallstreetcn.com/livenews/3115106",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
+          "url": "https://flash.jin10.com/detail/20260606011557462800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
-          "url": "https://flash.jin10.com/detail/20260605024637794800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
-          "url": "https://flash.jin10.com/detail/20260605024523661800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
+          "time_info": "01时45分"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗“圣城旅”喊话以色列",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            18,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 08时04分]"
-        },
-        {
-          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3114653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时04分]"
-        },
-        {
-          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
-          "url": "https://flash.jin10.com/detail/20260605024510184800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
-          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046131640967984631",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
-          "url": "https://flash.jin10.com/detail/20260605233715202800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。 “达维娜”号与伊朗有关。",
-          "url": "https://wallstreetcn.com/livenews/3115093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾",
-          "url": "https://flash.jin10.com/detail/20260605195609827800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "美国对伊朗外汇兑换机构Mehrdad Geramian Nik实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260605233340333800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "哈马斯高官与伊朗外长通话讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260605070736550800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
-          "url": "https://wallstreetcn.com/livenews/3114526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "伊朗5月石油出口降至六年新低",
-          "url": "https://wallstreetcn.com/livenews/3114569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
-          "url": "https://wallstreetcn.com/livenews/3114520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "数据显示：伊朗石油出口降至六年来的最低水平",
-          "url": "https://flash.jin10.com/detail/20260605022126491800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
-          "url": "https://flash.jin10.com/detail/20260605051927289800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "黎以僵局锁死美伊谈判！伊朗高层再度发声力挺真主党",
-          "url": "https://flash.jin10.com/detail/20260605194641795800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
-          "url": "https://flash.jin10.com/detail/20260605232415104800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20260605021812132800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗最高领袖顾问称忍让到此为止",
-          "url": "https://wallstreetcn.com/livenews/3115075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
-          "url": "https://flash.jin10.com/detail/20260605194408430800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗海军表示，已在阿曼湾对美国驱逐舰开火示警。",
-          "url": "https://flash.jin10.com/detail/20260605194025838800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 06时59分]"
-        },
-        {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 13时08分]"
-        },
-        {
-          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
-          "url": "https://www.cls.cn/detail/2391243",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 13时08分]"
-        },
-        {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时08分]"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 23时47分]"
-        },
-        {
-          "title": "李大霄谈美股风险释放",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时59分]"
-        },
-        {
-          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
-          "url": "https://www.zhihu.com/question/2045914979002315116",
-          "source": "知乎",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "01时45分"
         },
         {
-          "title": "汇丰：美股转空的三大信号",
-          "url": "https://wallstreetcn.com/articles/3773857",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3114625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3114624",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
+          "url": "https://flash.jin10.com/detail/20260606004527127800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美股盘前，科技股延续跌势，英伟达跌超1.5%，美光科技跌2.77%，ARM跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3114919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 08时04分]"
-        },
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 23时47分]"
-        },
-        {
-          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
-          "url": "https://flash.jin10.com/detail/20260605064523592800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时04分]"
-        },
-        {
-          "title": "Gemini 美国豆包",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
-          "url": "https://wallstreetcn.com/livenews/3114563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 23时47分]"
-        },
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
-          "url": "https://wallstreetcn.com/livenews/3114670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "01时45分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "美国如何一次性解决 36 万亿美债问题？",
@@ -1193,19 +165,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "日本或通过抛售了美债 为创纪录规模的日元汇市干预筹资",
-          "url": "https://wallstreetcn.com/livenews/3115065",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
           "ranks": [
-            30
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
@@ -1214,15 +209,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260605060453998800",
-          "source": "金十数据",
+          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3115251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "01时45分"
         }
       ]
     }
