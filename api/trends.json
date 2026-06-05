@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-05T06:59:52.589648+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-06-05T08:04:18.510460+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
@@ -88,6 +99,29 @@
           "time_info": "[05时21分 ~ 06时59分]"
         },
         {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://wallstreetcn.com/livenews/3114655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时04分]"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
           "url": "https://flash.jin10.com/detail/20260605044557857800",
           "source": "金十数据",
@@ -165,15 +199,15 @@
           "time_info": "05时21分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://wallstreetcn.com/livenews/3114655",
-          "source": "华尔街见闻-快讯",
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "08时04分"
         },
         {
           "title": "美国总统特朗普：我们将处理好古巴问题。",
@@ -259,9 +293,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
@@ -270,7 +315,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -284,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "曝特朗普将现场观看NBA总决赛G3",
+          "url": "https://www.toutiao.com/trending/7647682623816338954/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国总统特朗普：无论是在军事上还是在纸面上，我们都会赢。",
@@ -303,7 +359,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -347,7 +403,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -413,7 +469,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -454,7 +510,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
@@ -485,11 +541,24 @@
           "ranks": [
             9,
             18,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 06时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 08时04分]"
+        },
+        {
+          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3114653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时04分]"
         },
         {
           "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
@@ -503,15 +572,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3114653",
-          "source": "华尔街见闻-快讯",
+          "title": "哈马斯高官与伊朗外长通话讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260605070736550800",
+          "source": "金十数据",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "08时04分"
         },
         {
           "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
@@ -564,7 +633,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -583,7 +652,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -601,11 +670,12 @@
           "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时04分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -614,11 +684,23 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 08时04分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -665,22 +747,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 08时04分]"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
           "url": "https://flash.jin10.com/detail/20260605064523592800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时04分]"
         },
         {
           "title": "Gemini 美国豆包",
@@ -718,6 +802,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -728,7 +829,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         }
