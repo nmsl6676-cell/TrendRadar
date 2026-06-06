@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T07:58:05.099769+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-06-06T10:27:20.587665+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -28,17 +28,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时58分]"
-        },
-        {
-          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
@@ -74,6 +63,40 @@
           "time_info": "03时28分"
         },
         {
+          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时27分]"
+        },
+        {
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普赦免斯蒂芬·E·拜尔（ STEPHEN E. BUYER）。",
+          "url": "https://flash.jin10.com/detail/20260606094705564800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
@@ -93,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时58分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 10时27分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -259,6 +283,28 @@
           "time_info": "03时28分"
         },
         {
+          "title": "特朗普：将很快从伊朗战事中“脱身” 但协议尚未达成",
+          "url": "https://flash.jin10.com/detail/20260606092909986800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普称将迅速结束伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3115394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
           "url": "https://flash.jin10.com/detail/20260606030001354800",
           "source": "金十数据",
@@ -279,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴地宣布提名斯图尔特·纳什担任哥伦比亚特区上诉法院法官。",
+          "url": "https://flash.jin10.com/detail/20260606090506851800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
@@ -391,6 +448,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "特朗普称将迅速结束伊朗战事",
+          "url": "https://flash.jin10.com/detail/20260606081603205800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "特朗普：将把利率决策交由沃什负责",
           "url": "https://wallstreetcn.com/livenews/3115282",
           "source": "华尔街见闻-快讯",
@@ -416,7 +484,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -424,11 +492,25 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 10时27分]"
+        },
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 10时27分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -439,20 +521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时58分]"
-        },
-        {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 10时27分]"
         },
         {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
@@ -466,26 +536,63 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
           "url": "https://wallstreetcn.com/livenews/3115381",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时27分]"
         },
         {
           "title": "美股三大指数齐跌 纳指跌逾千点",
           "url": "https://www.toutiao.com/trending/7647681791742214171/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时27分]"
+        },
+        {
+          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
+          "url": "https://wallstreetcn.com/livenews/3115378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "time_info": "[07时58分 ~ 10时27分]"
+        },
+        {
+          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时27分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -497,17 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
-          "url": "https://wallstreetcn.com/livenews/3115378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
@@ -532,6 +628,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美股泡沫爆破或渐行渐近",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E6%88%96%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
           "url": "https://flash.jin10.com/detail/20260606030109177800",
           "source": "金十数据",
@@ -554,17 +661,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
-          "url": "https://wallstreetcn.com/livenews/3115385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
           "url": "https://flash.jin10.com/detail/20260606040542544800",
           "source": "金十数据",
@@ -574,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -609,6 +716,28 @@
           "time_info": "06时55分"
         },
         {
+          "title": "一周热榜精选：强非农刺激年内加息预期，美股科技股蒸发万亿美元！",
+          "url": "https://flash.jin10.com/detail/20260606082214527800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "周五（6月5日），美股AI软件先驱指数跌4.89%，报116.06点，本周累跌5.18%。 成分股中，甲骨文收跌9.59%，铿腾电子跌8.62%，MongoDB跌7.74%，新思科技跌5.99%，ServiceNOW跌5.79%，Elastic跌5.07%，Palantir跌4.35%，Datadog、HubSpot、Adobe、微软、ServiceNOW、Salesforce、C3.ai跌3.90%-1.42%，GitHub涨0.91%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
           "url": "https://wallstreetcn.com/livenews/3115345",
           "source": "华尔街见闻-快讯",
@@ -618,12 +747,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
@@ -648,6 +788,28 @@
           "time_info": "01时45分"
         },
         {
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "伊朗革命卫队称打击美军基地",
+          "url": "https://flash.jin10.com/detail/20260606095438875800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
           "source": "澎湃新闻",
@@ -667,8 +829,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时27分]"
         },
         {
           "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
@@ -676,11 +838,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 10时27分]"
+        },
+        {
+          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
+          "url": "https://wallstreetcn.com/livenews/3115379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时58分]"
+          "time_info": "[07时58分 ~ 10时27分]"
         },
         {
           "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
@@ -694,15 +869,37 @@
           "time_info": "[06时55分 ~ 07时58分]"
         },
         {
-          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
-          "url": "https://wallstreetcn.com/livenews/3115379",
+          "title": "伊朗沿海锡里克地区传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3115393",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时27分"
+        },
+        {
+          "title": "伊朗外长：伊美沟通渠道仍保持畅通",
+          "url": "https://wallstreetcn.com/livenews/3115389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "伊朗最高领袖顾问称忍让到此为止",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A1%BE%E9%97%AE%E7%A7%B0%E5%BF%8D%E8%AE%A9%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
@@ -714,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "伊朗沿海锡里克地区传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260606083631859800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
@@ -736,12 +944,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "美军称击落四架向霍尔木兹海峡发射的伊朗无人机",
+          "url": "https://flash.jin10.com/detail/20260606080335096800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
@@ -758,6 +977,17 @@
           "time_info": "[01时45分 ~ 06时55分]"
         },
         {
+          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
+          "url": "https://flash.jin10.com/detail/20260606100207987800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
           "url": "https://flash.jin10.com/detail/20260606042427126800",
           "source": "金十数据",
@@ -770,16 +1000,51 @@
           "time_info": "[05时15分 ~ 07时58分]"
         },
         {
+          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
+          "url": "https://wallstreetcn.com/livenews/3115400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
           "url": "https://wallstreetcn.com/livenews/3115375",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 10时27分]"
+        },
+        {
+          "title": "周五（6月5日），美股超大规模云服务商（Hyperscalers）收跌3.91%，报99.37点，本周累计下跌6.08%。 成分股全线溃败，甲骨文收跌9.59%，Meta跌5.51%，亚马逊跌3.06%，微软跌2.66%，谷歌A跌0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3115384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时58分]"
+          "time_info": "[07时58分 ~ 10时27分]"
+        },
+        {
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "SpaceX与谷歌签署300亿美元算力协议",
@@ -791,17 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "周五（6月5日），美股超大规模云服务商（Hyperscalers）收跌3.91%，报99.37点，本周累计下跌6.08%。 成分股全线溃败，甲骨文收跌9.59%，Meta跌5.51%，亚马逊跌3.06%，微软跌2.66%，谷歌A跌0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3115384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
         },
         {
           "title": "SpaceX表示，谷歌将保留其人工智能模型及相关数据的所有权。",
@@ -846,6 +1100,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606031454932800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
@@ -933,34 +1226,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
-          "url": "https://flash.jin10.com/detail/20260606031454932800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
-          "url": "https://wallstreetcn.com/livenews/3115302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -975,6 +1240,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格跌回2025年 专家建议：黄金占资产配比10%",
+          "url": "https://flash.jin10.com/detail/20260606092732683800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
