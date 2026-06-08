@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T03:13:44.788043+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-09T05:31:53.131227+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗全境航班暂停运行",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "伊朗和以色列先后宣布停止袭击对方",
@@ -46,22 +46,36 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "伊朗宣布停止对以色列的军事行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列",
+          "url": "https://www.douyin.com/hot/2526750",
+          "source": "抖音",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 05时31分]"
         },
         {
           "title": "以色列回绝伊朗关于不要攻击黎巴嫩的警告",
@@ -125,7 +139,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -141,21 +155,21 @@
           "time_info": "00时42分"
         },
         {
-          "title": "伊朗时隔两个月再袭以色列",
-          "url": "https://www.douyin.com/hot/2526750",
-          "source": "抖音",
+          "title": "据伊朗塔斯尼姆通讯社援引消息人士：伊拉克北部的苏莱曼尼亚传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260609041714219800",
+          "source": "金十数据",
           "ranks": [
-            27
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "05时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -165,8 +179,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
+          "url": "https://www.zhihu.com/question/2047287128892224880",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 05时31分]"
         },
         {
           "title": "白宫：美国总统特朗普的政府将针对“10万美元H-1B签证费政令遭法官驳回”提出上诉。",
@@ -175,18 +201,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
-          "url": "https://www.zhihu.com/question/2047287128892224880",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -198,8 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
@@ -209,19 +224,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -231,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "以媒：特朗普施压内塔尼亚胡停止扩大对伊打击",
@@ -241,7 +257,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -252,7 +268,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -263,7 +279,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -274,9 +290,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普提名托德·布兰奇出任美司法部长",
+          "url": "https://wallstreetcn.com/livenews/3116329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "美以伊三方博弈100天：特朗普管不住局势了？",
@@ -292,9 +319,221 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘后上涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260609050509753800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3116342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3116340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260609040521709800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260609040515138800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI：研究人员将与OpenAI经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
+          "url": "https://flash.jin10.com/detail/20260609020813269800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
+          "url": "https://flash.jin10.com/detail/20260609051727017800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
           "url": "https://flash.jin10.com/detail/20260609001051651800",
@@ -324,7 +563,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -335,61 +574,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
         },
         {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
-        },
-        {
-          "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116263",
+          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
+          "url": "https://wallstreetcn.com/livenews/3116327",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "05时31分"
         }
       ]
     },
@@ -405,8 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
@@ -433,25 +631,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：研究人员将与OpenAI经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
-          "url": "https://flash.jin10.com/detail/20260609020813269800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（6月8日）纽约尾盘，彭博谷物分类指数涨0.22%，报29.4516点。 CBOT玉米期货跌0.22%，CBOT小麦期货涨0.30%。 CBOT大豆期货跌0.42%，报11.1675美元/蒲式耳，豆粕期货跌0.61%，豆油期货涨0.77%。 CBOT瘦肉猪期货跌1.52%，活牛期货跌2.20%，饲牛期货跌1.03%。",
@@ -460,9 +641,37 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "周一（6月8日）纽约尾盘，ICE美元指数跌0.05%，报100.017点，日内交投区间为100.214-99.819点。 彭博美元指数跌0.06%，报1211.11点，日内交投区间为1212.94-1208.97点。 美元兑日元跌0.04%，报160.23日元，日内交投区间为160.39-159.86日元。",
+          "url": "https://wallstreetcn.com/livenews/3116330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3116333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
