@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-11T06:46:16.827548+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-06-11T08:07:41.085664+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 75,
       "titles": [
+        {
+          "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
+          "url": "https://ishare.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
         {
           "title": "伊朗议会要员：战争将不会局限于本地区",
           "url": "https://flash.jin10.com/detail/20260611033300818800",
@@ -25,20 +36,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
         {
-          "title": "伊朗Kangan港口传来多次爆炸声。（伊朗媒体MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3117746",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗公布最新海上损失：253艘船沉没或全毁，海员54死66伤",
+          "url": "https://news.ifeng.com/c/8tqoB26YJXf",
+          "source": "凤凰网",
           "ranks": [
-            2
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗革命卫队已完成第一阶段的导弹和无人机攻势。",
+          "url": "https://flash.jin10.com/detail/20260611074439681800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "08时07分"
         },
         {
           "title": "伊朗总统：伊朗将坚定不移抵御任何压力和威胁",
@@ -52,15 +74,61 @@
           "time_info": "01时49分"
         },
         {
+          "title": "美国中央司令部：伊朗声称在霍尔木兹海峡袭击了一艘美国军舰，此为不实信息。",
+          "url": "https://flash.jin10.com/detail/20260611074330973800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
+        },
+        {
+          "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
+          "url": "https://www.cls.cn/detail/2396599",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "以媒：以色列现阶段并未打击伊朗",
           "url": "https://flash.jin10.com/detail/20260611061750762800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：消息人士称，美国的每一次“侵略”都将遭到果断的军事回应。",
+          "url": "https://flash.jin10.com/detail/20260611074228434800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国财长贝森特宣称：美国正在破坏支持伊朗的采购网络。 绝不容忍任何对伊朗军方的支持。",
@@ -74,27 +142,15 @@
           "time_info": "01时49分"
         },
         {
-          "title": "伊朗公布最新海上损失：253艘船沉没或全毁，海员54死66伤",
-          "url": "https://news.ifeng.com/c/8tqoB26YJXf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
-        },
-        {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
         },
         {
           "title": "伊朗总统：伊朗将坚定不移抵御任何压力和威胁",
@@ -109,15 +165,16 @@
           "time_info": "[01时49分 ~ 04时06分]"
         },
         {
-          "title": "美军对伊朗发动打击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
+          "title": "伊朗Kangan港口传来多次爆炸声。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3117746",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时07分]"
         },
         {
           "title": "伊朗击落美军“阿帕奇”直升机",
@@ -137,9 +194,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗对所有船只关闭霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E8%88%B9%E5%8F%AA%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美军称没有美军舰被伊朗击中",
+          "url": "https://wallstreetcn.com/livenews/3117778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗全面关闭霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7649365955310718483/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据半岛电视台：消息人士称，伊朗部队与美国军队在波斯湾和阿曼湾水域的冲突仍在持续。",
@@ -148,9 +238,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美国副总统万斯：我们正同时与伊朗国内的温和派和极端派打交道。",
+          "url": "https://flash.jin10.com/detail/20260611073626097800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "伊朗媒体：伊朗对霍尔木兹海峡附近美国船只发起打击",
@@ -159,7 +260,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -175,13 +276,24 @@
           "time_info": "01时49分"
         },
         {
+          "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2396606",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "据伊朗媒体：霍尔木兹海峡附近的美国船只已成为伊朗武装部队导弹和无人机袭击的目标。",
           "url": "https://flash.jin10.com/detail/20260611060731719800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -203,9 +315,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美中央司令部称袭击伊朗多个目标",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%A4%9A%E4%B8%AA%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "伊朗媒体IRNA：Bandar Abbas周边的机场和空军基地传出若干次爆炸声。",
@@ -214,7 +337,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -225,7 +348,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -236,7 +359,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -269,9 +392,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部表示，武装部队将对美国在该地区的任何“侵略”行为给予“毁灭性和决定性”的回应。",
+          "url": "https://wallstreetcn.com/livenews/3117761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国能源部长赖特：并不知晓美国从伊朗运出石油的情况。",
@@ -291,7 +425,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -302,9 +436,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%AF%B9%E6%89%80%E6%9C%89%E8%88%B9%E5%8F%AA%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗阿巴斯港机场和空军基地附近传出数次爆炸声。",
@@ -313,7 +458,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -324,7 +469,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -335,7 +480,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -357,7 +502,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -368,7 +513,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -401,7 +546,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -412,7 +557,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -423,7 +568,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -445,7 +590,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -456,7 +601,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -478,9 +623,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "纳指期货跌幅扩大至1%，标普500指数期货跌0.6%。消息称，美军对伊朗的打击仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260611071926264800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国已经开始袭击伊朗。（Axios）",
@@ -489,7 +645,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -500,9 +656,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据福克斯新闻：美国官员表示，伊朗的南帕尔斯天然气田并非打击目标。",
+          "url": "https://flash.jin10.com/detail/20260611071810949800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "伊朗媒体Mehr：Asaluyeh的防空系统被激活。",
@@ -511,9 +678,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗媒体：两艘企图违法穿越霍尔木兹海峡的船只遭到打击。",
+          "url": "https://wallstreetcn.com/livenews/3117753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：武装部队将对美军在该地区的任何侵略和恶行作出毁灭性且果断的回应。",
+          "url": "https://flash.jin10.com/detail/20260611071526115800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "以色列国防部长卡茨表示，针对伊朗的行动远未结束，以色列国防军已准备好以强大得多的力度打击伊朗。（以色列i24News）",
@@ -533,7 +722,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -544,9 +733,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3117751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "外媒：以色列对伊朗发动打击",
@@ -555,9 +755,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据福克斯新闻：美国官员表示，针对伊朗的军事打击仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260611071229527800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "伊朗媒体Mehr：在Minab听到爆炸声。",
@@ -566,9 +777,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据伊朗国家电视台：阿巴斯港传出爆炸声。",
@@ -577,9 +799,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据福克斯新闻：美国官员否认与伊朗革命卫队海军之间存在任何海上冲突，尽管伊朗方面声称有此事。",
+          "url": "https://flash.jin10.com/detail/20260611071040623800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "报道：伊朗首都德黑兰西部的防空系统启动",
@@ -588,7 +821,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -599,7 +832,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         }
@@ -607,7 +840,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 38,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -617,8 +850,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
+          "url": "https://wallstreetcn.com/articles/3774340",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
         },
         {
           "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
@@ -654,16 +900,17 @@
           "time_info": "04时06分"
         },
         {
-          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
-          "url": "https://wallstreetcn.com/articles/3774340",
-          "source": "华尔街见闻",
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6
+            14,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
         },
         {
           "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
@@ -690,19 +937,6 @@
           "time_info": "[01时49分 ~ 06时46分]"
         },
         {
-          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
-        },
-        {
           "title": "特朗普称每晚从伊朗运出数百万桶石油 美能源部长称不知情",
           "url": "https://flash.jin10.com/detail/20260611011238354800",
           "source": "金十数据",
@@ -712,6 +946,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，这是世界历史上被违反得最严重的停火协议。",
+          "url": "https://flash.jin10.com/detail/20260611073815655800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗高级官员表示，特朗普关于与伊朗官员接触的“虚假说法”是为了“避免对伊朗开战而寻找的掩护”。",
+          "url": "https://flash.jin10.com/detail/20260611073512150800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据NBC新闻：美国总统特朗普本周料将会见国防工业主管，敦促防务企业提高产量。",
@@ -725,6 +981,83 @@
           "time_info": "04时06分"
         },
         {
+          "title": "伊朗高级官员否认伊朗与特朗普进行过接触。伊朗高级官员称，特朗普关于与伊朗官员接触的“虚假言论”，是为了“避免对伊战争而找的掩护”。",
+          "url": "https://wallstreetcn.com/livenews/3117771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，如果伊朗拒绝签署协议，明晚我们将把他们炸个稀巴烂。",
+          "url": "https://flash.jin10.com/detail/20260611073322329800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗方面否认特朗普声称的“与伊朗官员直接通话”",
+          "url": "https://flash.jin10.com/detail/20260611073241952800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "特朗普：美军战斗机正在伊朗领空执行任务。 已直接与伊朗官员进行过对话，伊朗请求我停止轰炸，轰炸很快就会停止。 对进一步对伊空袭持开放态度。 以色列并未参与此次对伊朗的空袭。",
+          "url": "https://wallstreetcn.com/livenews/3117762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "特朗普称与伊朗直接通话 后者要求停止轰炸",
+          "url": "https://flash.jin10.com/detail/20260611073044184800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普：我们发射了49枚战斧导弹。",
+          "url": "https://flash.jin10.com/detail/20260611072629405800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普：以色列与这次对伊朗的袭击无关。",
+          "url": "https://flash.jin10.com/detail/20260611072317222800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "特朗普：我喜欢通胀",
           "url": "https://wallstreetcn.com/livenews/3117628",
           "source": "华尔街见闻-快讯",
@@ -736,6 +1069,39 @@
           "time_info": "01时49分"
         },
         {
+          "title": "据福克斯新闻：特朗普对伊朗采取更多打击的可能性持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260611072122085800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人已经请求我停止轰炸，轰炸将很快停止。",
+          "url": "https://flash.jin10.com/detail/20260611072035807800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普：已与伊朗官员直接对话。",
+          "url": "https://flash.jin10.com/detail/20260611072001826800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "美国总统特朗普的司法部询问大型银行是否不当地关闭了客户的银行账户。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3117656",
           "source": "华尔街见闻-快讯",
@@ -745,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：美国战斗机正在伊朗上空飞行。",
+          "url": "https://flash.jin10.com/detail/20260611071950712800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "特朗普称将“非常猛烈”打击伊朗",
@@ -797,7 +1174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -830,7 +1207,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -885,7 +1262,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         }
@@ -893,7 +1270,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -902,9 +1279,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "08时07分"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -947,7 +1335,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         }
@@ -955,7 +1343,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI客户的Codex进行合作。",
@@ -964,7 +1352,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -975,7 +1363,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -989,6 +1377,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "花旗继续唱空金价",
+          "url": "https://www.douyin.com/hot/2529361",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时07分]"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时49分 ~ 08时07分]"
+        },
+        {
+          "title": "金价抹去今年全部涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
@@ -1017,36 +1459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "花旗继续唱空金价",
-          "url": "https://www.douyin.com/hot/2529361",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 06时46分]"
         }
       ]
     }
