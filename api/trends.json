@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T04:08:37.262590+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-06-19T08:05:38.783345+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
         },
         {
           "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
@@ -47,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "伊朗最高领袖：面对面谈判不意味接受敌方观点",
@@ -69,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -79,11 +90,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
         },
         {
           "title": "欧盟称解除对伊朗制裁时机未到",
@@ -104,7 +116,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -142,13 +154,24 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗最高领袖对伊美备忘录持不同意见",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AF%B9%E4%BC%8A%E7%BE%8E%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "伊朗：60天内霍尔木兹海峡过境船只免费通行",
           "url": "https://wallstreetcn.com/livenews/3121862",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -192,7 +215,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -203,7 +226,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -225,7 +248,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -236,7 +259,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -247,7 +270,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -258,9 +281,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "美特使：伊朗将邀请国际原子能机构检查其核设施",
+          "url": "https://wallstreetcn.com/livenews/3121909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "黎巴嫩媒体：伊朗代表团暂停前往日内瓦与美谈判行程",
+          "url": "https://wallstreetcn.com/livenews/3121906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -277,7 +322,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "据以色列第14频道记者：我问特朗普总统，如果以色列决定自行对伊朗发动打击，美国是否会提供防卫与协助。他说，“如果是受到挑衅，绝对会。”",
@@ -291,26 +336,16 @@
           "time_info": "02时06分"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
-        },
-        {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
           "url": "https://wallstreetcn.com/articles/3774952",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
         },
         {
           "title": "美学者：特朗普凡尔赛签约离谱至极",
@@ -320,8 +355,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
         },
         {
           "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
@@ -330,6 +365,40 @@
           "ranks": [
             9,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -359,26 +428,16 @@
           "time_info": "[02时06分 ~ 04时08分]"
         },
         {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
-          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
-          "source": "凤凰网",
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            30,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "time_info": "[02时06分 ~ 08时05分]"
         },
         {
           "title": "特朗普称预计“所有战线都将实现全面停火”",
@@ -387,7 +446,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -398,9 +457,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "特朗普否认伊朗战争暴露其权力受限",
+          "url": "https://flash.jin10.com/detail/20260619070914763800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美国总统特朗普：我们预计（中东地区）将全面停火。 期待黎巴嫩、（黎）真主党、以色列（也都）实现停火。 （美国与伊朗的）停火包括黎巴嫩、（黎）真主党、以色列。 中东国家应该允许谈判展开。",
@@ -409,7 +479,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -434,23 +504,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "特朗普在G7记者会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -475,15 +534,38 @@
           "time_info": "[02时06分 ~ 04时08分]"
         },
         {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2403938",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
+        },
+        {
+          "title": "中美股市今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260619071838638800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -506,13 +588,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
+          "url": "https://wallstreetcn.com/livenews/3121914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
+          "url": "https://wallstreetcn.com/livenews/3121912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
           "url": "https://wallstreetcn.com/livenews/3121872",
@@ -520,7 +635,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -531,7 +646,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -542,7 +657,64 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Faker拍谷歌广告血赚7个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 08时05分]"
+        },
+        {
+          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3121908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "什么！ChatGPT也要刷脸实名认证了？",
+          "url": "https://wallstreetcn.com/articles/3774954",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
+          "url": "https://flash.jin10.com/detail/20260619030734047800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         }
@@ -559,7 +731,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
         },
@@ -570,43 +742,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时08分]"
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
-          "url": "https://flash.jin10.com/detail/20260619030734047800",
-          "source": "金十数据",
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "08时05分"
         }
       ]
     },
