@@ -1,11 +1,292 @@
 {
-  "generated_at": "2026-06-25T04:26:30.468002+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-06-25T06:05:55.274702+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普评价英国潜在新首相伯纳姆：不太了解 只听说是“极端自由派”",
+          "url": "https://flash.jin10.com/detail/20260625051721074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国官员：特朗普将在补充拨款法案中纳入全年销售含更高乙醇比例汽油的相关内容。",
+          "url": "https://flash.jin10.com/detail/20260625041111417800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普回应拒签住房法案：比任何人都懂房地产 降息才是关键",
+          "url": "https://flash.jin10.com/detail/20260625051323883800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
+          "url": "https://wallstreetcn.com/livenews/3124212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "北约秘书长吕特：与美国总统特朗普的会谈情况不错。 特朗普致力于北约联盟，希望盟友们增加（军费）开支。",
+          "url": "https://wallstreetcn.com/livenews/3124252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
+          "url": "https://flash.jin10.com/detail/20260625050017014800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3124209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争权力投票毫无意义。",
+          "url": "https://flash.jin10.com/detail/20260625045743220800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：石油公司没有足够降低汽油价格；今天与石油公司进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260625045731556800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
+          "url": "https://wallstreetcn.com/livenews/3124247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3124166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
+          "url": "https://flash.jin10.com/detail/20260624235934784800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
+          "url": "https://flash.jin10.com/detail/20260625013708420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国总统特朗普：埃克森美孚、雪佛龙等公司因天然气价格飙升而受到调查。",
+          "url": "https://flash.jin10.com/detail/20260625044934072800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普批评汽油价格下跌不够快，称已命令美国司法部展开调查",
+          "url": "https://wallstreetcn.com/livenews/3124237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：对霍尔木兹海峡收费是无法让人接受的。",
+          "url": "https://wallstreetcn.com/livenews/3124236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普回应拒签住房法案：比任何人都懂房地产，降息才是关键",
+          "url": "https://wallstreetcn.com/livenews/3124235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
+          "url": "https://flash.jin10.com/detail/20260624234907236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
+          "url": "https://wallstreetcn.com/livenews/3124117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国驻意大使紧急灭火，称：特朗普与梅洛尼的冲突未破坏两国关系",
+          "url": "https://wallstreetcn.com/livenews/3124159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普称英国首相热门人选伯纳姆“可能”不会开放北海油田",
+          "url": "https://wallstreetcn.com/livenews/3124232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：北约秘书长吕特做得不错。 我往往会与吕特取得进展。 对德国、法国、西班牙感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3124229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -15,8 +296,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时05分]"
         },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
@@ -36,7 +317,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -119,13 +400,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "白宫要求美国国会山围绕伊朗和埃博拉疫情拨款876亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "伊朗外交部发言人：美国军事与干涉主义阻碍地区和平",
           "url": "https://flash.jin10.com/detail/20260625035454970800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -136,7 +428,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -154,146 +446,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
-        },
-        {
-          "title": "美国官员：特朗普将在补充拨款法案中纳入全年销售含更高乙醇比例汽油的相关内容。",
-          "url": "https://flash.jin10.com/detail/20260625041111417800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
-          "url": "https://wallstreetcn.com/livenews/3124212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
-        },
-        {
-          "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3124209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
-          "url": "https://wallstreetcn.com/livenews/3124166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
-          "url": "https://flash.jin10.com/detail/20260624235934784800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
-          "url": "https://flash.jin10.com/detail/20260625013708420800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
-          "url": "https://wallstreetcn.com/livenews/3124195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
-          "url": "https://flash.jin10.com/detail/20260624234907236800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
-          "url": "https://wallstreetcn.com/livenews/3124117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国驻意大使紧急灭火，称：特朗普与梅洛尼的冲突未破坏两国关系",
-          "url": "https://wallstreetcn.com/livenews/3124159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -307,6 +461,19 @@
           "time_info": "[00时23分 ~ 04时26分]"
         },
         {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时05分]"
+        },
+        {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
           "url": "https://wallstreetcn.com/livenews/3124140",
           "source": "华尔街见闻-快讯",
@@ -318,16 +485,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
@@ -336,7 +502,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -349,8 +515,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时05分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3124250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美光科技(MU.O)美股盘后涨超2%。",
@@ -359,7 +536,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -370,9 +547,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3124233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘后涨超14%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625044531459800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         }
       ]
     },
@@ -398,7 +608,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -409,7 +619,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -417,7 +627,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -427,8 +637,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时05分]"
+        },
+        {
+          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
@@ -454,7 +675,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -465,7 +686,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
