@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T14:41:58.718489+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-06-26T18:13:13.789270+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -193,7 +193,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -231,6 +231,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时00分 ~ 07时06分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
@@ -349,7 +360,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -365,38 +376,73 @@
           "time_info": "[02时00分 ~ 07时06分]"
         },
         {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 18时13分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "摩根大通：即使和平协议得以维持，伊朗冲突仍将影响EMEA（欧洲、中东及非洲）地区市场的市场状况。",
           "url": "https://flash.jin10.com/detail/20260626140754271800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 14时41分]"
         },
         {
           "title": "在伊华商：战争改变伊朗民众对中国的看法",
           "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 18时13分]"
+        },
+        {
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长今日与韩国外长通话，双方就地区最新局势及双边关系交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260626174318524800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "18时13分"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -468,7 +514,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普政府首次介入AI模型发布：要求OpenAI限制首批开放范围",
@@ -477,7 +523,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -504,6 +550,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时06分]"
+        },
+        {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
@@ -587,8 +644,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 18时13分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 18时13分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -603,16 +672,15 @@
           "time_info": "[10时02分 ~ 14时41分]"
         },
         {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
           "ranks": [
-            20,
             18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时02分 ~ 14时41分]"
+          "time_info": "[14时41分 ~ 18时13分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -643,18 +711,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -751,6 +808,17 @@
           "time_info": "[10时02分 ~ 14时41分]"
         },
         {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 18时13分]"
+        },
+        {
           "title": "DeepSeek大规模招聘",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -771,17 +839,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         }
       ]
     },
