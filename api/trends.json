@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T10:42:20.762510+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-06-29T15:19:59.600977+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -73,11 +73,12 @@
             13,
             14,
             15,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 15时19分]"
         },
         {
           "title": "伊朗队队长怒斥：这届世界杯是场灾难",
@@ -360,6 +361,17 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
+          "title": "伊朗公布向美军发射导弹视频",
+          "url": "https://news.ifeng.com/c/8uLjWOc0XmD",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美国官员表示，与伊朗的技术谈判预计将在谅解备忘录的各个领域继续进行，双方目前将暂时保持克制，船只可以自由通行。",
           "url": "https://flash.jin10.com/detail/20260629072439714800",
           "source": "金十数据",
@@ -369,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗称与阿曼举行了首次霍尔木兹联合委员会会议。",
+          "url": "https://wallstreetcn.com/livenews/3125912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "伊朗球员道歉 说着说着哭了",
@@ -538,11 +561,12 @@
           "url": "https://www.cls.cn/detail/2411269",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 15时19分]"
         },
         {
           "title": "特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照",
@@ -551,7 +575,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -581,8 +605,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 15时19分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -653,8 +677,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 15时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月29日（周一）上海金午盘价为886.87元/克，较国际金价(887.17元/克)，低0.3元/克",
+          "url": "https://flash.jin10.com/detail/20260629150424049800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
