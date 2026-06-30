@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T18:21:47.174893+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-06-30T21:03:25.218198+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 10时02分]"
+        },
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
@@ -60,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 21时03分]"
         },
         {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
@@ -76,6 +88,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时13分 ~ 18时21分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时03分]"
         },
         {
           "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
@@ -201,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -404,7 +416,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -435,7 +447,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -446,7 +458,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -497,6 +509,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时02分]"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时03分]"
         },
         {
           "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
@@ -560,17 +584,6 @@
           "time_info": "[04时46分 ~ 06时02分]"
         },
         {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。",
           "url": "https://flash.jin10.com/detail/20260630022028938800",
           "source": "金十数据",
@@ -604,6 +617,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "伊朗：石油和石化产品销售“得到极大便利”。",
+          "url": "https://wallstreetcn.com/livenews/3126781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "伊副外长强调船只须按“伊朗线路”通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260630034123522800",
           "source": "金十数据",
@@ -621,9 +645,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗将继续与阿曼就海峡管控问题进行会谈。",
+          "url": "https://wallstreetcn.com/livenews/3126778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗：国际原子能机构仍未获准进入受损核设施。 美国在执行谅解备忘录过程中仍存在“重大挑战”。",
+          "url": "https://wallstreetcn.com/livenews/3126775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗：当前重点是执行谅解备忘录，近期不与美国谈判",
@@ -657,12 +703,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "伊朗外交部发言人：未来几天暂无与美方会晤计划",
+          "url": "https://wallstreetcn.com/livenews/3126766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
@@ -818,9 +875,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "美股太阳能股盘前上涨，Enphase Energy涨12%，SolarEdge Technologies涨11%，Sunrun涨3.5%，Fluence Energy涨6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3126785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至3.2%。",
@@ -873,6 +941,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时03分]"
+        },
+        {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
           "url": "https://www.zhihu.com/question/2054981283089069609",
           "source": "知乎",
@@ -884,17 +964,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 06时02分]"
-        },
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -941,11 +1010,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 21时03分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
