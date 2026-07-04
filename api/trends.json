@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T22:57:17.048030+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-07-04T23:54:11.651960+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,30 @@
           "time_info": "[01时09分 ~ 04时11分]"
         },
         {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时54分]"
+        },
+        {
           "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
           "url": "https://news.ifeng.com/c/8uTvqahB2zu",
           "source": "凤凰网",
@@ -42,28 +66,38 @@
           "time_info": "[13时34分 ~ 16时18分]"
         },
         {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://wallstreetcn.com/livenews/3128945",
+          "title": "伊朗外长会晤黎真主党及哈马斯代表",
+          "url": "https://wallstreetcn.com/livenews/3128948",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时57分]"
+          "time_info": "[22时57分 ~ 23时54分]"
         },
         {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://wallstreetcn.com/livenews/3128943",
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://wallstreetcn.com/livenews/3128947",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
+          "url": "https://flash.jin10.com/detail/20260704221625100800",
+          "source": "金十数据",
           "ranks": [
             3,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时57分]"
+          "time_info": "[22时57分 ~ 23时54分]"
         },
         {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
@@ -78,28 +112,6 @@
           "time_info": "[07时54分 ~ 13时34分]"
         },
         {
-          "title": "伊朗外长会晤黎真主党及哈马斯代表",
-          "url": "https://wallstreetcn.com/livenews/3128948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://wallstreetcn.com/livenews/3128947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
           "url": "https://flash.jin10.com/detail/20260704004150306800",
           "source": "金十数据",
@@ -111,17 +123,6 @@
           "time_info": "01时10分"
         },
         {
-          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
-          "url": "https://flash.jin10.com/detail/20260704221625100800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
           "url": "https://wallstreetcn.com/livenews/3128816",
           "source": "华尔街见闻-快讯",
@@ -131,6 +132,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 23时54分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -159,17 +173,18 @@
           "time_info": "[04时11分 ~ 09时31分]"
         },
         {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128938",
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            8,
-            10
+            13,
+            17,
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 22时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 23时54分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -177,11 +192,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时54分]"
         },
         {
           "title": "伊朗称将回应违反谅解备忘录的行为",
@@ -210,18 +226,29 @@
           "time_info": "[18时47分 ~ 22时57分]"
         },
         {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            17,
-            21,
-            23
+            7,
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
+          "url": "https://flash.jin10.com/detail/20260704220954516800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -236,18 +263,6 @@
           "time_info": "[20时02分 ~ 21时23分]"
         },
         {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://flash.jin10.com/detail/20260704200114603800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时57分]"
-        },
-        {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
           "url": "https://wallstreetcn.com/livenews/3128790",
           "source": "华尔街见闻-快讯",
@@ -258,6 +273,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时58分]"
+        },
+        {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
@@ -308,6 +335,18 @@
           "time_info": "[04时11分 ~ 05时54分]"
         },
         {
+          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
+          "url": "https://flash.jin10.com/detail/20260704212154579800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 23时54分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260704161949297800",
           "source": "金十数据",
@@ -318,17 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时47分 ~ 20时02分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
-          "url": "https://flash.jin10.com/detail/20260704220954516800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -351,28 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://flash.jin10.com/detail/20260704214033656800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
-          "url": "https://flash.jin10.com/detail/20260704212154579800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -510,8 +516,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 22时57分]"
+          "appearance_count": 5,
+          "time_info": "[20时02分 ~ 23时54分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时54分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -539,15 +556,26 @@
           "time_info": "[16时18分 ~ 20时02分]"
         },
         {
-          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
-          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
           "source": "凤凰网",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时57分]"
+          "appearance_count": 5,
+          "time_info": "[20时02分 ~ 23时54分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时02分 ~ 23时54分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -588,6 +616,20 @@
           "time_info": "[04时11分 ~ 07时55分]"
         },
         {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 23时54分]"
+        },
+        {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3128798",
           "source": "华尔街见闻-快讯",
@@ -624,42 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 16时18分]"
-        },
-        {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 22时57分]"
-        },
-        {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 22时57分]"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 22时57分]"
         },
         {
           "title": "美国250周年遇上特朗普",
@@ -756,6 +762,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时34分 ~ 23时54分]"
+        },
+        {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
@@ -770,19 +789,6 @@
           "time_info": "[01时09分 ~ 09时31分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 22时57分]"
-        },
-        {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
@@ -795,6 +801,19 @@
           "time_info": "[01时09分 ~ 04时11分]"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时54分]"
+        },
+        {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
           "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
@@ -804,18 +823,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时18分 ~ 20时02分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时57分]"
         }
       ]
     },
