@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T14:16:01.051981+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-07-06T19:20:18.525594+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -62,11 +62,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 19时20分]"
         },
         {
           "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
@@ -290,7 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -372,6 +373,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "SpaceX总裁Shotwell将向特朗普账户捐赠SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3129320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
           "url": "https://flash.jin10.com/detail/20260705232235800800",
           "source": "金十数据",
@@ -397,7 +409,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -444,11 +456,23 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 19时20分]"
+        },
+        {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -591,11 +615,12 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 19时20分]"
         },
         {
           "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -624,11 +649,12 @@
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 19时20分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -691,7 +717,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         }
