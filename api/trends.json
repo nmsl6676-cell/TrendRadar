@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-08T03:31:38.505611+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-08T05:13:11.119124+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "美国恢复对伊朗石油制裁",
+          "url": "https://news.ifeng.com/c/8uZxW8JiojM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 05时13分]"
+        },
         {
           "title": "伊朗总统：我们将维护持久稳定，不接受任何违背承诺或偏离谅解备忘录的行为。",
           "url": "https://flash.jin10.com/detail/20260708030817895800",
@@ -14,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -124,9 +135,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国海军作战部长：伊朗的目标是迫使商业船只在霍尔木兹海峡航行时贴近伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20260708043509600800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "美国官员：伊朗在霍尔木兹海峡的行动完全不可接受，美方将对此作出回应。",
@@ -135,9 +157,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败",
+          "url": "https://wallstreetcn.com/livenews/3130164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "约旦外交部：我们谴责伊朗针对一艘途经霍尔木兹海峡的卡塔尔油轮发动袭击。",
@@ -157,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -179,7 +212,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -190,7 +223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -201,7 +234,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -212,7 +245,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -223,9 +256,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国终止对伊朗石油制裁豁免",
+          "url": "https://wallstreetcn.com/livenews/3130152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "市场消息：英国召见伊朗驻英临时代办，就伊朗国际电视台记者遇袭案交涉。",
@@ -245,7 +289,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -256,7 +300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -270,12 +314,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
+          "url": "https://wallstreetcn.com/livenews/3130144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3130141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -286,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -297,8 +363,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -308,8 +374,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -319,8 +385,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -328,11 +394,23 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
+        },
+        {
+          "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
+          "url": "https://flash.jin10.com/detail/20260708044045752800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -404,6 +482,79 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
+        },
+        {
+          "title": "跌个不停！美股半导体连跌第四天",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 05时13分]"
+        },
+        {
+          "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3130167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
+          "url": "https://wallstreetcn.com/livenews/3130166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
+          "url": "https://wallstreetcn.com/livenews/3130160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -413,11 +564,23 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -432,71 +595,22 @@
           "time_info": "[01时49分 ~ 03时31分]"
         },
         {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
-        },
-        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://www.toutiao.com/trending/7658530038409969718/",
           "source": "今日头条",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            24,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
-        },
-        {
-          "title": "跌个不停！美股半导体连跌第四天",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 01时50分]"
+          "time_info": "[01时49分 ~ 05时13分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
@@ -506,8 +620,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 05时13分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
@@ -520,12 +634,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时31分]"
+        },
+        {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260708042247119800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "周二（7月7日）纽约尾盘，ICE美元指数涨0.20%，报101.056点，日内交投区间为100.803-101.126点，北京时间02:49出现一波加速上涨行情。 彭博美元指数涨0.17%，报1220.95点，日内交投区间为1218.04-1221.68点。 美元兑日元跌0.01%，报162.08日元，日内交投区间为161.67-162.18日元。 欧元兑日元跌0.24%，报185.01日元；英镑兑日元跌0.24%，报216.523日元。",
+          "url": "https://wallstreetcn.com/livenews/3130150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
@@ -538,6 +674,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时31分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国国债收益率继续走高，10年期美债收益率升至四周新高，最新上涨5.4个基点，报4.533%。",
+          "url": "https://flash.jin10.com/detail/20260708025648666800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美债收益率普遍涨超6个基点，投资者紧盯波斯湾局势对油价的影响",
+          "url": "https://wallstreetcn.com/livenews/3130149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -556,23 +731,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国国债收益率继续走高，10年期美债收益率升至四周新高，最新上涨5.4个基点，报4.533%。",
-          "url": "https://flash.jin10.com/detail/20260708025648666800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
         }
       ]
     }
