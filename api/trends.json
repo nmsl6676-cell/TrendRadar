@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-08T07:44:06.315167+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-07-08T09:21:34.154302+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 73,
       "titles": [
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
           "url": "https://news.ifeng.com/c/8ua61PBRR6g",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 09时21分]"
         },
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -24,22 +25,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 09时21分]"
         },
         {
           "title": "伊朗严正警告美国",
           "url": "https://news.ifeng.com/c/8ua7AYAEnAV",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时21分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -62,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伊朗：美国恢复制裁措施违反谅解备忘录",
@@ -103,9 +117,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "伊朗总统因美军袭击提前回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "卡塔尔外交部召见伊朗副大使，抗议在霍尔木兹海峡针对卡塔尔液化天然气油轮的行为。",
@@ -136,7 +161,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -170,33 +195,48 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 07时44分]"
-        },
-        {
-          "title": "伊朗多地传出爆炸声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 09时21分]"
         },
         {
           "title": "美军称开始对伊朗发动一系列有力打击",
           "url": "https://www.toutiao.com/trending/7658946132311867455/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时21分]"
+        },
+        {
+          "title": "伊朗多地传出爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时21分]"
+        },
+        {
+          "title": "美军时隔10天再袭伊朗",
+          "url": "https://www.douyin.com/hot/2562712",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时21分]"
         },
         {
           "title": "美官员称对伊朗打击是“惩罚” 不是对等回应",
@@ -221,17 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时44分]"
-        },
-        {
-          "title": "美军时隔10天再袭伊朗",
-          "url": "https://www.douyin.com/hot/2562712",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
         },
         {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
@@ -274,7 +303,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -285,7 +314,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -329,7 +358,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -362,7 +391,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -398,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任",
+          "url": "https://wallstreetcn.com/livenews/3130256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "约旦外交部：我们谴责伊朗针对一艘途经霍尔木兹海峡的卡塔尔油轮发动袭击。",
@@ -450,7 +490,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -464,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗媒体称格什姆岛再次传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：黎巴嫩什叶派最高伊斯兰委员会副主席阿里·哈提卜会见伊朗外长阿拉格齐。",
@@ -497,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "以色列总理内塔尼亚胡：若协议实现既定目标，伊朗将获得制裁解除并借此恢复元气，但我认为目前还不会发生。",
@@ -664,6 +726,17 @@
           "time_info": "06时49分"
         },
         {
+          "title": "布伦特原油开盘涨2.8%至每桶76.20美元，美国此前空袭伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3130245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：当地消息人士称，伊朗格什姆岛和锡里克附近再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260708054613465800",
           "source": "金十数据",
@@ -719,6 +792,17 @@
           "time_info": "06时49分"
         },
         {
+          "title": "伊朗南部多地局势已恢复正常",
+          "url": "https://wallstreetcn.com/livenews/3130239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
           "url": "https://wallstreetcn.com/livenews/3130144",
           "source": "华尔街见闻-快讯",
@@ -744,7 +828,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -755,8 +839,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时49分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 09时21分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -787,11 +871,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时49分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 09时21分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -801,11 +886,12 @@
             19,
             17,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时49分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 09时21分]"
         },
         {
           "title": "法院记录显示，美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件。",
@@ -814,7 +900,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -825,7 +911,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -870,9 +956,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "内塔尼亚胡：与特朗普在伊朗问题上立场一致",
@@ -934,8 +1031,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时49分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 09时21分]"
+        },
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时21分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -963,17 +1072,6 @@
           "time_info": "[01时49分 ~ 07时44分]"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
-        },
-        {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
           "url": "https://wallstreetcn.com/articles/3776355",
           "source": "华尔街见闻",
@@ -989,11 +1087,12 @@
           "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时21分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -1075,11 +1174,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时49分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时49分 ~ 09时21分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -1106,6 +1206,19 @@
           "time_info": "[01时49分 ~ 06时49分]"
         },
         {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 09时21分]"
+        },
+        {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
@@ -1116,18 +1229,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时49分 ~ 03时31分]"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 07时44分]"
         }
       ]
     },
