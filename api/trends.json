@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T06:36:24.880871+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-07-13T07:41:20.026685+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
@@ -26,24 +26,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "伊朗最高领袖顾问：霍尔木兹海峡比“几十颗原子弹”更重要",
           "url": "https://news.ifeng.com/c/8uhmdS5DUXq",
           "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
+          "source": "澎湃新闻",
           "ranks": [
             4
           ],
@@ -69,11 +69,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
@@ -82,11 +83,12 @@
           "ranks": [
             7,
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "伊朗导弹打击中东美军目标 画面公布",
@@ -97,11 +99,12 @@
             10,
             8,
             9,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -130,37 +133,15 @@
           "time_info": "[02时45分 ~ 05时38分]"
         },
         {
-          "title": "伊朗外交部谴责美军袭击 称将坚定抵御军事侵略",
-          "url": "https://wallstreetcn.com/livenews/3132437",
+          "title": "美国否认伊朗袭击致3名美军士兵死亡",
+          "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "伊朗多地再次传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3132439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "美中央司令部：已对伊朗发动新一轮打击",
-          "url": "https://wallstreetcn.com/livenews/3132440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "time_info": "07时41分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
@@ -203,6 +184,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 04时40分]"
+        },
+        {
+          "title": "伊朗称胡齐斯坦省遭美方袭击",
+          "url": "https://flash.jin10.com/detail/20260713072000112800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
@@ -299,6 +291,18 @@
           "time_info": "[05时38分 ~ 06时36分]"
         },
         {
+          "title": "伊朗外交部谴责美军袭击 称将坚定抵御军事侵略",
+          "url": "https://wallstreetcn.com/livenews/3132437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时41分]"
+        },
+        {
           "title": "伊朗否认布什尔核电站区域遭袭",
           "url": "https://flash.jin10.com/detail/20260713035228154800",
           "source": "金十数据",
@@ -323,6 +327,18 @@
           "time_info": "[05时38分 ~ 06时36分]"
         },
         {
+          "title": "伊朗多地再次传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时41分]"
+        },
+        {
           "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗霍尔木兹甘省贾斯克市传出三声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260713051831521800",
           "source": "金十数据",
@@ -333,6 +349,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时36分]"
+        },
+        {
+          "title": "美中央司令部：已对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3132440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时41分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：今天凌晨00:30（北京时间05:00）左右，伊朗阿巴斯港和锡里克传出超过10次爆炸声。爆炸的确切地点尚不清楚。",
@@ -473,13 +501,46 @@
           "time_info": "[03时59分 ~ 04时40分]"
         },
         {
+          "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
+          "url": "https://flash.jin10.com/detail/20260713071349910800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "英国、法国、德国发表联合声明，谴责伊朗在霍尔木兹袭击船只，呼吁恢复停火和谈判。",
+          "url": "https://wallstreetcn.com/livenews/3132461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "伊朗否认布什尔核电站区域遭袭",
+          "url": "https://wallstreetcn.com/livenews/3132456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
           "url": "https://flash.jin10.com/detail/20260713055814899800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -490,9 +551,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
+          "url": "https://flash.jin10.com/detail/20260713063453673800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
+          "url": "https://wallstreetcn.com/livenews/3132442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
@@ -504,12 +587,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美军再次对伊朗实施打击",
+          "url": "https://wallstreetcn.com/livenews/3132446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "伊朗称格什姆岛军事目标遭袭",
+          "url": "https://wallstreetcn.com/livenews/3132447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -519,8 +624,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -542,8 +647,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -570,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时48分]"
+        },
+        {
+          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
+          "url": "https://wallstreetcn.com/livenews/3132448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
@@ -582,11 +698,12 @@
           "url": "https://wallstreetcn.com/livenews/3132438",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时41分]"
         },
         {
           "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
@@ -595,7 +712,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
@@ -613,8 +730,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时41分]"
         }
       ]
     }
