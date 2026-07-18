@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T01:45:53.251379+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-07-19T02:43:17.468299+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭 万人饮用水中断",
@@ -30,6 +30,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "据以色列第13频道：美国正准备通过向中东地区派遣约100架加油机，扩大对伊朗的行动范围。以色列国防机构正在为该地区可能出现的重大局势升级做准备。",
+          "url": "https://flash.jin10.com/detail/20260719021205798800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊很快将针对国家问题发布声明。",
           "url": "https://wallstreetcn.com/livenews/3136072",
           "source": "华尔街见闻-快讯",
@@ -41,15 +52,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "伊朗最高领袖在声明中恢复了伊斯兰革命时期的对美政治语言",
-          "url": "https://flash.jin10.com/detail/20260719012952659800",
-          "source": "金十数据",
+          "title": "美国中央司令部：2名美军士兵在约旦因伊朗袭击而死亡，另有1人失踪",
+          "url": "https://wallstreetcn.com/livenews/3136082",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "02时43分"
         },
         {
           "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
@@ -68,11 +79,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -80,11 +92,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗最高领袖在声明中恢复了伊斯兰革命时期的对美政治语言",
+          "url": "https://flash.jin10.com/detail/20260719012952659800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
           "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
@@ -92,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "伊朗外交部：谅解备忘录不允许美在霍尔木兹海峡开辟独立平行航线",
@@ -104,23 +130,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
-        },
-        {
-          "title": "伊朗外交部发言人：美国违反协议，造成“不可能”全面落实谅解备忘录（MoU）。 美国违反MoU期间，伊朗不会全面履行MoU提出的义务。（伊朗半官方媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3136064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
+            15,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "伊朗已停止履行伊美谅解备忘录",
@@ -130,8 +145,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国违反协议，造成“不可能”全面落实谅解备忘录（MoU）。 美国违反MoU期间，伊朗不会全面履行MoU提出的义务。（伊朗半官方媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3136064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "伊朗霍尔木兹甘省一日内遭美军三轮空袭",
@@ -139,11 +167,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "业内：随着伊朗加大对船舶的袭击力度，霍尔木兹海峡油轮面临“最坏情况”",
@@ -151,11 +180,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "卡塔尔外交部：“强烈”批评伊朗对约旦、巴林、科威特的袭击。 伊朗的袭击“公然违反”国际法。 袭击持续，意味着局势“危险升级”。 袭击将让维护安全与稳定的努力变得更加复杂。",
@@ -163,11 +193,72 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
+          "url": "https://wallstreetcn.com/livenews/3136072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "沙特谴责伊朗袭击科威特、巴林和约旦",
+          "url": "https://flash.jin10.com/detail/20260719005521318800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗最高领袖称美国露出真面目",
+          "url": "https://flash.jin10.com/detail/20260719005228630800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "科威特：伊朗袭击引发多处火灾 多名消防员受伤",
+          "url": "https://flash.jin10.com/detail/20260719003759760800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：美国既然执意挑起战火，并准备承担更加沉重的代价和更大的耻辱，就应当知道，伊朗人民和抵抗阵线已为其准备了永远无法忘记的教训。",
+          "url": "https://flash.jin10.com/detail/20260719003308865800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗最高领袖关于伊朗烈士送葬仪式的讲话，以及对国家若干重要问题的阐释，将于几分钟后发布。",
@@ -187,7 +278,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -203,15 +294,26 @@
           "time_info": "00时42分"
         },
         {
-          "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
-          "url": "https://wallstreetcn.com/livenews/3136072",
+          "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
+          "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗周六导弹袭击约旦基地 致两名美军士兵死亡",
+          "url": "https://flash.jin10.com/detail/20260719012159619800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         },
         {
           "title": "据伊朗媒体Fars News：一名伊朗安全官员警告称，若美国对伊朗基础设施发动袭击，迪拜和阿布扎比的机场以及富查伊拉和杰贝阿里港应做好疏散准备。",
@@ -225,57 +327,13 @@
           "time_info": "00时42分"
         },
         {
-          "title": "沙特谴责伊朗袭击科威特、巴林和约旦",
-          "url": "https://flash.jin10.com/detail/20260719005521318800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "伊朗最高领袖称美国露出真面目",
-          "url": "https://flash.jin10.com/detail/20260719005228630800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "科威特：伊朗袭击引发多处火灾 多名消防员受伤",
-          "url": "https://flash.jin10.com/detail/20260719003759760800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：美国既然执意挑起战火，并准备承担更加沉重的代价和更大的耻辱，就应当知道，伊朗人民和抵抗阵线已为其准备了永远无法忘记的教训。",
-          "url": "https://flash.jin10.com/detail/20260719003308865800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
           "title": "伊朗霍尔木兹甘省警告民众避免非必要道路通行",
           "url": "https://flash.jin10.com/detail/20260719002614399800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -297,7 +355,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         }
@@ -305,7 +363,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -315,41 +373,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
           "url": "https://flash.jin10.com/detail/20260719013910983800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
-          "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
-          "url": "https://flash.jin10.com/detail/20260719013642003800",
+          "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
+          "url": "https://flash.jin10.com/detail/20260719020717428800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "02时43分"
+        },
+        {
+          "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
+          "url": "https://flash.jin10.com/detail/20260719013642003800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
           "title": "据英国金融时报：特朗普将在重新调整美国对外援助政策之际，为欧洲支持“MAGA”理念的项目提供资金支持。",
           "url": "https://flash.jin10.com/detail/20260719013143451800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -359,8 +431,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -371,8 +443,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -380,11 +452,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -395,8 +468,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -404,11 +477,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
+          "url": "https://flash.jin10.com/detail/20260719003200067800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "time_info": "[01时45分 ~ 02时43分]"
         },
         {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
@@ -417,18 +503,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
-          "url": "https://flash.jin10.com/detail/20260719003200067800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         }
@@ -444,11 +519,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
@@ -458,8 +534,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         }
       ]
     },
@@ -475,19 +551,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         }
       ]
     },
@@ -503,8 +580,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         }
       ]
     },
@@ -518,11 +595,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时43分]"
         }
       ]
     }
