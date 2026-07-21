@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T18:12:33.756967+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-07-21T20:18:38.720331+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 20时18分]"
         },
         {
           "title": "“伊朗安全部门扣留法国2名外交人员”",
@@ -49,8 +49,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 20时18分]"
+        },
+        {
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 20时18分]"
         },
         {
           "title": "美国军方：最新一轮对伊朗的打击已结束。",
@@ -109,19 +122,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时12分]"
-        },
-        {
           "title": "据约旦国家电视台：约旦武装部队拦截了从伊朗发射的三枚导弹，目前暂无人员伤亡或财产损失报告。",
           "url": "https://flash.jin10.com/detail/20260721023211118800",
           "source": "金十数据",
@@ -131,6 +131,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫在伊斯兰堡会见伊朗内政部长",
+          "url": "https://wallstreetcn.com/livenews/3137571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "“全面战争”！伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8uvsqi231GR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 20时18分]"
         },
         {
           "title": "伊朗启动位于Bushehr核电站周边的防空系统。（MEHR）",
@@ -229,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时46分]"
-        },
-        {
-          "title": "“全面战争”！伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8uvsqi231GR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时12分]"
         },
         {
           "title": "美军称对伊朗发动新一轮打击",
@@ -353,7 +364,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -397,9 +408,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "以色列财长：以色列无意加入美国对伊朗的战争",
+          "url": "https://flash.jin10.com/detail/20260721195544413800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "伊朗军方发射多枚导弹，打击科威特境内目标Camp Arifjan（阿里夫坚军营）。（伊朗官方媒体IRIB）",
@@ -430,7 +452,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -444,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "科威特称伊朗周一袭击其发电和海水淡化厂",
+          "url": "https://wallstreetcn.com/livenews/3137549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "伊媒：伊朗南部两省传出爆炸声",
@@ -512,6 +545,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：在伊朗对美国目标发动导弹袭击后，约旦各机场已暂停所有航班。",
+          "url": "https://flash.jin10.com/detail/20260721195314019800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗锡里克附近传出爆炸声，原因不明。",
           "url": "https://flash.jin10.com/detail/20260721035212416800",
           "source": "金十数据",
@@ -573,7 +617,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -611,6 +655,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗内政部长在伊斯兰堡的第二次工作会谈中，会见了巴基斯坦总理夏巴兹·谢里夫。在首轮工作会谈中，伊朗内政部长会见了巴基斯坦陆军参谋长兼国防部队司令阿西姆·穆尼尔元帅。",
+          "url": "https://flash.jin10.com/detail/20260721193755482800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "美军称对伊朗海上封锁期间已迫使7艘商船改道",
           "url": "https://wallstreetcn.com/livenews/3137033",
           "source": "华尔街见闻-快讯",
@@ -636,7 +691,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -695,8 +750,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 20时18分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -743,6 +798,18 @@
           "time_info": "12时56分"
         },
         {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 20时18分]"
+        },
+        {
           "title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸",
           "url": "https://flash.jin10.com/detail/20260721073043061800",
           "source": "金十数据",
@@ -763,18 +830,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时12分]"
         },
         {
           "title": "特朗普政府出新招：到美国建厂铝关税打对折",
@@ -824,6 +879,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时45分]"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 20时18分]"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -884,17 +950,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时57分]"
-        },
-        {
-          "title": "西班牙，你太不给特朗普面子了",
-          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
@@ -961,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -1043,7 +1109,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -1054,8 +1120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 20时18分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -1147,11 +1213,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 20时18分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -1180,6 +1247,18 @@
           "time_info": "[04时58分 ~ 06时45分]"
         },
         {
+          "title": "美股盘前三大股指期货齐涨",
+          "url": "https://www.douyin.com/hot/2579826",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时18分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
           "url": "https://wallstreetcn.com/livenews/3137072",
           "source": "华尔街见闻-快讯",
@@ -1192,15 +1271,26 @@
           "time_info": "[04时58分 ~ 05时57分]"
         },
         {
-          "title": "美股盘前三大股指期货齐涨",
-          "url": "https://www.douyin.com/hot/2579826",
-          "source": "抖音",
+          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "20时18分"
+        },
+        {
+          "title": "嘉信理财第二季度净新增资产1187亿美元，预期1111.3亿美元。 第二季度调整后每股收益为1.62美元，预期1.55美元。 第二季度净营收为70.7亿美元，预期69.2亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3137565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
@@ -1247,6 +1337,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "汇丰策略师称，目前很难判断亚洲市场的降杠杆和散户抛售何时结束，尽管芯片股的技术面信号正进一步接近超卖区间，但尚未跌至极低水平。 在配置上，更看好欧洲股票、标普500等权重指数成份股以及美股科技七巨头，而非美国芯片股。",
           "url": "https://wallstreetcn.com/livenews/3137005",
           "source": "华尔街见闻-快讯",
@@ -1256,6 +1357,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前小幅走低，现跌0.58%。",
+          "url": "https://flash.jin10.com/detail/20260721193857975800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3137535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
@@ -1309,11 +1432,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 20时18分]"
         },
         {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
@@ -1322,9 +1446,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时18分]"
         }
       ]
     },
@@ -1345,17 +1469,6 @@
           "time_info": "[09时20分 ~ 15时26分]"
         },
         {
-          "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
-          "url": "https://flash.jin10.com/detail/20260721180223434800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
@@ -1365,8 +1478,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 20时18分]"
+        },
+        {
+          "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
+          "url": "https://flash.jin10.com/detail/20260721180223434800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -1485,11 +1609,12 @@
           "ranks": [
             6,
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 20时18分]"
         }
       ]
     },
