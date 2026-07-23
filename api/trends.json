@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T05:54:29.023451+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-07-24T06:44:38.609680+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "据德黑兰时报：英国外交人员撤离德黑兰是美方施压伊朗的“心理战”。德国大使认为，因为英国把伊朗革命卫队列为威胁后，伊朗可能会驱逐英国外交官，所以英国提前撤离人员避免被动。",
@@ -41,6 +41,18 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2063259853338972886",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 06时44分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：科威特发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260724000347028800",
           "source": "金十数据",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2063259853338972886",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 05时54分]"
         },
         {
           "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
@@ -88,6 +88,29 @@
           "time_info": "[00时23分 ~ 02时06分]"
         },
         {
+          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
+          "url": "https://wallstreetcn.com/livenews/3139062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
+        },
+        {
+          "title": "伊朗卫生部：6月27日以来美国袭击已致55人死亡",
+          "url": "https://wallstreetcn.com/livenews/3139087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "伊朗外交部发言人：海湾合作委员会成员国应就参与对伊朗军事行动作出回应。",
           "url": "https://flash.jin10.com/detail/20260724035435850800",
           "source": "金十数据",
@@ -97,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
+          "url": "https://wallstreetcn.com/livenews/3139085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社： 一艘隶属于伊朗船队的油轮几分钟前无视美国声称的封锁，从公海进入了阿曼海。",
@@ -209,17 +243,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
-          "url": "https://wallstreetcn.com/livenews/3139062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
           "title": "伊朗外交部：伊朗外交部长阿拉格奇抵达吉尔吉斯斯坦乔尔蓬阿塔市。",
           "url": "https://flash.jin10.com/detail/20260724032825551800",
           "source": "金十数据",
@@ -270,7 +293,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -311,7 +334,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -321,8 +344,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
         },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
@@ -336,17 +371,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
-          "url": "https://flash.jin10.com/detail/20260724051248877800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
           "url": "https://wallstreetcn.com/livenews/3139045",
           "source": "华尔街见闻-快讯",
@@ -358,16 +382,15 @@
           "time_info": "04时06分"
         },
         {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普宣称：船只的损失将由“伊朗资金”来赔偿。 货物损失将用（美国方借制裁而扣留的）伊朗的钱来赔偿。 这些损失可能非常巨大。 这样做是公平的。",
+          "url": "https://wallstreetcn.com/livenews/3139088",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -375,11 +398,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 06时44分]"
+        },
+        {
+          "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
+          "url": "https://flash.jin10.com/detail/20260724051248877800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -391,6 +427,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时06分]"
+        },
+        {
+          "title": "特朗普：将用伊朗资金赔付船只及货物损失",
+          "url": "https://flash.jin10.com/detail/20260724060544831800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩",
@@ -516,6 +563,139 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3139073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
+        },
+        {
+          "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3139066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
+        },
+        {
+          "title": "英特尔美股盘后涨幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3139064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
+        },
+        {
+          "title": "摩根大通：接下来几周是美股命运关键",
+          "url": "https://www.toutiao.com/trending/7665718883323481643/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 02时06分]"
+        },
+        {
+          "title": "周五亚太盘初，纳指期货涨0.3%。 目前（美股盘后），科技股英特尔涨4.5%，甲骨文涨2%，AMD涨1.4%，特斯拉反弹1.1%，美光跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3139086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3139055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "纳指科技指数收跌2%，半导体指数在美股临近结束交易时显著地收复失地",
+          "url": "https://wallstreetcn.com/livenews/3139053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -610,102 +790,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
-        },
-        {
-          "title": "摩根大通：接下来几周是美股命运关键",
-          "url": "https://www.toutiao.com/trending/7665718883323481643/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3139073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
-          "url": "https://wallstreetcn.com/livenews/3139066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "英特尔美股盘后涨幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3139064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
-          "url": "https://wallstreetcn.com/livenews/3139055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "纳指科技指数收跌2%，半导体指数在美股临近结束交易时显著地收复失地",
-          "url": "https://wallstreetcn.com/livenews/3139053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
@@ -717,8 +801,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -729,19 +813,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
-        },
-        {
-          "title": "美称欧盟对谷歌开罚单及向空客放贷之举有损贸易稳定",
-          "url": "https://flash.jin10.com/detail/20260724014043369800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -753,19 +826,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
           "url": "https://wallstreetcn.com/articles/3777748",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时44分]"
+        },
+        {
+          "title": "美称欧盟对谷歌开罚单及向空客放贷之举有损贸易稳定",
+          "url": "https://flash.jin10.com/detail/20260724014043369800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         },
         {
           "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
@@ -784,11 +869,12 @@
           "url": "https://wallstreetcn.com/livenews/3139060",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
         }
       ]
     },
@@ -796,17 +882,6 @@
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
-        {
-          "title": "金价跌2%，下探4000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3139079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
         {
           "title": "金价四连涨深圳水贝又挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
@@ -817,8 +892,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 06时44分]"
+        },
+        {
+          "title": "金价跌2%，下探4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时44分]"
         }
       ]
     },
