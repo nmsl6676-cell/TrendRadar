@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T09:26:27.072472+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-07-23T13:12:50.774487+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -115,6 +115,18 @@
           "time_info": "[00时12分 ~ 09时26分]"
         },
         {
+          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2434530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时12分]"
+        },
+        {
           "title": "美军称对伊朗发动新一轮军事打击",
           "url": "https://wallstreetcn.com/livenews/3138450",
           "source": "华尔街见闻-快讯",
@@ -139,15 +151,15 @@
           "time_info": "[00时12分 ~ 02时01分]"
         },
         {
-          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
-          "url": "https://www.cls.cn/detail/2434530",
-          "source": "财联社热门",
+          "title": "伊朗革命卫队：打击了美军位于科威特的阿里夫坚军营和多哈营地。",
+          "url": "https://flash.jin10.com/detail/20260723124538316800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
@@ -189,7 +201,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -216,6 +228,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "英国外交部说从伊朗暂时撤出工作人员",
+          "url": "https://wallstreetcn.com/livenews/3138600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：这场战争的逻辑很明确。要么所有人都承受后果，要么谁都别想置身事外。",
           "url": "https://flash.jin10.com/detail/20260723012742411800",
           "source": "金十数据",
@@ -225,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "伊朗革命卫队：袭击了科威特阿尔阿迪里营地和阿里·阿尔萨勒姆空军基地的美军。",
+          "url": "https://flash.jin10.com/detail/20260723123245002800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "美再威胁袭击伊朗基础设施 伊方回应",
@@ -332,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -365,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -376,7 +410,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -414,13 +448,24 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美军连续第12晚打击伊朗 持续5个小时",
+          "url": "https://wallstreetcn.com/livenews/3138582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "伊朗：3艘油轮通过霍尔木兹海峡受阻",
           "url": "https://flash.jin10.com/detail/20260723090037236800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -434,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗消息人士说伊朗已准备好应对美军地面入侵",
+          "url": "https://wallstreetcn.com/livenews/3138579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "科威特军方表示，空中防御系统目前正在拦截“敌对”的伊朗无人机威胁。",
@@ -480,6 +536,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美国于美东时间晚上10:30完成对伊朗的最新一轮打击。",
+          "url": "https://wallstreetcn.com/livenews/3138572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "美军称对伊朗军事目标发起新一轮打击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E7%9B%AE%E6%A0%87%E5%8F%91%E8%B5%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -505,7 +572,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -513,11 +580,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 09时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 13时12分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -527,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时12分]"
         },
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -537,9 +605,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时12分]"
         },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
@@ -551,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "谷歌A二季度分析师电话会要点总结",
@@ -581,7 +660,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -726,7 +805,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -803,8 +882,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时54分 ~ 09时26分]"
+          "appearance_count": 6,
+          "time_info": "[05时54分 ~ 13时12分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -814,8 +893,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[06时50分 ~ 13时12分]"
         },
         {
           "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
@@ -992,7 +1071,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -1016,8 +1095,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时52分 ~ 09时26分]"
+          "appearance_count": 7,
+          "time_info": "[04时52分 ~ 13时12分]"
         },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
@@ -1030,6 +1109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 09时26分]"
+        },
+        {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时12分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -1056,15 +1147,15 @@
           "time_info": "[02时01分 ~ 09时26分]"
         },
         {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "13时12分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -1100,6 +1191,18 @@
           "time_info": "[00时12分 ~ 03时12分]"
         },
         {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时12分]"
+        },
+        {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
           "url": "https://flash.jin10.com/detail/20260723061154517800",
           "source": "金十数据",
@@ -1112,26 +1215,16 @@
           "time_info": "[06时50分 ~ 07时52分]"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2063183942509754265",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时12分]"
         },
         {
           "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
@@ -1173,19 +1266,6 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 09时26分]"
-        },
-        {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
@@ -1193,6 +1273,19 @@
             5,
             2,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 13时12分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1319,18 +1412,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 09时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 13时12分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -1347,6 +1441,61 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 07时52分]"
+        },
+        {
+          "title": "DeepSeek与Kimi的突破说明了什么",
+          "url": "https://www.toutiao.com/trending/7665542730700820004/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "梁文锋 格局",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%20%E6%A0%BC%E5%B1%80&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "梁文锋四小时投资人会议实录",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "网传梁文锋四小时投资人会议内容，可靠吗？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2063491794097247085",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "梁文锋四小时投资人会议实录引热议",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
