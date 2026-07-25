@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T17:25:12.604629+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-07-25T19:02:03.189266+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -77,17 +77,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "美国总统特朗普谈与沙特的核协议：他们必须加入亚伯拉罕协议。",
           "url": "https://wallstreetcn.com/livenews/3139623",
           "source": "华尔街见闻-快讯",
@@ -111,6 +100,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时53分 ~ 09时23分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
@@ -171,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "特朗普称詹姆斯是种族主义者",
@@ -430,7 +442,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -442,8 +454,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时09分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[02时09分 ~ 19时02分]"
         },
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -453,8 +465,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 19时02分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -476,8 +488,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时02分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -487,11 +499,34 @@
             13,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 19时02分]"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://wallstreetcn.com/livenews/3139737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -518,6 +553,31 @@
           "time_info": "02时09分"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 19时02分]"
+        },
+        {
           "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3139667",
           "source": "华尔街见闻-快讯",
@@ -529,19 +589,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时51分 ~ 09时23分]"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 17时25分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -629,6 +676,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "王毅会见伊朗外长阿拉格齐",
           "url": "https://wallstreetcn.com/livenews/3139591",
           "source": "华尔街见闻-快讯",
@@ -657,7 +715,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -753,8 +811,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 19时02分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 19时02分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -770,17 +841,18 @@
           "time_info": "[02时09分 ~ 07时53分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            8,
-            2,
-            3
+            7,
+            9,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 19时02分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -803,19 +875,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时50分 ~ 06时51分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 17时25分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
@@ -917,7 +976,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -932,6 +991,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时09分 ~ 09时23分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -954,6 +1035,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "OpenAI失控中国大模型救场",
