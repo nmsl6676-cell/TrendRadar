@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T03:07:54.965247+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-07-28T05:00:38.222486+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
@@ -75,15 +75,37 @@
           "time_info": "[01时27分 ~ 03时07分]"
         },
         {
+          "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
+          "url": "https://flash.jin10.com/detail/20260728042311728800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
           "url": "https://flash.jin10.com/detail/20260728023159967800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
+          "url": "https://wallstreetcn.com/livenews/3140508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "特朗普称正与伊朗进行“良好谈判” 暗示可能会发生一些事情",
@@ -95,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
+          "url": "https://flash.jin10.com/detail/20260728041608521800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
@@ -119,6 +152,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "路透社/益普索调查显示，美国总统特朗普的总统支持率从34%上升至37%。",
+          "url": "https://flash.jin10.com/detail/20260728041016570800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "特朗普称在伊朗问题上“可能会有好事发生”，标普500指数转涨",
           "url": "https://wallstreetcn.com/livenews/3140436",
           "source": "华尔街见闻-快讯",
@@ -141,6 +185,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "路透社/益普索调查显示，69%的美国人表示美国总统特朗普并未清楚解释美国军方在伊朗的参与目标。",
+          "url": "https://flash.jin10.com/detail/20260728041006856800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "特朗普连发数十张AI图遭吐槽",
           "url": "https://www.douyin.com/hot/2586656",
           "source": "抖音",
@@ -161,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://wallstreetcn.com/livenews/3140503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "美国总统特朗普：（被问及本周美联储会议）成本正在快速下降。",
@@ -202,7 +268,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -224,7 +290,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -260,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议 否则就开打",
+          "url": "https://flash.jin10.com/detail/20260728040555206800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "美国总统特朗普：我们将利用伊朗的资金来支付霍尔木兹的损失。",
@@ -306,6 +383,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
+          "url": "https://wallstreetcn.com/livenews/3140491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
           "url": "https://flash.jin10.com/detail/20260728003026690800",
           "source": "金十数据",
@@ -317,6 +405,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美国总统特朗普：美国的汽油供应够用1000年。",
+          "url": "https://wallstreetcn.com/livenews/3140490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
           "url": "https://flash.jin10.com/detail/20260728002940114800",
           "source": "金十数据",
@@ -326,12 +425,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "美国总统特朗普宣称：目前，伊朗正与我们洽谈达成协议。 伊朗在说“求求你们，别封锁”。 我们很快就会结束伊朗的核威慑。",
+          "url": "https://wallstreetcn.com/livenews/3140489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
+          "url": "https://flash.jin10.com/detail/20260728034315449800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
+          "url": "https://wallstreetcn.com/livenews/3140484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普告知通用汽车CEO：你们做得不错。 我想要祝贺通用汽车，对该公司非常骄傲。",
+          "url": "https://wallstreetcn.com/livenews/3140482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普：让我们处理掉夏令时/冬令时问题。",
+          "url": "https://wallstreetcn.com/livenews/3140481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -341,8 +495,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "事关美国军机部署，伊朗第3次警告保加利亚",
@@ -352,8 +506,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
@@ -362,9 +516,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260728044945651800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
+          "url": "https://flash.jin10.com/detail/20260728044248647800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
@@ -374,8 +550,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
@@ -385,8 +561,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
@@ -396,8 +572,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "对伊朗停火 美国是不打了还是打不了",
@@ -405,11 +581,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            22
+            22,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
@@ -440,9 +617,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260728040942338800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
@@ -462,15 +650,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
+          "url": "https://flash.jin10.com/detail/20260728034720418800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股",
@@ -480,19 +679,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
+        },
+        {
+          "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3140513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -512,11 +723,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -524,11 +736,67 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
+        },
+        {
+          "title": "SK海力士美股股价创上市以来新低",
+          "url": "https://www.baidu.com/s?wd=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E8%82%A1%E8%82%A1%E4%BB%B7%E5%88%9B%E4%B8%8A%E5%B8%82%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E",
+          "source": "百度热搜",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "time_info": "[04时59分 ~ 05时00分]"
+        },
+        {
+          "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
+          "url": "https://wallstreetcn.com/livenews/3140509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3140506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260728040600311800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260728040558187800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -540,6 +808,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3140495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260728040127842800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         }
       ]
     },
@@ -555,8 +845,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -573,6 +863,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数27日上涨",
+          "url": "https://flash.jin10.com/detail/20260728040211375800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "周一（7月27日）纽约尾盘，ICE美元指数涨0.07%，报101.534点，日内交投区间为101.116-101.540点，整体呈现出长尾V形反转，北京时间15:00以来持续上扬。 彭博美元指数跌0.01%，报1222.37点，日内交投区间为1219.12-1222.58点。",
+          "url": "https://wallstreetcn.com/livenews/3140487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -583,7 +901,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -602,8 +920,25 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中长期美债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3140494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         }
       ]
     }
