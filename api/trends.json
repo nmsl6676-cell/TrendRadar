@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T05:54:58.452724+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-29T06:48:55.696351+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
@@ -27,8 +28,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "以色列与阿联酋秘密会晤协调应对伊朗",
@@ -42,28 +80,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
-          "url": "https://www.cls.cn/detail/2439032",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
           "url": "https://flash.jin10.com/detail/20260729011225631800",
           "source": "金十数据",
@@ -75,18 +91,48 @@
           "time_info": "01时16分"
         },
         {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
+          "title": "据CNN：一名美国官员称，初步估计显示，伊朗在此次袭击中发射的弹道导弹不超过4枚。",
+          "url": "https://flash.jin10.com/detail/20260729064359841800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            24,
-            23,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "报道称，伊朗向美国在约旦的军事基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3141213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "非正式停火告吹 伊朗今晨向美军基地发射导弹 原油大涨4%",
+          "url": "https://flash.jin10.com/detail/20260729063338334800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "有媒体报道称约旦遭遇导弹袭击，并传出爆炸声。（伊朗媒体Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3141212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
@@ -111,6 +157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时54分]"
+        },
+        {
+          "title": "美国中央司令部：美国东部时间今日下午5:45（北京时间29日清晨5:45），伊朗伊斯兰革命卫队的部队从伊朗发射了多枚弹道导弹，试图对驻中东的美军进行突袭。所有伊朗导弹均已成功拦截。美军保持警惕，处于高度戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260729062845151800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
@@ -179,6 +236,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
+          "url": "https://flash.jin10.com/detail/20260729062302266800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
           "url": "https://wallstreetcn.com/livenews/3141123",
           "source": "华尔街见闻-快讯",
@@ -212,6 +280,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "WTI原油上涨3.00%，现报80.68美元/桶。美媒消息称，伊朗向约旦的美军基地发射导弹。",
+          "url": "https://flash.jin10.com/detail/20260729062041060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "伊朗：如果阿曼拒绝我方条款，伊朗是不会承认霍尔木兹海峡南侧航线的。 如果没能达成阿曼协议，我们将继续支持（靠近伊朗边界的）我们的海峡航线。 阿曼建议的霍尔木兹海峡航线并没能化解（伊朗方面的）诸多顾虑。",
           "url": "https://wallstreetcn.com/livenews/3141147",
           "source": "华尔街见闻-快讯",
@@ -223,6 +302,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "据Axios网站：美国官员称，伊朗向约旦的一处美军基地发射了弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260729061329814800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
           "url": "https://wallstreetcn.com/livenews/3141145",
           "source": "华尔街见闻-快讯",
@@ -232,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "据伊朗Press TV：有媒体报道称约旦遭遇导弹袭击，并传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260729061228397800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "市场消息：伊朗外交部长与乌克兰外长通电话。",
@@ -311,6 +412,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "乌克兰伊朗外长就袭船事件通电话",
+          "url": "https://flash.jin10.com/detail/20260729055535836800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "MIZAN：伊朗伊斯兰革命卫队呼吁沙特阿拉伯结束对也门的封锁。",
           "url": "https://wallstreetcn.com/livenews/3141107",
           "source": "华尔街见闻-快讯",
@@ -327,6 +439,181 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时56分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 06时48分]"
+        },
+        {
+          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时48分]"
+        },
+        {
+          "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
+          "url": "https://wallstreetcn.com/livenews/3141193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时48分]"
+        },
+        {
+          "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
+          "url": "https://wallstreetcn.com/livenews/3141190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时48分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
+          "url": "https://flash.jin10.com/detail/20260729062508619800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
+          "url": "https://wallstreetcn.com/livenews/3141190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
+          "url": "https://flash.jin10.com/detail/20260729042233620800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
+          "url": "https://flash.jin10.com/detail/20260729041437595800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -488,178 +775,9 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2439316",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 04时56分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3141194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时54分]"
-        },
-        {
-          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 05时54分]"
-        },
-        {
-          "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
-          "url": "https://wallstreetcn.com/livenews/3141193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时54分]"
-        },
-        {
-          "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
-          "url": "https://wallstreetcn.com/livenews/3141190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
-          "url": "https://flash.jin10.com/detail/20260729042233620800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
-          "url": "https://wallstreetcn.com/livenews/3141190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
-          "url": "https://flash.jin10.com/detail/20260729041437595800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
-        {
-          "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
-          "url": "https://flash.jin10.com/detail/20260729053516327800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
-          "url": "https://wallstreetcn.com/livenews/3141207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
         {
           "title": "OpenAI与Anthropic要求美国帮助管理/治理AI。",
           "url": "https://wallstreetcn.com/livenews/3141130",
@@ -670,6 +788,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
+          "url": "https://flash.jin10.com/detail/20260729053516327800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时48分]"
+        },
+        {
+          "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
+          "url": "https://wallstreetcn.com/livenews/3141207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时48分]"
         },
         {
           "title": "OpenAI：我们在API中引入了两种新的转录模型，GPT-Live-Transcribe和GPT-Transcribe。这两个模型都能更好地理解上下文，并能更准确地转录真实世界的音频，涵盖各种口音和语言，包括短语、数字、专业术语以及在嘈杂背景噪音下的语音。",
@@ -776,8 +918,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时48分]"
         }
       ]
     },
@@ -790,11 +932,12 @@
           "url": "https://wallstreetcn.com/livenews/3141200",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时48分]"
         }
       ]
     }
