@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T16:57:37.622839+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-08-03T20:10:42.046730+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8vHU3Votl6y",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 20时10分]"
         },
         {
           "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
@@ -387,6 +388,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "前伊朗外长贾瓦德·扎里夫警告称，如果伊朗未能在拟议的60天谈判期内与美国达成最终协议，可能面临进一步的经济困难、国内动荡或新一轮军事打击。",
+          "url": "https://flash.jin10.com/detail/20260803194039656800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "伊朗袭击乌军基地？实为纽约大火",
           "url": "https://www.toutiao.com/trending/7669212085427339283/",
           "source": "今日头条",
@@ -404,7 +416,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -440,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹上空击落一架无人机",
+          "url": "https://www.toutiao.com/trending/7669730325030768182/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "伊朗外交部发言人：美国与地区部分势力合作，在霍尔木兹海峡强行开辟了一条南部航线，该航线并不安全。",
@@ -492,7 +515,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -514,7 +537,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -525,7 +548,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -558,7 +581,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -569,7 +592,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -580,7 +603,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -621,7 +644,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -721,6 +744,18 @@
           "time_info": "[09时26分 ~ 13时27分]"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 20时10分]"
+        },
+        {
           "title": "特朗普再称委内瑞拉为美国第51州",
           "url": "https://www.toutiao.com/trending/7669053092835524651/",
           "source": "今日头条",
@@ -738,7 +773,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -752,17 +787,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -963,6 +987,17 @@
           "time_info": "[02时50分 ~ 04时04分]"
         },
         {
+          "title": "美媒：因凡蒂诺求助特朗普保其职位",
+          "url": "https://www.toutiao.com/trending/7669763103931764251/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
           "url": "https://flash.jin10.com/detail/20260803040451593800",
           "source": "金十数据",
@@ -980,7 +1015,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1120,7 +1155,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -1171,11 +1206,12 @@
           "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 20时10分]"
         },
         {
           "title": "博主：DeepSeek给全球AI画斩杀线",
@@ -1184,15 +1220,48 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "华为半导体首席科学家大赞梁文锋",
+          "url": "https://www.toutiao.com/trending/7669025220200546330/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
@@ -1201,7 +1270,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1226,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美财政部长期拒绝调整美债发行指引，华尔街逐渐放弃期待",
+          "url": "https://flash.jin10.com/detail/20260803193537469800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "摩根大通：将美联储加息时点预期提前至12月，10年期美债收益率料在4.85%",
@@ -1253,7 +1333,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -1275,9 +1355,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "8月股票配置调整：日本以外亚洲市场有吸引力，美股......",
@@ -1286,7 +1377,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1297,7 +1388,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1305,7 +1396,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -1327,9 +1418,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 20时10分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
@@ -1341,6 +1432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
