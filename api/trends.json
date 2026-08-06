@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-06T20:49:29.324880+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-08-06T23:05:00.508864+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 35,
       "titles": [
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 23时05分]"
+        },
         {
           "title": "伊朗的最后一张牌",
           "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
@@ -19,17 +33,30 @@
           "time_info": "[01时16分 ~ 06时05分]"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6,
-            5
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 23时05分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 23时05分]"
         },
         {
           "title": "伊朗副外长：与阿曼达成协议并不意味着实施伊斯兰堡谅解备忘录第5条。",
@@ -52,18 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 20时49分]"
         },
         {
           "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
@@ -97,19 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 20时49分]"
         },
         {
           "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
@@ -321,7 +323,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -343,7 +345,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -387,7 +389,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -406,7 +408,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -465,6 +467,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
+          "title": "特朗普否认美国弹药短缺",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E7%BE%8E%E5%9B%BD%E5%BC%B9%E8%8D%AF%E7%9F%AD%E7%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "特朗普：美国有大量军火，大量军火正运往美国。",
@@ -636,7 +649,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -765,7 +778,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -806,6 +819,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 09时16分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -869,6 +893,17 @@
           "time_info": "[04时54分 ~ 06时05分]"
         },
         {
+          "title": "SpaceX涨超5%，刷新日高。 美股盘初，特斯拉与美国得州州长宣布，SpaceX在Grimes县扩建，Terafab一期项目意味着168亿美元资本开支投资，SpaceX将在Grimes县建设芯片设施。",
+          "url": "https://wallstreetcn.com/livenews/3146110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260806003157857800",
           "source": "金十数据",
@@ -911,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "疯狂补仓撑起美股反弹，专家警告：对冲抛压可能会卷土重来！",
+          "url": "https://flash.jin10.com/detail/20260806221403559800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
@@ -977,12 +1023,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "美股盘初纳指跌0.3%，存储芯片股集体大跌",
+          "url": "https://wallstreetcn.com/livenews/3146086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -994,8 +1051,36 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 23时05分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 23时05分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时52分 ~ 20时49分]"
+          "time_info": "[15时31分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek拟上调API服务定价",
@@ -1034,30 +1119,16 @@
           "time_info": "[15时31分 ~ 20时49分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            7
+            6,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时31分 ~ 20时49分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 20时49分]"
+          "time_info": "[20时49分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek拟调高API价格",
@@ -1096,15 +1167,15 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -1113,7 +1184,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1135,7 +1206,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
@@ -1143,7 +1214,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
@@ -1156,6 +1227,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 03时11分]"
+        },
+        {
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
@@ -1175,7 +1268,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1219,7 +1312,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1260,7 +1353,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -1274,6 +1367,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 07时45分]"
+        },
+        {
+          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
+          "url": "https://www.zhihu.com/question/2068662948407546390",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
@@ -1355,6 +1459,68 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数5日下跌",
+          "url": "https://flash.jin10.com/detail/20260806042740895800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 06时05分]"
+        },
+        {
+          "title": "彭博美元指数涨0.1%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3146104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。 MarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。 MarketVector数字资产100指数涨0.80%，报12794.08点。 目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。 比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
+          "url": "https://wallstreetcn.com/livenews/3145529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
+          "url": "https://wallstreetcn.com/livenews/3145571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博谷物分类指数跌0.24%，报30.9358点。 CBOT玉米期货跌1.02%，CBOT小麦期货涨0.95%。 CBOT大豆期货跌0.11%，报11.7675美元/蒲式耳，豆粕期货跌0.82%，豆油期货跌0.44%。 CBOT瘦肉猪期货跌1.51%，活牛期货涨0.67%，饲牛期货涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3145569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1367,8 +1533,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 23时05分]"
         },
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -1408,57 +1574,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20260806042740895800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 06时05分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.84%，暂报2058.54点。 MarketVectorTM数字资产100中盘指数涨0.50%，报2355.36点。 MarketVector数字资产100指数涨0.80%，报12794.08点。 目前，Solana涨0.11%，狗狗币跌0.43%，XRP跌1.07%。 比特币涨0.56%，暂报64622.03美元；以太坊涨0.92%，暂报1893.02美元。",
-          "url": "https://wallstreetcn.com/livenews/3145529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
-          "url": "https://wallstreetcn.com/livenews/3145571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "周三（8月5日）纽约尾盘，彭博谷物分类指数跌0.24%，报30.9358点。 CBOT玉米期货跌1.02%，CBOT小麦期货涨0.95%。 CBOT大豆期货跌0.11%，报11.7675美元/蒲式耳，豆粕期货跌0.82%，豆油期货跌0.44%。 CBOT瘦肉猪期货跌1.51%，活牛期货涨0.67%，饲牛期货涨0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3145569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1469,7 +1584,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
