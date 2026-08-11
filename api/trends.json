@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T03:53:28.229051+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-08-12T04:32:29.521324+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -40,6 +40,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
+          "url": "https://flash.jin10.com/detail/20260812035839670800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "据伊朗媒体FarsNews：一些消息来源报道称，沙特雇佣军在也门马里布的阵地再次发生两起爆炸。",
@@ -114,17 +139,29 @@
           "time_info": "[02时43分 ~ 03时53分]"
         },
         {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            14,
-            13
+            25,
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时32分]"
+        },
+        {
+          "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3148217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时32分]"
         },
         {
           "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
@@ -139,6 +176,30 @@
           "time_info": "[00时44分 ~ 01时46分]"
         },
         {
+          "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
+          "url": "https://flash.jin10.com/detail/20260812030956313800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时32分]"
+        },
+        {
+          "title": "伊朗将军纳赫迪：我们所有的军事武器现在都是国产的。",
+          "url": "https://flash.jin10.com/detail/20260812030920675800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时32分]"
+        },
+        {
           "title": "伊朗革命卫队发言人：今日波斯湾海域没有美国军舰部署。",
           "url": "https://wallstreetcn.com/livenews/3148164",
           "source": "华尔街见闻-快讯",
@@ -151,60 +212,16 @@
           "time_info": "[00时44分 ~ 01时46分]"
         },
         {
-          "title": "伊朗警告乌克兰不赔偿就动手",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时53分]"
-        },
-        {
-          "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
-          "url": "https://wallstreetcn.com/livenews/3148217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
-          "url": "https://flash.jin10.com/detail/20260812030956313800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊朗将军纳赫迪：我们所有的军事武器现在都是国产的。",
-          "url": "https://flash.jin10.com/detail/20260812030920675800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
           "url": "https://wallstreetcn.com/livenews/3148212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时32分]"
         },
         {
           "title": "伊朗议会国家安全和外交政策委员会主席阿齐兹：核问题是公众的关键诉求，将是谈判中的复杂部分。谈判将非常困难。",
@@ -235,7 +252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -264,6 +281,123 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
+          "url": "https://flash.jin10.com/detail/20260812040113623800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3148240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "CoreWeave二季度营收25.8亿美元，分析师预期25.6亿美元。 二季度净亏损6.26亿美元，分析师预期亏损7.571亿美元。 二季度调整后EBITDA为15.1亿美元，分析师预期14.3亿美元。 二季度运营亏损0.49亿美元，分析师预期亏损0.865亿美元。 二季度每股亏损1.14美元，分析师预期亏损1.41美元。 至6月30日，公司（订单销售）收入积压大约1040亿美元，不包括三季度超过250亿美元的（采购）承诺。 CoreWeave美股盘后跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3148239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "超微电脑第四财季净销售111.2亿美元，分析师预期112.6亿美元。 第四财季调整后每股收益（EPS）为1.70美元，分析师预期1.59美元。 预计第一财季净销售145亿-155亿美元，分析师预期119.9亿美元。 预计第一财季调整后EPS为1.01-1.10美元，分析师预期0.74美元。 超微电脑美股盘后涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3148236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "Lumentum第四财季净营收10.1亿美元，分析师预期9.90亿美元，上年同期4.807亿美元。 第四财季组件与零部件营收6.494亿美元，分析师预期6.369亿美元，上年同期3.204亿美元。 第四财季系统营收3.569亿美元，分析师预期3.504亿美元，上年同期1.603亿美元。 Lumentum美股盘后跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3148235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260812011055965800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260812010805081800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 9,
       "titles": [
@@ -276,8 +410,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -287,8 +421,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -370,70 +504,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260812011055965800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260812010805081800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -447,6 +519,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3148238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
@@ -457,6 +540,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时43分]"
+        },
+        {
+          "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260812035315552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "Brad Lightcap宣布从OpenAI离职，称：将向前看，将“尝试一些新的东西”。",
@@ -484,7 +578,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
@@ -511,6 +605,17 @@
           "time_info": "[02时43分 ~ 03时53分]"
         },
         {
+          "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3148231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
           "url": "https://flash.jin10.com/detail/20260812014236644800",
           "source": "金十数据",
@@ -524,48 +629,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数11日上涨",
-          "url": "https://flash.jin10.com/detail/20260812032920147800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
-          "url": "https://wallstreetcn.com/livenews/3148221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
-          "url": "https://wallstreetcn.com/livenews/3148179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 02时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
@@ -573,11 +638,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -590,6 +656,59 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时53分]"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时32分]"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时32分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时43分]"
         }
       ]
     },
