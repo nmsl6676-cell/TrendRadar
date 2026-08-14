@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T19:35:30.075034+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-08-14T20:36:20.782244+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -33,17 +33,6 @@
           "time_info": "[00时43分 ~ 07时30分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时35分]"
-        },
-        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -65,6 +54,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 15时04分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 20时36分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -147,6 +148,17 @@
           "time_info": "[11时18分 ~ 15时04分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 20时36分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 06时29分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 19时35分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
@@ -214,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "内塔尼亚胡选战陷困境 特朗普迟迟未表态力挺",
+          "url": "https://flash.jin10.com/detail/20260814200838358800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
@@ -437,11 +449,12 @@
           "ranks": [
             3,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -480,6 +493,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 08时54分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -542,17 +569,18 @@
           "time_info": "[00时43分 ~ 15时04分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
             9,
+            8,
             7,
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时54分 ~ 19时35分]"
+          "time_info": "[11时18分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -578,19 +606,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 06时29分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 19时35分]"
         },
         {
           "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
@@ -656,11 +671,12 @@
           "url": "https://www.zhihu.com/question/2071375581464343126",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 20时36分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -776,7 +792,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -1049,6 +1065,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3149735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "伊朗外交部再谴责美以违反国际人道法",
           "url": "https://www.toutiao.com/trending/7673372021925298182/",
           "source": "今日头条",
@@ -1230,6 +1257,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 20时36分]"
+        },
+        {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
           "url": "https://wallstreetcn.com/livenews/3149336",
           "source": "华尔街见闻-快讯",
@@ -1240,17 +1278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时30分]"
-        },
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时35分]"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -1494,11 +1521,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 20时36分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -1519,6 +1547,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "美元指数13日下跌",
+          "url": "https://flash.jin10.com/detail/20260814032112550800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
+          "url": "https://wallstreetcn.com/livenews/3149294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1552,34 +1619,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时54分 ~ 11时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260814032112550800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
-          "url": "https://wallstreetcn.com/livenews/3149294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         }
       ]
     }
